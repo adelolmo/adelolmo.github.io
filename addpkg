@@ -11,5 +11,5 @@ if [ -z $1 ]; then
         usage
 fi
 
-sudo reprepro -b . includedeb $@
+sudo reprepro --ask-passphrase -Vb . includedeb $@
 sudo chown --recursive $USER.$USER .
