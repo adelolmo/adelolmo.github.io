@@ -7,8 +7,8 @@ usage(){
     exit 1
 }
 
-if [ -z $1 ]; then
-        usage
+ if [ -z "$1" ] || [ -z "$2" ]; then
+    usage
 fi
 
 sudo reprepro -b . remove $@
