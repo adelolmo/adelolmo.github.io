@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: xenial
 Version: 16.04
-Architectures: amd64
+Architectures: amd64 i386
 Components: main
 Description: adelolmo xenial repository
 SignWith: yes
@@ -13,7 +13,7 @@ Label: adelolmo
 Suite: stable
 Codename: trusty
 Version: 14.04
-Architectures: amd64
+Architectures: amd64 i386
 Components: main
 Description: adelolmo trusty repository
 SignWith: yes
