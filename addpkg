@@ -7,9 +7,17 @@ usage(){
     exit 1
 }
 
-if [ -z $1 ]; then
-        usage
+if [ -z "$1" ] || [ -z "$2" ]; then
+    usage
 fi
+
+DISTRIBUTION=$1
+PACKAGE=$2
 
 sudo reprepro --ask-passphrase -Vb . includedeb $@
 sudo chown --recursive $USER.$USER .
+
+echo
+reprepro -b . list $DISTRIBUTION
+echo
+echo "$(basename $PACKAGE) added."
