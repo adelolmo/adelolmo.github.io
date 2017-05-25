@@ -7,9 +7,16 @@ usage(){
     exit 1
 }
 
- if [ -z "$1" ] || [ -z "$2" ]; then
+if [ -z "$1" ] || [ -z "$2" ]; then
     usage
 fi
 
+DISTRIBUTION=$1
+PACKAGE=$2
+
 sudo reprepro -b . remove $@
 sudo chown --recursive $USER.$USER .
+
+git add . > /dev/null 2>&1
+git commit -m "delete package $( basename ${PACKAGE} ) from ${DISTRIBUTION}"
+git push

@@ -21,3 +21,7 @@ echo
 reprepro -b . list $DISTRIBUTION
 echo
 echo "$(basename $PACKAGE) added."
+
+git add . > /dev/null 2>&1
+git commit -m "add package $( basename ${PACKAGE} ) to ${DISTRIBUTION}"
+git push
