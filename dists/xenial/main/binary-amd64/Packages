@@ -12,6 +12,21 @@ SHA1: fc88c5c2f5ae92591be7da090bb7a4718c73e516
 MD5sum: c6df40690d08059ddd0da9f40316b007
 Description: Send magnet links to a remote deluge server with a click
 
+Package: dex-tools
+Version: 2.0-ado1
+Architecture: all
+Recommends: oracle-java8-installer
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 2
+Priority: standard
+Section: extras
+Filename: pool/main/d/dex-tools/dex-tools_2.0-ado1_all.deb
+Size: 2327620
+SHA256: ac18107803bc5a665ecc7a4136fc3a0ee2ec25b7b674804f2f3f658d2e48babf
+SHA1: 7138ed6c93150f04f00fa851a1605dbd1486ccc9
+MD5sum: e23c3b21d682693303ba739b3e22eeb6
+Description: Tools to work with android .dex and java .class files v2.0
+
 Package: notify-mail
 Version: 1.1.1
 Architecture: amd64
