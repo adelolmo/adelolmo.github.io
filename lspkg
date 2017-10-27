@@ -1,0 +1,14 @@
+#!/bin/sh
+
+usage(){
+    echo "Usage: $(basename $0) distribution"
+    exit 1
+}
+
+if [ -z "$1" ]; then
+    usage
+fi
+
+DISTRIBUTION=$1
+
+reprepro -b . list ${DISTRIBUTION}
