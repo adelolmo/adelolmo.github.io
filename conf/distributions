@@ -27,3 +27,13 @@ Architectures: armhf
 Components: main
 Description: adelolmo debian jessie repository
 SignWith: yes
+
+Origin: Andoni del Olmo
+Label: adelolmo
+Suite: stable
+Codename: stretch
+Version: 9.0
+Architectures: armhf
+Components: main
+Description: adelolmo debian stretch repository
+SignWith: yes
