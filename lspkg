@@ -11,4 +11,4 @@ fi
 
 DISTRIBUTION=$1
 
-reprepro -b . list ${DISTRIBUTION}
+reprepro -b ${DISTRIBUTION} list ${DISTRIBUTION}

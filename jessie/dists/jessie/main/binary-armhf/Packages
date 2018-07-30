@@ -1,0 +1,43 @@
+Package: notify-mail
+Version: 1.1.1
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 3
+Priority: standard
+Section: extras
+Filename: pool/main/n/notify-mail/notify-mail_1.1.1_armhf.deb
+Size: 993436
+SHA256: 8d246e5c8f1bfed99933bf6a29e1ac5252063261f8cef38bd6fc6b0fe250c5f6
+SHA1: 9d50546687116cc14e470f6e4b779c9876363c70
+MD5sum: a925b97b30d17b8aa2602306b4f8834d
+Description: Send mail notifications
+
+Package: pimotd
+Version: 1.2.0
+Architecture: all
+Depends: figlet
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 40
+Priority: standard
+Section: misc
+Filename: pool/main/p/pimotd/pimotd_1.2.0_all.deb
+Size: 2182
+SHA256: 8ebdb1aed290a76403e3c04ee2512a7eecde43450acf5749925d49306dc60d29
+SHA1: bf1dbf893f6f3eaedfe2154d497078f72ea86437
+MD5sum: ecc33df07786083af0db2bf9cbb1ce29
+Description: Displays message of the day with actual system information.
+
+Package: tvshow-parse
+Version: 1.11.1
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 2
+Priority: standard
+Section: extras
+Filename: pool/main/t/tvshow-parse/tvshow-parse_1.11.1_armhf.deb
+Size: 558476
+SHA256: ec239739164d60d553b15c00d73fbd6a4ef751a1d79c2be0dc61c49a7cec90d2
+SHA1: d84240b76e4ae57ae414e3a213517812d2e5b70d
+MD5sum: 0af6a1328229ab1f5b823632a157f38f
+Description: Parse tv show filenames
+

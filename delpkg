@@ -14,8 +14,8 @@ fi
 DISTRIBUTION=$1
 PACKAGE=$2
 
-sudo reprepro -b . remove $@
-sudo chown --recursive $USER.$USER .
+sudo reprepro -b $DISTRIBUTION remove $@
+sudo chown --recursive $USER.$USER $DISTRIBUTION
 
 git add . > /dev/null 2>&1
 git commit -m "delete package $( basename ${PACKAGE} ) from ${DISTRIBUTION}"

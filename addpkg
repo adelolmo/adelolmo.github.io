@@ -14,11 +14,11 @@ fi
 DISTRIBUTION=$1
 PACKAGE=$2
 
-sudo reprepro --ask-passphrase -Vb . includedeb $@
-sudo chown --recursive $USER.$USER .
+sudo reprepro --ask-passphrase -Vb $DISTRIBUTION includedeb $@
+sudo chown --recursive $USER.$USER $DISTRIBUTION
 
 echo
-reprepro -b . list $DISTRIBUTION
+reprepro -b $DISTRIBUTION list $DISTRIBUTION
 echo
 echo "$(basename $PACKAGE) added."
 
