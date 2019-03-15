@@ -42,6 +42,21 @@ SHA1: 86cac5952b0d0589e8edc295ed3e603b51a06aba
 MD5sum: 1a0922ab53d85368e5ae0bedb57bdf4e
 Description: Package created with checkinstall 1.6.2
 
+Package: snapraid-runner
+Version: 1.0.0
+Architecture: all
+Depends: snapraid
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 56
+Priority: standard
+Section: extras
+Filename: pool/main/s/snapraid-runner/snapraid-runner_1.0.0_all.deb
+Size: 4520
+SHA256: 5e42414905a59bbbcf87f503d8365a4d2636fdcaba429b2f1055a84666599dcb
+SHA1: 9a23e2e55f6cfd6ecd612eed70b032e1dc3b407c
+MD5sum: b474be80ca8c21e655b4ef7eeeda6a7f
+Description: Automate SnapRAID sync
+
 Package: tvshow-parse
 Version: 1.11.1
 Architecture: armhf
