@@ -2,6 +2,8 @@
 
 This is the repository that I use for publishing application packages.
 
+List of current [packages](PACKAGES.md) in the repositories.
+
 ### Setup Repository
 
 ```markdown
