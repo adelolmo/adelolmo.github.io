@@ -17,15 +17,7 @@ PACKAGE=$2
 sudo reprepro -b $DISTRIBUTION remove $@
 sudo chown --recursive $USER.$USER $DISTRIBUTION
 
-echo "| Distribution | Component | Architecture | Package | Version |" > PACKAGES.md
-echo "| ------------ | ------ | -------- | ------- | ------- |" >> PACKAGES.md
-listDistro(){
-    reprepro -b $1 list $1 |sed 's/: /|/g;s/ /|/g' | awk '{print "|" $0 "|"}' >> PACKAGES.md
-}
-listDistro trusty
-listDistro xenial
-listDistro jessie
-listDistro stretch
+./createPackageList
 
 git add . > /dev/null 2>&1
 git commit -m "delete package $( basename ${PACKAGE} ) from ${DISTRIBUTION}"

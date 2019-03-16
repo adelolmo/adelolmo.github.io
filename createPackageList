@@ -1,0 +1,14 @@
+#!/bin/sh
+
+echo "## List of packages" > PACKAGES.md
+echo "" >> PACKAGES.md
+echo "| Distribution | Component | Architecture | Package | Version |" >> PACKAGES.md
+echo "| ------------ | ------ | -------- | ------- | ------- |" >> PACKAGES.md
+
+listDistro(){
+    reprepro -b $1 list $1 |sed 's/: /|/g;s/ /|/g' | awk '{print "|" $0 "|"}' >> PACKAGES.md
+}
+listDistro trusty
+listDistro xenial
+listDistro jessie
+listDistro stretch
