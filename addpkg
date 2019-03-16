@@ -22,15 +22,15 @@ reprepro -b $DISTRIBUTION list $DISTRIBUTION
 echo
 echo "$(basename $PACKAGE) added."
 
-echo "| Distribution | Components | Architecture | Package | Version |" > PACKAGES.md
+echo "| Distribution | Component | Architecture | Package | Version |" > PACKAGES.md
 echo "| ------------ | ------ | -------- | ------- | ------- |" >> PACKAGES.md
-show(){
-	./lspkg $1|sed 's/: /|/g;s/ /|/g' | awk '{print "|" $0 "|"}' >> PACKAGES.md
+listDistro(){
+    reprepro -b $1 list $1 |sed 's/: /|/g;s/ /|/g' | awk '{print "|" $0 "|"}' >> PACKAGES.md
 }
-show trusty
-show xenial
-show jessie
-show stretch
+listDistro trusty
+listDistro xenial
+listDistro jessie
+listDistro stretch
 
 git add . > /dev/null 2>&1
 git commit -m "add package $( basename ${PACKAGE} ) to ${DISTRIBUTION}"

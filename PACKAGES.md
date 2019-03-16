@@ -1,4 +1,4 @@
-| Distribution | Components | Architecture | Package | Version |
+| Distribution | Component | Architecture | Package | Version |
 | ------------ | ------ | -------- | ------- | ------- |
 |xenial|main|amd64|delauncher|1.3.0|
 |xenial|main|amd64|dex-tools|2.0-ado1|
