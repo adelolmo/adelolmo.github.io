@@ -17,5 +17,5 @@
 |jessie|main|armhf|notify-mail|1.2.1|
 |jessie|main|armhf|pimotd|1.2.0|
 |jessie|main|armhf|snapraid|11.3-1|
-|jessie|main|armhf|snapraid-runner|1.0.3|
+|jessie|main|armhf|snapraid-runner|1.1.0|
 |jessie|main|armhf|tvshow-parse|1.11.1|
