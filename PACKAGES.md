@@ -2,6 +2,7 @@
 
 | Distribution | Component | Architecture | Package | Version |
 | ------------ | ------ | -------- | ------- | ------- |
+|bionic|main|amd64|delauncher|1.3.1|
 |bionic|main|amd64|notify-mail|1.2.1|
 |xenial|main|amd64|delauncher|1.3.0|
 |xenial|main|amd64|dex-tools|2.0-ado1|
