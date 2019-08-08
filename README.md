@@ -22,5 +22,5 @@ sudo apt-get install apt-transport-https
 
 ```
 wget -O - http://adelolmo.github.io/andoni.delolmo@gmail.com.gpg.key | sudo apt-key add -
-echo "deb http://adelolmo.github.io/${lsb_release -cs} ${lsb_release -cs} main" | sudo tee /etc/apt/sources.list.d/adelolmo.github.io.list
+echo "deb http://adelolmo.github.io/$(lsb_release -cs) $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/adelolmo.github.io.list
 ```
