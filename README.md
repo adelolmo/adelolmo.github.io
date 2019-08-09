@@ -13,6 +13,7 @@ Current supported distributions are:
     - xenial
     - trusty
 - Debian
+    - buster
     - stretch
     - jessie
 
