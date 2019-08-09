@@ -8,14 +8,11 @@ List of current [packages](PACKAGES.md) in the repositories.
 
 Current supported distributions are:
 
-- Ubuntu
-    - bionic
-    - xenial
-    - trusty
-- Debian
-    - buster
-    - stretch
-    - jessie
+|Ubuntu|Debian|
+|------|------|
+|bionic|buster|
+|xenial|stretch|
+|trusty|jessie|
 
 ```markdown
 sudo apt-get install apt-transport-https
