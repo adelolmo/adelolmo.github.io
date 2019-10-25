@@ -12,6 +12,20 @@ SHA1: bb18da695b328093a4683464408a493c17e81619
 MD5sum: 31389c37c4cb4b201560d7ea9f9a06e7
 Description: Network-wide ads & trackers blocking DNS server
 
+Package: notify-mail
+Version: 1.2.2
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 4724
+Priority: standard
+Section: extras
+Filename: pool/main/n/notify-mail/notify-mail_1.2.2_armhf.deb
+Size: 2154996
+SHA256: 5542f18dac7aaf0d76eb816f4844db622463f970e9cc54271ee0cfd28f72538f
+SHA1: 27b91f9f6bca6232a33fb02ba7afbc170bfbcdf7
+MD5sum: 94aae7fcdc53c448c5f406f1700a1abf
+Description: Send mail notifications
+
 Package: pimotd
 Version: 1.2.0
 Architecture: all
