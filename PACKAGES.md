@@ -11,7 +11,7 @@
 |xenial|main|amd64|psp-library|1.3.1|
 |xenial|main|amd64|tvshow-parse|1.11.1|
 |xenial|main|i386|dex-tools|2.0-ado1|
-|buster|main|armhf|adguardhome|0.100.7|
+|buster|main|armhf|adguardhome|0.100.8|
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
 |stretch|main|armhf|adguardhome|0.100.8|
