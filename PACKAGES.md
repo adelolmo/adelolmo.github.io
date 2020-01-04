@@ -15,6 +15,7 @@
 |buster|main|armhf|adguardhome|0.100.8|
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
+|buster|main|armhf|snapraid|11.3-1|
 |stretch|main|armhf|adguardhome|0.100.8|
 |stretch|main|armhf|notify-mail|1.2.2|
 |stretch|main|armhf|pimotd|1.2.0|
