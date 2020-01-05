@@ -12,6 +12,21 @@ SHA1: 48a700fed2e081c4477d926ac34e767efbf8bd69
 MD5sum: 33276bfa20838eaf0f99745856ce0edf
 Description: Network-wide ads & trackers blocking DNS server
 
+Package: noimdb
+Version: 1.0.0
+Architecture: all
+Depends: openjdk-8-jre
+Installed-Size: 6264
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Priority: low
+Section: service
+Filename: pool/main/n/noimdb/noimdb_1.0.0_all.deb
+Size: 5728872
+SHA256: 8d016a20a0a25a2037faabb53bf172e26f105e1e82fbf227600470dfef3aa962
+SHA1: c4d902f3a7bdfe6875dc713aad10ce8b82013d0a
+MD5sum: 81bbc42dbf8af97e03d9803992f22f2f
+Description: Find movie titles
+
 Package: notify-mail
 Version: 1.2.2
 Architecture: armhf
