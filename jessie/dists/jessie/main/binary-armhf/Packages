@@ -12,6 +12,20 @@ SHA1: 48a700fed2e081c4477d926ac34e767efbf8bd69
 MD5sum: 33276bfa20838eaf0f99745856ce0edf
 Description: Network-wide ads & trackers blocking DNS server
 
+Package: delugecli
+Version: 1.4.1
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 6
+Priority: standard
+Section: extras
+Filename: pool/main/d/delugecli/delugecli_1.4.1_armhf.deb
+Size: 3083228
+SHA256: dc79a11c36057b781fd32996144df086af73b7e1c074893b07b123700f4ef9f1
+SHA1: d3212cdd28ba86b0bd5ddda60b62bbd1fd72258a
+MD5sum: 3831dfbb236ad0edf37cdc333e605631
+Description: Deluge CLI
+
 Package: noimdb
 Version: 1.0.0
 Architecture: all

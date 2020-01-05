@@ -28,6 +28,7 @@
 |stretch|main|armhf|snapraid-runner|1.1.0|
 |stretch|main|armhf|tvshow-parse|1.15.0|
 |jessie|main|armhf|adguardhome|0.100.8|
+|jessie|main|armhf|delugecli|1.4.1|
 |jessie|main|armhf|noimdb|1.0.0|
 |jessie|main|armhf|notify-mail|1.2.2|
 |jessie|main|armhf|pimotd|1.2.0|
