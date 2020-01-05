@@ -17,6 +17,7 @@
 |buster|main|armhf|pimotd|1.2.0|
 |buster|main|armhf|snapraid|11.3-1|
 |buster|main|armhf|snapraid-runner|1.1.0|
+|buster|main|armhf|tvshow-parse|1.15.0|
 |stretch|main|armhf|adguardhome|0.100.8|
 |stretch|main|armhf|notify-mail|1.2.2|
 |stretch|main|armhf|pimotd|1.2.0|
