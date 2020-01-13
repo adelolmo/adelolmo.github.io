@@ -23,6 +23,7 @@
 |buster|main|armhf|tvshow-parse|1.15.0|
 |stretch|main|armhf|adguardhome|0.100.8|
 |stretch|main|armhf|delugecli|1.4.1|
+|stretch|main|armhf|hd-idle|1.8|
 |stretch|main|armhf|noimdb|1.0.0|
 |stretch|main|armhf|notify-mail|1.2.2|
 |stretch|main|armhf|pimotd|1.2.0|

@@ -26,6 +26,40 @@ SHA1: d3212cdd28ba86b0bd5ddda60b62bbd1fd72258a
 MD5sum: 3831dfbb236ad0edf37cdc333e605631
 Description: Deluge CLI
 
+Package: hd-idle
+Version: 1.8
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 2079
+Homepage: https://github.com/adelolmo/hd-idle
+Priority: optional
+Section: admin
+Filename: pool/main/h/hd-idle/hd-idle_1.8_armhf.deb
+Size: 658232
+SHA256: 9d7261c75185e91a4d0de3491b1f0df12da552504ae5297b0e7cdfadbe31bb67
+SHA1: ebca3d0073fc2e5562ecb4dab138565fbdacdac4
+MD5sum: 40f7b1abd9176590b93fc7d82119ba44
+Description: Spin down idle [USB] hard disks
+ hd-idle is a utility program for spinning-down external disks after a period
+ of idle time. Since most external IDE disk enclosures don't support setting
+ the IDE idle timer, a program like hd-idle is required to spin down idle disks
+ automatically.
+ .
+ A word of caution: hard disks don't like spinning up too often. Laptop disks
+ are more robust in this respect than desktop disks but if you set your disks
+ to spin down after a few seconds you may damage the disk over time due to the
+ stress the spin-up causes on the spindle motor and bearings. It seems that
+ manufacturers recommend a minimum idle time of 3-5 minutes, the default in
+ hd-idle is 10 minutes.
+ .
+ One more word of caution: hd-idle will spin down any disk accessible via the
+ SCSI layer (USB, IEEE1394, ...) but it will not work with real SCSI disks
+ because they don't spin up automatically. Thus it's not called scsi-idle and
+ I don't recommend using it on a real SCSI system unless you have a kernel
+ patch that automatically starts the SCSI disks after receiving a sense buffer
+ indicating the disk has been stopped. Without such a patch, real SCSI disks
+ won't start again and you can as well pull the plug.
+
 Package: noimdb
 Version: 1.0.0
 Architecture: all
