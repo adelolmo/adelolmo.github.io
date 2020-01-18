@@ -12,6 +12,41 @@ SHA1: 6bba8c0439a16308a869d1fffbc08ec04418de49
 MD5sum: 6c2f05cacf15baf616a94ee6d8159f0f
 Description: Network-wide ads & trackers blocking DNS server
 
+Package: bubbleupnpserver
+Version: 0.9-5~ado1
+Architecture: all
+Maintainer: bubbleguuum <bubbleguuum@free.fr>
+Installed-Size: 56
+Depends: init-system-helpers (>= 1.18~), lsb-base (>= 4.1+Debian11ubuntu7), ffmpeg
+Homepage: https://www.bubblesoftapps.com/bubbleupnpserver
+Priority: optional
+Section: net
+Filename: pool/main/b/bubbleupnpserver/bubbleupnpserver_0.9-5~ado1_all.deb
+Size: 9469932
+SHA256: 27342ffd91f03ed7865bbbaef7ef2ffbcb5faf0123476810f38bb816790c542e
+SHA1: cb3ea3f491cd02408693f3dc299eabd6fbb95a68
+MD5sum: d62ab1ae4b7ce468c53924fc2e7f259f
+Description: BubbleUPnP Server
+ BubbleUPnP Server provides new services, many of them running on top of your
+ existing UPnP/DLNA devices:
+ .
+ - make various media formats not natively supported by Chromecast playable
+ with transcoding. Works in tandem with Android BubbleUPnP
+ - secure Internet access to your UPnP/DLNA Media Servers content with
+ Android BubbleUPnP and foobar2000:
+   - stream and download your music, video, photos with your Android
+   device from a mobile or WiFi connection with optional transcoding to reduce
+   bandwidth.
+   - no need to sync, to upload to the cloud, to register to an online
+ service
+ - create OpenHome Media Renderers from any UPnP AV renderer (provides
+ on-device playlist, multiple Control Point access to the same renderer)
+ - fix issues of UPnP/DLNA Media Servers (discovery issues, broken data,
+ add some audio DLNA compliance) by creating a proxy Media Server
+ - access your UPnP/DLNA Media Servers across different networks
+ .
+ BUBBLEUPNP SERVER IS NOT AN UPNP AV MEDIA SERVER.
+
 Package: delugecli
 Version: 1.4.1
 Architecture: armhf
