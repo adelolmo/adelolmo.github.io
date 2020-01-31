@@ -1,16 +1,17 @@
 Package: delauncher
-Version: 1.4.0
+Version: 1.5.0
 Architecture: amd64
+Depends: libnotify-bin
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 8408
 Priority: standard
 Section: extras
-Filename: pool/main/d/delauncher/delauncher_1.4.0_amd64.deb
-Size: 3636760
-SHA256: 9615434514eec7502b7ccd752fa80435237db302584b0948e2a0a53fb172b8ae
-SHA1: 5f39797aa812fc636aca61501d798c5430d3159f
-MD5sum: f544bd0fe6ffcd239d76048f0ce73f38
-Description: Send magnet links to a remote deluge server with a click
+Filename: pool/main/d/delauncher/delauncher_1.5.0_amd64.deb
+Size: 3636872
+SHA256: 769b58f1619963a22a4fb8690ddfa9464dfbf261cccbdd983ffc925b1f5a84ff
+SHA1: d81e5f2c5f18e291022156497014a10ad6a9dd7c
+MD5sum: ecb5ec3b4a0b22a4aba166b226449a64
+Description: Send magnet and torrent links to a remote deluge server
 
 Package: notify-mail
 Version: 1.2.2
