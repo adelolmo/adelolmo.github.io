@@ -16,7 +16,7 @@
 |buster|main|armhf|adguardhome|0.100.9|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado1|
 |buster|main|armhf|delugecli|1.4.1|
-|buster|main|armhf|eliterss|2.19.0|
+|buster|main|armhf|eliterss|2.20.0|
 |buster|main|armhf|hd-idle|1.8|
 |buster|main|armhf|noimdb|1.0.0|
 |buster|main|armhf|notify-mail|1.2.2|
