@@ -18,7 +18,7 @@
 |buster|main|armhf|delugecli|1.4.1|
 |buster|main|armhf|eliterss|2.20.0|
 |buster|main|armhf|hd-idle|1.8|
-|buster|main|armhf|noimdb|1.0.0|
+|buster|main|armhf|noimdb|1.1.0|
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
 |buster|main|armhf|snapraid|11.3-1|
