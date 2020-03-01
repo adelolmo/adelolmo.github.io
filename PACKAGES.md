@@ -26,7 +26,7 @@
 |buster|main|armhf|tvshow-parse|1.15.0|
 |stretch|main|armhf|adguardhome|0.100.9|
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado1|
-|stretch|main|armhf|delugecli|1.4.1|
+|stretch|main|armhf|delugecli|1.4.2|
 |stretch|main|armhf|eliterss|2.20.0|
 |stretch|main|armhf|hd-idle|1.8|
 |stretch|main|armhf|noimdb|1.1.0|
