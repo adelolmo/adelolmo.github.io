@@ -37,7 +37,7 @@
 |stretch|main|armhf|tvshow-parse|1.15.0|
 |jessie|main|armhf|adguardhome|0.100.9|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado1|
-|jessie|main|armhf|delugecli|1.4.1|
+|jessie|main|armhf|delugecli|1.4.2|
 |jessie|main|armhf|eliterss|2.20.0|
 |jessie|main|armhf|hd-idle|1.8|
 |jessie|main|armhf|noimdb|1.1.0|
