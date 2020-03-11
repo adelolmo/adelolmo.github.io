@@ -39,7 +39,7 @@
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado1|
 |jessie|main|armhf|delugecli|1.4.2|
 |jessie|main|armhf|eliterss|2.20.0|
-|jessie|main|armhf|hd-idle|1.8|
+|jessie|main|armhf|hd-idle|1.9|
 |jessie|main|armhf|noimdb|1.1.0|
 |jessie|main|armhf|notify-mail|1.2.2|
 |jessie|main|armhf|pimotd|1.2.0|
