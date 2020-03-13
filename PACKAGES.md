@@ -13,7 +13,7 @@
 |xenial|main|amd64|psp-library|1.4.0|
 |xenial|main|amd64|tvshow-parse|1.15.0|
 |xenial|main|i386|dex-tools|2.0-ado1|
-|buster|main|armhf|adguardhome|0.100.9|
+|buster|main|armhf|adguardhome|0.101.0|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado1|
 |buster|main|armhf|delugecli|1.4.2|
 |buster|main|armhf|eliterss|2.20.0|
