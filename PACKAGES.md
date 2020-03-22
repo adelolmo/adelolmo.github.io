@@ -27,7 +27,7 @@
 |stretch|main|armhf|adguardhome|0.101.0|
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado1|
 |stretch|main|armhf|delugecli|1.4.2|
-|stretch|main|armhf|eliterss|2.20.0|
+|stretch|main|armhf|eliterss|2.21.0|
 |stretch|main|armhf|hd-idle|1.9|
 |stretch|main|armhf|noimdb|1.1.0|
 |stretch|main|armhf|notify-mail|1.2.2|
