@@ -38,7 +38,7 @@
 |jessie|main|armhf|adguardhome|0.101.0|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado1|
 |jessie|main|armhf|delugecli|1.4.2|
-|jessie|main|armhf|eliterss|2.21.0|
+|jessie|main|armhf|eliterss|2.22.0|
 |jessie|main|armhf|hd-idle|1.9|
 |jessie|main|armhf|noimdb|1.1.0|
 |jessie|main|armhf|notify-mail|1.2.2|
