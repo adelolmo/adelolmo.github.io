@@ -13,7 +13,7 @@ MD5sum: 7c9d5e74c7697aeb1b53159063f47396
 Description: Network-wide ads & trackers blocking DNS server
 
 Package: bubbleupnpserver
-Version: 0.9-5~ado3
+Version: 0.9-5~ado4
 Architecture: all
 Maintainer: bubbleguuum <bubbleguuum@free.fr>
 Installed-Size: 56
@@ -21,11 +21,11 @@ Depends: init-system-helpers (>= 1.18~), lsb-base (>= 4.1+Debian11ubuntu7), ffmp
 Homepage: https://www.bubblesoftapps.com/bubbleupnpserver
 Priority: optional
 Section: net
-Filename: pool/main/b/bubbleupnpserver/bubbleupnpserver_0.9-5~ado3_all.deb
-Size: 17547412
-SHA256: 5033d3bcb6c87718232e17183642ae77c187939056af0968a58df59c523d2c46
-SHA1: 840ac23838a44b35aa5419e9dd307888bf630a84
-MD5sum: 824281bcab4d8689038c7c233e09a294
+Filename: pool/main/b/bubbleupnpserver/bubbleupnpserver_0.9-5~ado4_all.deb
+Size: 17548256
+SHA256: 9a319ab2d22654ae470acb9f5be8b1a785d85db6b9cce62964bc47110efb3f76
+SHA1: a469da82041fd003ea5c4844311c00bd4d68a483
+MD5sum: 4207aa87ca43c9811b5e21daf059c473
 Description: BubbleUPnP Server
  BubbleUPnP Server provides new services, many of them running on top of your
  existing UPnP/DLNA devices:
