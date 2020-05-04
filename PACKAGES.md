@@ -14,7 +14,7 @@
 |xenial|main|amd64|tvshow-parse|1.15.0|
 |xenial|main|i386|dex-tools|2.0-ado1|
 |buster|main|armhf|adguardhome|0.101.0|
-|buster|main|armhf|bubbleupnpserver|0.9-5~ado2|
+|buster|main|armhf|bubbleupnpserver|0.9-5~ado3|
 |buster|main|armhf|delugecli|1.4.2|
 |buster|main|armhf|eliterss|2.22.0|
 |buster|main|armhf|hd-idle|1.9|
