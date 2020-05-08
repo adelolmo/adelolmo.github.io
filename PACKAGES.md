@@ -15,6 +15,7 @@
 |xenial|main|i386|dex-tools|2.0-ado1|
 |buster|main|armhf|adguardhome|0.101.0|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
+|buster|main|armhf|create-ap|0.4.6~ado2|
 |buster|main|armhf|delugecli|1.4.2|
 |buster|main|armhf|eliterss|2.22.0|
 |buster|main|armhf|hd-idle|1.9|
