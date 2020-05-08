@@ -37,6 +37,7 @@
 |stretch|main|armhf|tvshow-parse|1.15.0|
 |jessie|main|armhf|adguardhome|0.101.0|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
+|jessie|main|armhf|create-ap|0.4.6~ado2|
 |jessie|main|armhf|delugecli|1.4.2|
 |jessie|main|armhf|eliterss|2.22.0|
 |jessie|main|armhf|hd-idle|1.9|
