@@ -37,7 +37,7 @@
 |stretch|main|armhf|snapraid|11.3-1|
 |stretch|main|armhf|snapraid-runner|1.1.0|
 |stretch|main|armhf|tvshow-parse|1.15.0|
-|jessie|main|armhf|adguardhome|0.101.0|
+|jessie|main|armhf|adguardhome|0.102.0|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |jessie|main|armhf|create-ap|0.4.6~ado2|
 |jessie|main|armhf|delugecli|1.4.2|
