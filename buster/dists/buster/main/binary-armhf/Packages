@@ -170,6 +170,22 @@ SHA1: 90ee3354a9b47b9c55d6ff4b1ad2d019eaabb80d
 MD5sum: 162040b9b22d155dd4e2fbb47402b064
 Description: Displays message of the day with actual system information.
 
+Package: sane-web-client
+Version: 1.0
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 16560
+Depends: sane-utils
+Homepage: https://github.com/adelolmo/sane-web-client
+Priority: extra
+Section: utils
+Filename: pool/main/s/sane-web-client/sane-web-client_1.0_armhf.deb
+Size: 6021460
+SHA256: d67978467a6282d1d3145073947f96c8188e3d6116f9685ccc71bc424a5f0e46
+SHA1: 916e2ea7495e7264c0dfa10f82133181d238a2d2
+MD5sum: 631ad9948b9887853070420c2f361eb6
+Description: sane-web-client - Web client for sane-utils
+
 Package: snapraid
 Installed-Size: 416
 Maintainer: root@8ba341d6a552
