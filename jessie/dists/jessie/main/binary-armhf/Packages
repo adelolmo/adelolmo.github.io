@@ -170,6 +170,22 @@ SHA1: bf1dbf893f6f3eaedfe2154d497078f72ea86437
 MD5sum: ecc33df07786083af0db2bf9cbb1ce29
 Description: Displays message of the day with actual system information.
 
+Package: rest980
+Version: 2.1.0~ado1
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 37857
+Depends: npm
+Homepage: https://github.com/adelolmo/create_ap
+Priority: optional
+Section: admin
+Filename: pool/main/r/rest980/rest980_2.1.0~ado1_armhf.deb
+Size: 4765432
+SHA256: e06bdc39125c18e05c1781d564410ad87007608c0f46233894ab567a20823592
+SHA1: f76916f138e9911a60b591061aecd290879c4419
+MD5sum: 87c7aeb08ef3efdd9ce21084eed0cd9e
+Description: dorita980 REST interface to control your iRobot Roomba 980.
+
 Package: sane-web-client
 Version: 1.0
 Architecture: armhf
