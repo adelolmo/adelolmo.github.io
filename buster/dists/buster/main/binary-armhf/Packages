@@ -63,6 +63,22 @@ SHA1: cc59f565960a85270e505efc9928d9bf4b30e7f4
 MD5sum: 650e04d9ce76051cb0e3de7cb784b3c9
 Description: Create a NATed or Bridged WiFi Access Point.
 
+Package: createap
+Version: 0.4.6~ado3
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 81
+Depends: util-linux, procps, hostapd, iproute2, iw, dnsmasq, iptables
+Homepage: https://github.com/adelolmo/create_ap
+Priority: optional
+Section: admin
+Filename: pool/main/c/createap/createap_0.4.6~ado3_armhf.deb
+Size: 17164
+SHA256: 85c0d3e23127a75a75e3dee4aa75120a7b6a8c9d44ca3d52be71660b2d7d4205
+SHA1: daa2fd39b38d62d1b18185c8bc58ea055f4ac47d
+MD5sum: af1f29b5416d7c7fe503f425d059c585
+Description: Create a NATed or Bridged WiFi Access Point.
+
 Package: delugecli
 Version: 1.4.2
 Architecture: armhf
