@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -e
 
 echo "## List of packages" > PACKAGES.md
 echo "" >> PACKAGES.md
