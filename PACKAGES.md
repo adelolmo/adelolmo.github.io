@@ -8,6 +8,7 @@
 |bionic|main|amd64|tvshow-parse|1.15.0|
 |xenial|main|amd64|delauncher|1.5.0|
 |xenial|main|amd64|dex-tools|2.0-ado1|
+|xenial|main|amd64|hd-idle|1.9|
 |xenial|main|amd64|musicdroid|1.6.1|
 |xenial|main|amd64|notify-mail|1.2.2|
 |xenial|main|amd64|psp-library|1.4.0|
