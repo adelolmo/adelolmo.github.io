@@ -15,6 +15,7 @@
 |xenial|main|amd64|psp-library|1.4.0|
 |xenial|main|amd64|tvshow-parse|1.15.0|
 |xenial|main|i386|dex-tools|2.0-ado1|
+|xenial|main|arm64|hd-idle|1.9|
 |trusty|main|amd64|hd-idle|1.9|
 |trusty|main|arm64|hd-idle|1.9|
 |buster|main|armhf|adguardhome|0.102.0|
