@@ -6,8 +6,8 @@ Label: adelolmo
 Suite: stable
 Codename: trusty
 Version: 14.04
-Date: Thu, 04 Jun 2020 17:48:42 UTC
-Architectures: amd64 i386
+Date: Fri, 05 Jun 2020 08:42:54 UTC
+Architectures: amd64 i386 arm64
 Components: main
 Description: adelolmo ubuntu trusty repository
 MD5Sum:
@@ -17,6 +17,9 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  63b27d15dd82b2cc8a1161b27b565aa4 153 main/binary-i386/Release
+ f94804b8f30e76c0661c2afb5a8a57b5 1663 main/binary-arm64/Packages
+ 9fc73b6096d884eb6063cd593b854d6f 938 main/binary-arm64/Packages.gz
+ 408997afc1d06b1765023cf3e68100cc 154 main/binary-arm64/Release
 SHA1:
  4a759709410b942db3b203689706bfef3b3e1827 1663 main/binary-amd64/Packages
  058f904c61fadd2b2584b65424d173a9ef37ac27 937 main/binary-amd64/Packages.gz
@@ -24,6 +27,9 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  ad90f821b59c1883ba70732e95a315d04613f4cc 153 main/binary-i386/Release
+ b36fb3659b79269b3885a5a71bf1582929313e08 1663 main/binary-arm64/Packages
+ f31ca65f79e0cca3ca10d5a2e43252c745a210c1 938 main/binary-arm64/Packages.gz
+ 78f43f5f478c1190f2f136b08bdfeb111aa3e110 154 main/binary-arm64/Release
 SHA256:
  ef897058b26992f25e1d9a69e21657cde854c5178a273ecabbe695304d3302bd 1663 main/binary-amd64/Packages
  8e3601dcf6efe721b62d5ab174feb3c0a44f4bb423d5beafd1da42af7520852a 937 main/binary-amd64/Packages.gz
@@ -31,14 +37,17 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  58f595822d4b15252f80433a2c57f0eb6ad22a5b3bc652b0d7ffc9b9ad99ad26 153 main/binary-i386/Release
+ e0f23c8b57dd57714a04bb22448312b333f571963dd5d023cda6a0aebd521194 1663 main/binary-arm64/Packages
+ a501c0e3ead9819afcdd949c44f62edde04d89da82c4c3b5f4cf945a8c4df607 938 main/binary-arm64/Packages.gz
+ 5783c2c5fc65fbae64747fed2c12209c11baec2dc0fd29ca940426225cc263a4 154 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAl7ZM/0ACgkQhhfXN9sG
-qB9Jkwf/Vo0ETaSJDI0e/G+5MB2iaxbnjz4DFgDHcy6QblDli+JkDxr9N2vqd16L
-xGx+ydk/GwHWHFLDNasx/2o4kVh61lW89ynZKXy6gydE5ePNAImu8UItA80KSxZY
-35FCxJk4pgXsDSYEMVTjiZLhvsQRwaFcNxDPXfftw4ZYuhuJNIU9o1jVxHbJ1x7g
-NNrb7eTmynHhdw+etoUSKgovQv3dq5kdaT+45FSjFOAHtoOtQVGxOOHuuaJTDBPa
-i13OWQ1wXx5F2ToIYvRo4469gA1A1gQxVgwNu6BQQyMXcYmoAFiGt8jfL/7C4Bgv
-NS5oeFQxXqWXAyvngISVkQyQ9TjYsw==
-=4m1Z
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAl7aBZAACgkQhhfXN9sG
+qB9Fcgf8D9SiOVW+pvmZmCQbM/kqDDlrcilBF25Vs8Ept2sBmu6plNd8hxq8F4h1
+o9CuoSNe5TV5q7XDoZwP5htae85kORLJvf7uJfwU3epXruTtHWF+Hdj+oGUZmjPZ
+K8dc0R/5aWD+xNIVPe9ICHqrZpsVsj2XZRSyIdQTFLOjRaDiW+VVQ6DWTIKSLk3C
+eKps/Bct84VrGCvVLJ1smCG1/LUo0ConFEqnms7w+0cQUVaKPwS3Z25VAR5Ibou4
+hG9Lseve2AkVLrwpGADpczJmXiC67GJ0rdRXoMdE4iqVpqVQJYgN8ME3oH4uIDBe
+qRjakWhr9/OwczcYOk0tXxPDb2yopQ==
+=bdj3
 -----END PGP SIGNATURE-----
