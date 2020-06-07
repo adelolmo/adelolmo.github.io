@@ -47,22 +47,6 @@ Description: BubbleUPnP Server
  .
  BUBBLEUPNP SERVER IS NOT AN UPNP AV MEDIA SERVER.
 
-Package: createap
-Version: 0.4.6~ado4
-Architecture: armhf
-Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 84
-Depends: util-linux, procps, hostapd, iproute2, iw, dnsmasq, iptables
-Homepage: https://github.com/adelolmo/create_ap
-Priority: optional
-Section: net
-Filename: pool/main/c/createap/createap_0.4.6~ado4_armhf.deb
-Size: 18152
-SHA256: 2ab7e8f5a587f9169371eb003d54d3a34b6314171490cf66767414d99d291ab6
-SHA1: 7a0a4d3d283a5252e346a54d0be7e9a0b4408a8e
-MD5sum: 783ee14c754f020671c889c8c0e010fe
-Description: Create a NATed or Bridged WiFi Access Point.
-
 Package: delugecli
 Version: 1.4.2
 Architecture: armhf
