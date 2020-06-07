@@ -1,24 +1,27 @@
-## Ubuntu / Debian Repository
+# Ubuntu / Debian Repository
 
 This is the repository that I use for publishing application packages.
 
 List of current [packages](PACKAGES.md) in the repositories.
 
-### Setup Repository
+## Ubuntu
 
-Current supported distributions are:
-
-|Ubuntu|Debian|
+|version|name|
 |------|------|
-|bionic|buster|
-|xenial|stretch|
-|trusty|jessie|
+|18.04|bionic|
+|16.04|xenial|
+|14.04|trusty|
 
-```markdown
-sudo apt-get install apt-transport-https
-```
+## Debian
 
-```
-wget -O - http://adelolmo.github.io/andoni.delolmo@gmail.com.gpg.key | sudo apt-key add -
-echo "deb http://adelolmo.github.io/$(lsb_release -cs) $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/adelolmo.github.io.list
-```
+|version|name|
+|------|------|
+|10|buster|
+|9|stretch|
+|8|jessie|
+
+## Setup Repository
+
+    sudo apt-get install apt-transport-https
+    wget -O - http://adelolmo.github.io/andoni.delolmo@gmail.com.gpg.key | sudo apt-key add -
+    echo "deb http://adelolmo.github.io/$(lsb_release -cs) $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/adelolmo.github.io.list
