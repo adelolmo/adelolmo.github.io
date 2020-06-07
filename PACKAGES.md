@@ -41,7 +41,6 @@
 |stretch|main|armhf|noimdb|1.1.0|
 |stretch|main|armhf|notify-mail|1.2.2|
 |stretch|main|armhf|pimotd|1.2.0|
-|stretch|main|armhf|rest980|2.1.0~ado2|
 |stretch|main|armhf|sane-web-client|1.0|
 |stretch|main|armhf|snapraid|11.3-1|
 |stretch|main|armhf|snapraid-runner|1.1.0|
