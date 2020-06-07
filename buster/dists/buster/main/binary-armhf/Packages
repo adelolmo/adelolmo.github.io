@@ -170,22 +170,6 @@ SHA1: 90ee3354a9b47b9c55d6ff4b1ad2d019eaabb80d
 MD5sum: 162040b9b22d155dd4e2fbb47402b064
 Description: Displays message of the day with actual system information.
 
-Package: rest980
-Version: 2.1.0~ado2
-Architecture: armhf
-Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 37857
-Depends: npm
-Homepage: https://github.com/adelolmo/rest980
-Priority: optional
-Section: net
-Filename: pool/main/r/rest980/rest980_2.1.0~ado2_armhf.deb
-Size: 4765872
-SHA256: bccd4d779f66edc18e0c9d3e586de7142f5a1cdf1d6ebd0e527b44fe8e9cbc19
-SHA1: fb602c03bf5a5ad96ec40bf4a82e149f00c66b3e
-MD5sum: 94400b8f533ec06bc8555ee932e76fdf
-Description: REST interface to control your iRobot Roomba 900 series 980 / i7 / i7+ via HTTP requests.
-
 Package: sane-web-client
 Version: 1.0
 Architecture: armhf
