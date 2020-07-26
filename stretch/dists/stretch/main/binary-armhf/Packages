@@ -186,22 +186,6 @@ SHA1: 5aa5799c39f6e81cba3a594346e16652d6840efb
 MD5sum: c1b186ceb106575066bc6ca90bfba8bc
 Description: REST interface to control your iRobot Roomba 900 series 980 / i7 / i7+ via HTTP requests.
 
-Package: sane-web-client
-Version: 1.1
-Architecture: armhf
-Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 8402
-Depends: sane-utils
-Homepage: https://github.com/adelolmo/sane-web-client
-Priority: extra
-Section: utils
-Filename: pool/main/s/sane-web-client/sane-web-client_1.1_armhf.deb
-Size: 2704468
-SHA256: cce0863bf8a23d7f545c8fc158f2e73a40880ce14b1f3798cc5fcef0c8cdc86e
-SHA1: 7d5398bef33b317a309ddb745d98580dbd5da1cd
-MD5sum: f0334ce832c60bb999d1e33294158f32
-Description: sane-web-client - Web client for sane-utils
-
 Package: snapraid
 Installed-Size: 416
 Maintainer: root@8ba341d6a552
