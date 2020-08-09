@@ -52,7 +52,7 @@
 |jessie|main|armhf|createap|0.4.6~ado4|
 |jessie|main|armhf|delugecli|1.4.2|
 |jessie|main|armhf|eliterss|2.22.0|
-|jessie|main|armhf|hd-idle|1.9|
+|jessie|main|armhf|hd-idle|1.10|
 |jessie|main|armhf|noimdb|1.1.0|
 |jessie|main|armhf|notify-mail|1.2.2|
 |jessie|main|armhf|pimotd|1.2.0|
