@@ -24,7 +24,7 @@
 |buster|main|armhf|createap|0.4.6~ado4|
 |buster|main|armhf|delugecli|1.4.2|
 |buster|main|armhf|eliterss|2.22.0|
-|buster|main|armhf|hd-idle|1.9|
+|buster|main|armhf|hd-idle|1.10|
 |buster|main|armhf|noimdb|1.1.0|
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
