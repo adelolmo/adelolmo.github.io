@@ -6,13 +6,13 @@ Label: adelolmo
 Suite: stable
 Codename: trusty
 Version: 14.04
-Date: Sun, 09 Aug 2020 19:06:53 UTC
+Date: Sun, 09 Aug 2020 19:08:00 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: adelolmo ubuntu trusty repository
 MD5Sum:
- 0edc77e9c8e3cca06581d2a1bd7e78a2 1663 main/binary-amd64/Packages
- f277ca71944c4956b2551fa767bf242c 937 main/binary-amd64/Packages.gz
+ ed4a36f8c80f4c4146b6fd3b700ebeac 1140 main/binary-amd64/Packages
+ 015b974b71355cca2a13b2a54aed6daa 682 main/binary-amd64/Packages.gz
  8fd3636d903dc36f95955d5954b72494 154 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
@@ -21,8 +21,8 @@ MD5Sum:
  6770c453ccb992be35cbf43939ed4f62 939 main/binary-arm64/Packages.gz
  408997afc1d06b1765023cf3e68100cc 154 main/binary-arm64/Release
 SHA1:
- 4a759709410b942db3b203689706bfef3b3e1827 1663 main/binary-amd64/Packages
- 058f904c61fadd2b2584b65424d173a9ef37ac27 937 main/binary-amd64/Packages.gz
+ 8aa74a303eff1711c244db6ea0b03cd71f042270 1140 main/binary-amd64/Packages
+ 37e7e06a91c94f930c7170b161dc5b094e49dbc2 682 main/binary-amd64/Packages.gz
  d9d08a2436142570500421d04522491d07fb1c06 154 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
@@ -31,8 +31,8 @@ SHA1:
  2a1a2814124798b3c32e47450d68f117dad53149 939 main/binary-arm64/Packages.gz
  78f43f5f478c1190f2f136b08bdfeb111aa3e110 154 main/binary-arm64/Release
 SHA256:
- ef897058b26992f25e1d9a69e21657cde854c5178a273ecabbe695304d3302bd 1663 main/binary-amd64/Packages
- 8e3601dcf6efe721b62d5ab174feb3c0a44f4bb423d5beafd1da42af7520852a 937 main/binary-amd64/Packages.gz
+ ed5ede4d079a7d0c46de7c7053484c2b29ec4d8ab23985a5800db9aa4bc0d8e5 1140 main/binary-amd64/Packages
+ 343a6a5a6a528458ddd2d0d67b5f3540b6080ff95eb0706e9afb83718fd82ad6 682 main/binary-amd64/Packages.gz
  06c3db8557252a9d4b3cf6c2ed2af736a8f3af7dc1347b21cb9b42e6fc67face 154 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
@@ -42,12 +42,12 @@ SHA256:
  5783c2c5fc65fbae64747fed2c12209c11baec2dc0fd29ca940426225cc263a4 154 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAl8wSVAACgkQhhfXN9sG
-qB8JMAf+JcSl1edx2RHn1l1J5T6uOqw2pIch6CPATcYVmFAFrg2wEsNfS5vDvVJ9
-T0UHs4ohc1PngYpDRIwYC6fM03MK2lHlEtZIgdyOxNWLdV+hHn0kJGfxFUZcmGum
-E8ILm0w/+8crnuF1XP4M909gbyObCdFSGI7cSB8BmMDvJoUhZ244azXTxKDv4DVX
-DyUL/Iy2TT94QL9eQ/m3ahdFA8hB36MPXVsQYyfrcsyWE2nTNaAG+BDpaBWqBkR3
-UeSHArboGPnYpWxbrIQDJrHPf1bbRRCK8vRtemp6hjy4nk/DIwWBRwd+Kj9nBjR8
-lF5V9mQnjD+jixRpdpR+dpkn4J/77g==
-=D+p9
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAl8wSZAACgkQhhfXN9sG
+qB9WgwgAncTWS2T7Xjujq+OGbb+XcCXRNG6jZM89bLGSecQFqkrx2Aug+ExsZscy
+yHifUtOMDFuXLyLe6UYPWEwMj0xpzDlUa/NkzHAMdX6g3VAtzRjK0EURmMCMDzno
+bQuZcyvLxO0jHOaCkt9BLWyflW3prvw+oVs/UK3W+i3i2pku6Sk9OTe4McUYqyeD
+Hfwa0hOI5ym6bIZM9MrVafsGGKRw8lvjA/dgpQJIMqu/jK4SSS0t8tbKI5AWUfHi
+3DU1qin25Kwjmd6vakRRZuLzWbhYfvFT3N9R4VZ3oyx5uDefM9QwvJfeCqqGJr5g
+03k4UylayGTC3D4f6Tn6NSiqmHrG8w==
+=ycNw
 -----END PGP SIGNATURE-----
