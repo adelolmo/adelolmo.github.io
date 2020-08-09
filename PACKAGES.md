@@ -18,7 +18,7 @@
 |xenial|main|i386|dex-tools|2.0-ado1|
 |xenial|main|arm64|hd-idle|1.9|
 |trusty|main|amd64|hd-idle|1.9|
-|trusty|main|arm64|hd-idle|1.9|
+|trusty|main|arm64|hd-idle|1.10|
 |buster|main|armhf|adguardhome|0.102.0|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |buster|main|armhf|createap|0.4.6~ado4|
