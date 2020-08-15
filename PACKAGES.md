@@ -63,3 +63,4 @@
 |jessie|main|armhf|snapraid|11.3-1|
 |jessie|main|armhf|snapraid-runner|1.1.0|
 |jessie|main|armhf|tvshow-parse|1.15.0|
+|jessie|main|arm64|hd-idle|1.10|

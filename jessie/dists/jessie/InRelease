@@ -6,30 +6,39 @@ Label: adelolmo
 Suite: stable
 Codename: jessie
 Version: 8.0
-Date: Sun, 09 Aug 2020 19:10:30 UTC
-Architectures: armhf
+Date: Sat, 15 Aug 2020 05:07:42 UTC
+Architectures: armhf arm64
 Components: main
 Description: adelolmo debian jessie repository
 MD5Sum:
  8040dc0a236f019efd4b96fc95393ad1 9003 main/binary-armhf/Packages
  aeaef5f686a6c74d56ac1075e17cd30a 3796 main/binary-armhf/Packages.gz
  f1b4543abc6a34fb8179880b61274400 152 main/binary-armhf/Release
+ 3439ac46eb15ba669d602a798be5c74b 1665 main/binary-arm64/Packages
+ 6770c453ccb992be35cbf43939ed4f62 939 main/binary-arm64/Packages.gz
+ b7d96fe4e3303dd729b41c520b15c38c 152 main/binary-arm64/Release
 SHA1:
  4f8f07867a0719be3d85f91d3c99c87d5c427b81 9003 main/binary-armhf/Packages
  ff59c79de836e4898bc1da9b2fa6ee684f1c599c 3796 main/binary-armhf/Packages.gz
  a0f34d336c1d5e6cd101a0b09f9aa4b7f6ae4752 152 main/binary-armhf/Release
+ 53317ace78b7d14fafe874d53e0680b539c961be 1665 main/binary-arm64/Packages
+ 2a1a2814124798b3c32e47450d68f117dad53149 939 main/binary-arm64/Packages.gz
+ 759edb3905e6c80c7228a97db5bb6615f27d5b67 152 main/binary-arm64/Release
 SHA256:
  04d5fd252624e10cd22aa576ff59fb729b3ea68aa66ec904727d126dc203d4e8 9003 main/binary-armhf/Packages
  c97b9e244112b9baf5e4510008b0a013c7caae6faae69a7542b6b22a8ebbd57b 3796 main/binary-armhf/Packages.gz
  d5982dfe8d6c56b162349ada5d421c382320f91f0de059a3cc78bc1250466fe5 152 main/binary-armhf/Release
+ 28b012aa3823900ce942f402de8dc65a37438a71a0f2d3ee0d292d36c625c208 1665 main/binary-arm64/Packages
+ ec2d47b8901a30ab347619e76bf5d2e4c18fe348669fab322afef56f7a5c2974 939 main/binary-arm64/Packages.gz
+ bc0679cc649b9dddc8f7097cdafd3e4a7c865aa92cd8c18b2b743ae4abafa72a 152 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAl8wSiYACgkQhhfXN9sG
-qB/AbAgAhsDN3ren/h4KDoSFRoG4Z+O46g3Ft6PBMgPz+C7FNlLprIxOKGDK5Dmc
-U2OTfkoYix/GQuMvbxZ7iu9KkxrQgL/2SNLiXZfHSwFEMYVM6YRPDusVtxNDq454
-yILBeyFj+9MXiM79uIwu8m/H8j7KNRijBUovX6M++eKER5nmYC8gTQs8XV3TAXij
-IVsl7sECUfjwJNHBJ7D8a+2j/HB504I01dOfu+KSrB92NfHTl7k4DwtiPKSS/jJi
-tpn97PMMy4YjMbu7dVx/F7Lsn949VR+c7BKSc7oJhEBjENTtpoV0Esr777axoGFC
-7ASU8wMYwfuTiUTFpZU1We3Ov9q20w==
-=c359
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAl83bZ4ACgkQhhfXN9sG
+qB9a4wf+MGg/JZpJxjbX8s19I0LR4hDlse0C//guMw4CfKmleHzQLjY1oE+Q57Pc
+S9hvZImw75AqYvoPWjeCfuxevcsi2JfVzMARD4/QnPzPt3Fn5UIokoum6ZzPTH27
+HHO5GJnlJh+T/6ewEkCKoZ8ccbttYe72D1tWB7dBMAVGS6vqsrdcTPLN40KuhOEw
+Y64wAU0fMXv8KG+HFjU1Oou0fZEFW7LY5vM7MFnoVWUU46SuBASfnaG6jJZKRIrJ
+cvshgWNzwvUBdpqu61KK/yDUKJo8dqLAVRtC+uWdqlC9sWJw2cz9I6FOgEDK0nlH
+lAWttyWLqAajRhHBLgu5yuEvyQfacw==
+=Fb/t
 -----END PGP SIGNATURE-----
