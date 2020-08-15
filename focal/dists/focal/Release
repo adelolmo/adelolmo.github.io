@@ -3,13 +3,13 @@ Label: adelolmo
 Suite: stable
 Codename: focal
 Version: 20.04
-Date: Sat, 15 Aug 2020 05:17:17 UTC
+Date: Sat, 15 Aug 2020 05:19:12 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: adelolmo ubuntu focal repository
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ ed4a36f8c80f4c4146b6fd3b700ebeac 1140 main/binary-amd64/Packages
+ 015b974b71355cca2a13b2a54aed6daa 682 main/binary-amd64/Packages.gz
  1f32ba49bc59d9839c1eca23696d7bcc 153 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
@@ -18,8 +18,8 @@ MD5Sum:
  6770c453ccb992be35cbf43939ed4f62 939 main/binary-arm64/Packages.gz
  51fc6e3816814bde5120ab2d6ffb18e7 153 main/binary-arm64/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 8aa74a303eff1711c244db6ea0b03cd71f042270 1140 main/binary-amd64/Packages
+ 37e7e06a91c94f930c7170b161dc5b094e49dbc2 682 main/binary-amd64/Packages.gz
  d3bb1c6fd57c2f00af7e3d25fad8c5fd0bb3849a 153 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
@@ -28,8 +28,8 @@ SHA1:
  2a1a2814124798b3c32e47450d68f117dad53149 939 main/binary-arm64/Packages.gz
  138910c57c06f90a28e9f31f5ffb29eb50db2eda 153 main/binary-arm64/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ ed5ede4d079a7d0c46de7c7053484c2b29ec4d8ab23985a5800db9aa4bc0d8e5 1140 main/binary-amd64/Packages
+ 343a6a5a6a528458ddd2d0d67b5f3540b6080ff95eb0706e9afb83718fd82ad6 682 main/binary-amd64/Packages.gz
  3732346bf80230a18777aa0134c53e81e34dfb8deb5ac35688e29ce973fbe993 153 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz

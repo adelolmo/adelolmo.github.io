@@ -8,6 +8,7 @@ echo "| ------------ | ------ | -------- | ------- | ------- |" >> PACKAGES.md
 listDistro(){
     reprepro -b $1 list $1 |sed 's/: /|/g;s/ /|/g' | awk '{print "|" $0 "|"}' >> PACKAGES.md
 }
+listDistro focal
 listDistro bionic
 listDistro xenial
 listDistro trusty
