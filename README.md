@@ -8,6 +8,7 @@ List of current [packages](PACKAGES.md) in the repositories.
 
 |version|name|
 |------|------|
+|20.04|focal|
 |18.04|bionic|
 |16.04|xenial|
 |14.04|trusty|
