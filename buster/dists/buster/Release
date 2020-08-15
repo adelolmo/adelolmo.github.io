@@ -3,19 +3,28 @@ Label: adelolmo
 Suite: stable
 Codename: buster
 Version: 10.0
-Date: Sun, 09 Aug 2020 19:10:47 UTC
-Architectures: armhf
+Date: Sat, 15 Aug 2020 05:07:22 UTC
+Architectures: armhf arm64
 Components: main
 Description: adelolmo debian buster repository
 MD5Sum:
  a6dc4830ef8a12742c57ea2d7e0914d5 9003 main/binary-armhf/Packages
  0695930398f7f6840d90b7feb6481755 3801 main/binary-armhf/Packages.gz
  e7373563498f612d1dc64180ecefef64 153 main/binary-armhf/Release
+ 3439ac46eb15ba669d602a798be5c74b 1665 main/binary-arm64/Packages
+ 6770c453ccb992be35cbf43939ed4f62 939 main/binary-arm64/Packages.gz
+ d491fdc38309239c478ac6c3c88cfad9 153 main/binary-arm64/Release
 SHA1:
  8125ff1d94c5e00fec94f5d2073aaa62a2397231 9003 main/binary-armhf/Packages
  eb3d9b902aae20d7090d593c21dd3d76492537bd 3801 main/binary-armhf/Packages.gz
  cf9db83fb66dc9c483b0e7fda2a09c43ba11aab7 153 main/binary-armhf/Release
+ 53317ace78b7d14fafe874d53e0680b539c961be 1665 main/binary-arm64/Packages
+ 2a1a2814124798b3c32e47450d68f117dad53149 939 main/binary-arm64/Packages.gz
+ d1e741dd8a1ba1d0b16e9b940e556527c958772f 153 main/binary-arm64/Release
 SHA256:
  62a4bafee42431418cdf272e0490676f0c799eacf28234113d914ccf50cf0cbd 9003 main/binary-armhf/Packages
  b157c636669a9e1844a29c059e047551e8f8e97ba7037317a4955e9f776508a5 3801 main/binary-armhf/Packages.gz
  b594a0269448e71cf83235bd8653d5ec701c63bdfb24b96468f5f753baad8f09 153 main/binary-armhf/Release
+ 28b012aa3823900ce942f402de8dc65a37438a71a0f2d3ee0d292d36c625c208 1665 main/binary-arm64/Packages
+ ec2d47b8901a30ab347619e76bf5d2e4c18fe348669fab322afef56f7a5c2974 939 main/binary-arm64/Packages.gz
+ 53dad87b5e6ea9a4c140d72324f1d543a2719c39e1031a6f97169937aa89fde7 153 main/binary-arm64/Release
