@@ -26,7 +26,7 @@
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |buster|main|armhf|createap|0.4.6~ado4|
 |buster|main|armhf|delugecli|1.4.2|
-|buster|main|armhf|eliterss|2.23.0|
+|buster|main|armhf|eliterss|2.24.0|
 |buster|main|armhf|hd-idle|1.10|
 |buster|main|armhf|noimdb|1.1.0|
 |buster|main|armhf|notify-mail|1.2.2|
@@ -36,7 +36,7 @@
 |buster|main|armhf|snapraid|11.3-1|
 |buster|main|armhf|snapraid-runner|1.1.0|
 |buster|main|armhf|tvshow-parse|1.15.0|
-|buster|main|arm64|eliterss|2.23.0|
+|buster|main|arm64|eliterss|2.24.0|
 |buster|main|arm64|hd-idle|1.10|
 |stretch|main|armhf|adguardhome|0.102.0|
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado4|
