@@ -42,7 +42,7 @@
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |stretch|main|armhf|createap|0.4.6~ado4|
 |stretch|main|armhf|delugecli|1.4.2|
-|stretch|main|armhf|eliterss|2.24.0|
+|stretch|main|armhf|eliterss|2.25.0|
 |stretch|main|armhf|hd-idle|1.10|
 |stretch|main|armhf|noimdb|1.1.0|
 |stretch|main|armhf|notify-mail|1.2.2|
@@ -52,7 +52,7 @@
 |stretch|main|armhf|snapraid|11.3-1|
 |stretch|main|armhf|snapraid-runner|1.1.0|
 |stretch|main|armhf|tvshow-parse|1.15.0|
-|stretch|main|arm64|eliterss|2.24.0|
+|stretch|main|arm64|eliterss|2.25.0|
 |stretch|main|arm64|hd-idle|1.10|
 |jessie|main|armhf|adguardhome|0.102.0|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
