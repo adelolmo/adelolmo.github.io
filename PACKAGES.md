@@ -54,7 +54,7 @@
 |stretch|main|armhf|tvshow-parse|1.15.0|
 |stretch|main|arm64|eliterss|2.25.0|
 |stretch|main|arm64|hd-idle|1.10|
-|jessie|main|armhf|adguardhome|0.102.0|
+|jessie|main|armhf|adguardhome|0.103.3|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |jessie|main|armhf|createap|0.4.6~ado4|
 |jessie|main|armhf|delugecli|1.4.2|
