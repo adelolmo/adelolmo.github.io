@@ -25,7 +25,7 @@
 |buster|main|armhf|adguardhome|0.103.3|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |buster|main|armhf|createap|0.4.6~ado4|
-|buster|main|armhf|delugecli|1.4.2|
+|buster|main|armhf|delugecli|1.4.3|
 |buster|main|armhf|eliterss|2.25.0|
 |buster|main|armhf|hd-idle|1.10|
 |buster|main|armhf|noimdb|1.1.0|
