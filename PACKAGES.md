@@ -57,7 +57,7 @@
 |jessie|main|armhf|adguardhome|0.103.3|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |jessie|main|armhf|createap|0.4.6~ado4|
-|jessie|main|armhf|delugecli|1.4.2|
+|jessie|main|armhf|delugecli|1.4.3|
 |jessie|main|armhf|eliterss|2.25.0|
 |jessie|main|armhf|hd-idle|1.10|
 |jessie|main|armhf|noimdb|1.1.0|
