@@ -5,6 +5,7 @@
 |focal|main|amd64|hd-idle|1.10|
 |focal|main|arm64|hd-idle|1.10|
 |focal|main|armhf|hd-idle|1.10|
+|bionic|main|amd64|delauncher|1.5.0|
 |bionic|main|amd64|hd-idle|1.10|
 |bionic|main|amd64|notify-mail|1.2.2|
 |bionic|main|amd64|psp-library|1.4.0|
