@@ -10,7 +10,6 @@
 |bionic|main|amd64|psp-library|1.4.0|
 |bionic|main|amd64|tvshow-parse|1.15.0|
 |bionic|main|arm64|hd-idle|1.10|
-|xenial|main|amd64|delauncher|1.5.0|
 |xenial|main|amd64|dex-tools|2.0-ado1|
 |xenial|main|amd64|hd-idle|1.10|
 |xenial|main|amd64|musicdroid|1.6.1|
