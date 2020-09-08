@@ -1,3 +1,18 @@
+Package: delauncher
+Version: 1.5.0
+Architecture: amd64
+Depends: libnotify-bin, libwebkit2gtk-4.0-dev
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 9604
+Priority: standard
+Section: extras
+Filename: pool/main/d/delauncher/delauncher_1.5.0_amd64.deb
+Size: 4339744
+SHA256: ba0c533b813f2bd21b5792a8c021c4dcb8b49527f58cea93470a697314e9f84d
+SHA1: 5f3fcdba3b85c53869d70c884e4caeb7a07f4361
+MD5sum: 4da14ce3028e1c552ecb80230103bd48
+Description: Send magnet and torrent links to a remote deluge server
+
 Package: hd-idle
 Version: 1.10
 Architecture: amd64
