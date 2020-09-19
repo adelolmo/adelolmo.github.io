@@ -52,14 +52,12 @@
 |stretch|main|armhf|noimdb|1.1.0|
 |stretch|main|armhf|notify-mail|1.2.2|
 |stretch|main|armhf|pimotd|1.2.0|
-|stretch|main|armhf|rest980|2.1.0~ado3|
 |stretch|main|armhf|sane-web-client|1.3|
 |stretch|main|armhf|snapraid|11.3-1|
 |stretch|main|armhf|snapraid-runner|1.1.0|
 |stretch|main|armhf|tvshow-parse|1.15.0|
 |stretch|main|arm64|eliterss|2.25.0|
 |stretch|main|arm64|hd-idle|1.10|
-|stretch|main|arm64|rest980|2.1.0~ado3|
 |jessie|main|armhf|adguardhome|0.103.3|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |jessie|main|armhf|createap|0.4.6~ado4|
