@@ -190,19 +190,19 @@ MD5sum: ecc33df07786083af0db2bf9cbb1ce29
 Description: Displays message of the day with actual system information.
 
 Package: rest980
-Version: 2.1.0~ado2
+Version: 2.1.0~ado3
 Architecture: all
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 37857
+Installed-Size: 41875
 Depends: npm
 Homepage: https://github.com/adelolmo/rest980
 Priority: optional
 Section: net
-Filename: pool/main/r/rest980/rest980_2.1.0~ado2_all.deb
-Size: 4765840
-SHA256: aa1016416790f3cbb491a071a777523fc89fd175d79bb52b2ffc7541bf9c686b
-SHA1: 5aa5799c39f6e81cba3a594346e16652d6840efb
-MD5sum: c1b186ceb106575066bc6ca90bfba8bc
+Filename: pool/main/r/rest980/rest980_2.1.0~ado3_all.deb
+Size: 5113952
+SHA256: 323974989ff48fa87945239af600fd3d3d713d0165ae5d69cc016f05b3975570
+SHA1: f04ff1d70fa9f918521eb2f585d299388db7d038
+MD5sum: f87f297184133930e90d7f0f6c325c43
 Description: REST interface to control your iRobot Roomba 900 series 980 / i7 / i7+ via HTTP requests.
 
 Package: sane-web-client
