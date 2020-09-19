@@ -34,12 +34,14 @@
 |buster|main|armhf|noimdb|1.1.0|
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
+|buster|main|armhf|rest980|2.1.0~ado3|
 |buster|main|armhf|sane-web-client|1.3|
 |buster|main|armhf|snapraid|11.3-1|
 |buster|main|armhf|snapraid-runner|1.1.0|
 |buster|main|armhf|tvshow-parse|1.15.0|
 |buster|main|arm64|eliterss|2.25.0|
 |buster|main|arm64|hd-idle|1.10|
+|buster|main|arm64|rest980|2.1.0~ado3|
 |stretch|main|armhf|adguardhome|0.103.3|
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |stretch|main|armhf|createap|0.4.6~ado4|
