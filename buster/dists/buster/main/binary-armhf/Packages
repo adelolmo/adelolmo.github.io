@@ -12,6 +12,20 @@ SHA1: 1f7e81048e7b776e31d674d679839b9280e82c9c
 MD5sum: 919c81dbabb2e39f269b7a83ea1d2aef
 Description: Network-wide ads & trackers blocking DNS server
 
+Package: ap-clients
+Version: 1.0.0
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 7065
+Priority: standard
+Section: extras
+Filename: pool/main/a/ap-clients/ap-clients_1.0.0_armhf.deb
+Size: 3358976
+SHA256: 8293ba5b4e8ea07d030dc9f5330d16694de61b131d1b453b5d842aa82cd5f797
+SHA1: 78cd6cc1cb113f4f5c826c58b4063cc40eac38c1
+MD5sum: 57a4f0d362ba86ed79bf942cdbdab821
+Description: Service to get info about the AP
+
 Package: bubbleupnpserver
 Version: 0.9-5~ado4
 Architecture: all
