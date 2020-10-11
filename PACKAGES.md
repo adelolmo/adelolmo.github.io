@@ -63,7 +63,7 @@
 |stretch|main|arm64|hd-idle|1.10|
 |stretch|main|arm64|rest980|2.1.0~ado3|
 |jessie|main|armhf|adguardhome|0.103.3|
-|jessie|main|armhf|ap-clients|1.0.0|
+|jessie|main|armhf|ap-clients|1.1.0|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |jessie|main|armhf|createap|0.4.6~ado4|
 |jessie|main|armhf|delugecli|1.4.3|
