@@ -44,7 +44,7 @@
 |buster|main|arm64|hd-idle|1.10|
 |buster|main|arm64|rest980|2.1.0~ado3|
 |stretch|main|armhf|adguardhome|0.103.3|
-|stretch|main|armhf|ap-clients|1.0.0|
+|stretch|main|armhf|ap-clients|1.1.0|
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |stretch|main|armhf|createap|0.4.6~ado4|
 |stretch|main|armhf|delugecli|1.4.3|
