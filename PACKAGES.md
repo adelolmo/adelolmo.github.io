@@ -49,7 +49,7 @@
 |stretch|main|armhf|createap|0.4.6~ado4|
 |stretch|main|armhf|delugecli|1.4.3|
 |stretch|main|armhf|eliterss|2.25.0|
-|stretch|main|armhf|hd-idle|1.10|
+|stretch|main|armhf|hd-idle|1.11|
 |stretch|main|armhf|mergerfs|2.30.0~debian-stretch|
 |stretch|main|armhf|noimdb|1.1.0|
 |stretch|main|armhf|notify-mail|1.2.2|
