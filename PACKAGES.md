@@ -11,6 +11,7 @@
 |bionic|main|amd64|notify-mail|1.2.2|
 |bionic|main|amd64|psp-library|1.4.0|
 |bionic|main|amd64|tvshow-parse|1.15.0|
+|bionic|main|arm64|delauncher|1.5.1|
 |bionic|main|arm64|hd-idle|1.11|
 |xenial|main|amd64|delauncher|1.5.1|
 |xenial|main|amd64|dex-tools|2.0-ado1|
