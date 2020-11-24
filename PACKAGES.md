@@ -4,6 +4,7 @@
 | ------------ | ------ | -------- | ------- | ------- |
 |focal|main|amd64|delauncher|1.5.1|
 |focal|main|amd64|hd-idle|1.11|
+|focal|main|arm64|delauncher|1.5.1|
 |focal|main|arm64|hd-idle|1.11|
 |focal|main|armhf|hd-idle|1.11|
 |bionic|main|amd64|delauncher|1.5.1|
