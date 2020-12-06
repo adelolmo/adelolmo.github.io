@@ -24,7 +24,7 @@
 |xenial|main|i386|dex-tools|2.0-ado1|
 |xenial|main|arm64|hd-idle|1.11|
 |trusty|main|amd64|delauncher|1.5.1|
-|trusty|main|amd64|hd-idle|1.11|
+|trusty|main|amd64|hd-idle|1.12|
 |trusty|main|arm64|hd-idle|1.11|
 |buster|main|armhf|adguardhome|0.104.3|
 |buster|main|armhf|ap-clients|1.1.1|
