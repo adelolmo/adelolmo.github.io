@@ -26,6 +26,7 @@
 |trusty|main|amd64|delauncher|1.5.1|
 |trusty|main|amd64|hd-idle|1.12|
 |trusty|main|arm64|hd-idle|1.11|
+|buster|main|amd64|hd-idle|1.12|
 |buster|main|armhf|adguardhome|0.104.3|
 |buster|main|armhf|ap-clients|1.1.1|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
