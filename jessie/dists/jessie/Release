@@ -3,11 +3,14 @@ Label: adelolmo
 Suite: stable
 Codename: jessie
 Version: 8.0
-Date: Sun, 06 Dec 2020 15:14:47 UTC
-Architectures: armhf arm64
+Date: Sun, 06 Dec 2020 17:53:09 UTC
+Architectures: amd64 armhf arm64
 Components: main
 Description: adelolmo debian jessie repository
 MD5Sum:
+ 142924a027e5458dd061b27570f4577e 1140 main/binary-amd64/Packages
+ f7b43bf9abbf0417017af9aaeb1071fa 685 main/binary-amd64/Packages.gz
+ 15fc6961b0e81f54b37fd26b06bed6c2 152 main/binary-amd64/Release
  10b9c171e00bc5722c7e28ae0ccd4d74 9703 main/binary-armhf/Packages
  6af3a689dab9af42361c0c778b546885 4028 main/binary-armhf/Packages.gz
  f1b4543abc6a34fb8179880b61274400 152 main/binary-armhf/Release
@@ -15,6 +18,9 @@ MD5Sum:
  3fd6c4ff3a163dd89b1ff0e044bd8dd4 1136 main/binary-arm64/Packages.gz
  b7d96fe4e3303dd729b41c520b15c38c 152 main/binary-arm64/Release
 SHA1:
+ f6fab380d6c8c4ed302d8e4d5a96037df1ae5a3a 1140 main/binary-amd64/Packages
+ 8b340f5e983adca9f2027cc40caf46a841bf144a 685 main/binary-amd64/Packages.gz
+ 3b85e3ef53760231b993054f7ac55867235067ae 152 main/binary-amd64/Release
  bae579f5cbb121c112dbc097d926312e8e8d7a39 9703 main/binary-armhf/Packages
  d9b2154c4b138ecfe6d714dbf03fb8c96080c7b7 4028 main/binary-armhf/Packages.gz
  a0f34d336c1d5e6cd101a0b09f9aa4b7f6ae4752 152 main/binary-armhf/Release
@@ -22,6 +28,9 @@ SHA1:
  47c653e19fa672039a379bfcaf7fc66d1b6b0a53 1136 main/binary-arm64/Packages.gz
  759edb3905e6c80c7228a97db5bb6615f27d5b67 152 main/binary-arm64/Release
 SHA256:
+ 2c5bd081cfc14fafd5785945f441ba72027be49313ce9c3132e691e1ebc2f129 1140 main/binary-amd64/Packages
+ 2ca99593859920a4ac89f50f02b4de2fd1cf55f6a06e3f907019604a9924efee 685 main/binary-amd64/Packages.gz
+ 02c7dd9495a1f15c727c4d9de0c19d51c015f5a355faa5de2a59222ff51edc99 152 main/binary-amd64/Release
  f8be7255356b4d39bc18b2d62aaad4f09bca729c7a871b117615320b7825d2f8 9703 main/binary-armhf/Packages
  0795cafe56db619c9f5e982528bafae8ad2c390dde23a7b543fd2fe87aebb947 4028 main/binary-armhf/Packages.gz
  d5982dfe8d6c56b162349ada5d421c382320f91f0de059a3cc78bc1250466fe5 152 main/binary-armhf/Release
