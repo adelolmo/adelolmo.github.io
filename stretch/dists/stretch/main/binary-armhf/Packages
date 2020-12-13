@@ -212,6 +212,20 @@ SHA1: 86319638faaa6194d2e80af25b765c181d9c05c8
 MD5sum: 9165cb6d7a1585aceed665604c7675fd
 Description: REST interface to control your iRobot Roomba 900 series 980 / i7 / i7+ via HTTP requests.
 
+Package: rumbero
+Version: 1.0.0
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 17132
+Priority: standard
+Section: extras
+Filename: pool/main/r/rumbero/rumbero_1.0.0_armhf.deb
+Size: 8574780
+SHA256: 0f04a725dd255413b25d2e17c4ae83db5cd4dd870826035820ef1c045e2d6f30
+SHA1: e6d7b95c88bd3d3130a0417a89c7908192990797
+MD5sum: 0f8b1291ff4ab6d7f5347f27a17ceb3a
+Description: Rumbero - Control Roomba iRobot with advance scheduling and UniFi integration
+
 Package: sane-web-client
 Version: 1.4
 Architecture: armhf
