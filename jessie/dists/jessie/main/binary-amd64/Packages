@@ -24,3 +24,19 @@ Description: Spin down idle hard disks
  manufacturers recommend a minimum idle time of 3-5 minutes, the default in
  hd-idle is 10 minutes.
 
+Package: rest980
+Version: 2.1.0~ado4
+Architecture: all
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 41875
+Depends: npm
+Homepage: https://github.com/adelolmo/rest980
+Priority: optional
+Section: net
+Filename: pool/main/r/rest980/rest980_2.1.0~ado4_all.deb
+Size: 5114464
+SHA256: f942ebbc6a91b4e206c684cad065e2ced9b03350829fea38bd337914e6de99d3
+SHA1: 46c348db46191043bacee63a20d2d707f926517b
+MD5sum: f40dd12ebdcd501f12d90f7c6188257a
+Description: REST interface to control your iRobot Roomba 900 series 980 / i7 / i7+ via HTTP requests.
+

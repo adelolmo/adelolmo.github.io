@@ -69,6 +69,7 @@
 |stretch|main|arm64|hd-idle|1.12|
 |stretch|main|arm64|rest980|2.1.0~ado3|
 |jessie|main|amd64|hd-idle|1.12|
+|jessie|main|amd64|rest980|2.1.0~ado4|
 |jessie|main|armhf|adguardhome|0.104.3|
 |jessie|main|armhf|ap-clients|1.1.1|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
@@ -80,7 +81,7 @@
 |jessie|main|armhf|noimdb|1.1.0|
 |jessie|main|armhf|notify-mail|1.2.2|
 |jessie|main|armhf|pimotd|1.2.0|
-|jessie|main|armhf|rest980|2.1.0~ado3|
+|jessie|main|armhf|rest980|2.1.0~ado4|
 |jessie|main|armhf|rumbero|1.0.0|
 |jessie|main|armhf|sane-web-client|1.4|
 |jessie|main|armhf|snapraid|11.3-1|
@@ -88,4 +89,4 @@
 |jessie|main|armhf|tvshow-parse|1.15.0|
 |jessie|main|arm64|eliterss|2.25.0|
 |jessie|main|arm64|hd-idle|1.12|
-|jessie|main|arm64|rest980|2.1.0~ado3|
+|jessie|main|arm64|rest980|2.1.0~ado4|
