@@ -79,7 +79,7 @@
 |jessie|main|armhf|delugecli|1.4.3|
 |jessie|main|armhf|eliterss|2.25.0|
 |jessie|main|armhf|hd-idle|1.12|
-|jessie|main|armhf|mergerfs|2.32.0~debian-jessie|
+|jessie|main|armhf|mergerfs|2.32.1~debian-jessie|
 |jessie|main|armhf|noimdb|1.1.0|
 |jessie|main|armhf|notify-mail|1.2.2|
 |jessie|main|armhf|pimotd|1.2.0|
