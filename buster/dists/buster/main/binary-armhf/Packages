@@ -134,7 +134,7 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: mergerfs
-Version: 2.32.0~debian-buster
+Version: 2.32.1~debian-buster
 Architecture: armhf
 Maintainer: Antonio SJ Musumeci <trapexit@spawn.link>
 Installed-Size: 378
@@ -142,11 +142,11 @@ Depends: libc6 (>= 2.28), libgcc1 (>= 1:3.5), libstdc++6 (>= 5.2), fuse
 Homepage: http://github.com/trapexit/mergerfs
 Priority: optional
 Section: utils
-Filename: pool/main/m/mergerfs/mergerfs_2.32.0~debian-buster_armhf.deb
-Size: 220812
-SHA256: 0cc984b7b28d29835620bf492f8328115b750f2a2af2ed80fde5f2223a57c0b2
-SHA1: 1c9066a327dff7577eb28127907715f86217ae87
-MD5sum: b61ba66d2137703c6c7de5bdd0103364
+Filename: pool/main/m/mergerfs/mergerfs_2.32.1~debian-buster_armhf.deb
+Size: 220936
+SHA256: 896e6b09d5e3fddce9dd5a650fe5872dee7182735c684d11da10bf9461e219ca
+SHA1: fc1f48a6e5a9e83eb0454c97ca70b46335821eb7
+MD5sum: 1fa31f77c81f223a7e64dd39c3a3b853
 Description: another FUSE union filesystem
  mergerfs is a union filesystem geared towards simplifying storage and
  management of files across numerous commodity storage devices. It is
