@@ -26,7 +26,7 @@
 |trusty|main|amd64|delauncher|1.5.1|
 |trusty|main|amd64|hd-idle|1.12|
 |trusty|main|arm64|hd-idle|1.11|
-|buster|main|amd64|eliterss|2.26.0|
+|buster|main|amd64|eliterss|2.26.1|
 |buster|main|amd64|hd-idle|1.12|
 |buster|main|amd64|rest980|2.1.0~ado4|
 |buster|main|armhf|adguardhome|0.104.3|
@@ -34,7 +34,7 @@
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |buster|main|armhf|createap|0.4.6~ado4|
 |buster|main|armhf|delugecli|1.4.3|
-|buster|main|armhf|eliterss|2.26.0|
+|buster|main|armhf|eliterss|2.26.1|
 |buster|main|armhf|hd-idle|1.12|
 |buster|main|armhf|mergerfs|2.32.2~debian-buster|
 |buster|main|armhf|noimdb|1.1.0|
@@ -46,7 +46,7 @@
 |buster|main|armhf|snapraid|11.3-1|
 |buster|main|armhf|snapraid-runner|1.1.0|
 |buster|main|armhf|tvshow-parse|1.15.0|
-|buster|main|arm64|eliterss|2.26.0|
+|buster|main|arm64|eliterss|2.26.1|
 |buster|main|arm64|hd-idle|1.12|
 |buster|main|arm64|rest980|2.1.0~ado4|
 |stretch|main|amd64|eliterss|2.26.1|
