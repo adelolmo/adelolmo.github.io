@@ -1,16 +1,16 @@
 Package: eliterss
-Version: 2.26.1
+Version: 2.26.2
 Architecture: all
 Depends: default-jre-headless, transmission-cli, nodejs
 Installed-Size: 53395
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Priority: low
 Section: service
-Filename: pool/main/e/eliterss/eliterss_2.26.1_all.deb
-Size: 49426828
-SHA256: 7f0f300483f14acddd42bedb553d9427feb0d6e4c0266db598f7f086bfe5c82b
-SHA1: fb61e7150b830de67dc6642142e41c6271a8ba0f
-MD5sum: f28349a50063602b115f7a22938eb3e9
+Filename: pool/main/e/eliterss/eliterss_2.26.2_all.deb
+Size: 49426766
+SHA256: f0492144cd4dd136513801fbd017c2ae30ab7d5cd562621ed616daaf724f60d7
+SHA1: cd5bf3aa445a28cd66c3de1c370318d6f10aced8
+MD5sum: c9599d406e03204d00af888adb6e710d
 Description: Create a RSS feed from torrent websites
 
 Package: hd-idle
