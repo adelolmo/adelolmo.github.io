@@ -6,48 +6,48 @@ Label: adelolmo
 Suite: stable
 Codename: stretch
 Version: 9.0
-Date: Fri, 08 Jan 2021 19:59:56 UTC
+Date: Sat, 09 Jan 2021 09:46:12 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: adelolmo debian stretch repository
 MD5Sum:
- 7940200caa5afe3ecc66916805b01ddc 2200 main/binary-amd64/Packages
- 10330d48888a3e29b5f8019b1c92ac63 1141 main/binary-amd64/Packages.gz
+ bcea82fe7ef693771d562a19df27a0c7 2200 main/binary-amd64/Packages
+ f3d53dedcac518b6e3dad66196e7d7ca 1138 main/binary-amd64/Packages.gz
  26c92b3aed2b7fcd30a2fa7c93ade1cf 153 main/binary-amd64/Release
- 145816fb3631e6650aae0171fb6df36f 10196 main/binary-armhf/Packages
- 02778b03a775473b46bd49c4e54d48d1 4210 main/binary-armhf/Packages.gz
+ 4c5d3f238380a301cdad6cff26c76ab0 10196 main/binary-armhf/Packages
+ 56b09443e17d509d369274b957b15e21 4205 main/binary-armhf/Packages.gz
  b2e271b68ad016def1f922befbe6269e 153 main/binary-armhf/Release
- 33fbb86ce4f36f5a885300cb7390f35d 2200 main/binary-arm64/Packages
- b02b4871509cf0028ec78c13485cb938 1142 main/binary-arm64/Packages.gz
+ 44ca545f588bfd56da143beacf9465d0 2200 main/binary-arm64/Packages
+ cd7942d44067f068d45ed46bad841712 1141 main/binary-arm64/Packages.gz
  a5485045b1a0a4211a89d602eb466e99 153 main/binary-arm64/Release
 SHA1:
- 2d3db8a07a7e80330bc148c210ce7401f98513fd 2200 main/binary-amd64/Packages
- 7f55c167c7c17046565cdb4911024fd02f908201 1141 main/binary-amd64/Packages.gz
+ 2ffa7ee4427f8b5e7ecf43ceff3f2316099604f3 2200 main/binary-amd64/Packages
+ 9860cbd340139e0d34850022d5094c349005b411 1138 main/binary-amd64/Packages.gz
  c44f3963d3da9c46c8c49735c60ef1f8e4db5b39 153 main/binary-amd64/Release
- a4493e02e8421156cf84358c0d7fcbd97b06be2e 10196 main/binary-armhf/Packages
- 82a1bd1772c872e731566fe75edfce268305bb1c 4210 main/binary-armhf/Packages.gz
+ 1f17425671b8d1ca89a98a3a6df0204d7d67ccfd 10196 main/binary-armhf/Packages
+ 19c51f20b3fd4252129cebf9159eb88348163e08 4205 main/binary-armhf/Packages.gz
  7802bdfeece57615d4997293fb5889277d535322 153 main/binary-armhf/Release
- b274fc64d10c40acf8089bff4f9bc4bfa749b45a 2200 main/binary-arm64/Packages
- 6e136dbd2168f16da228e709afe1206cfd747922 1142 main/binary-arm64/Packages.gz
+ 587a3297ced4cb7cde738b6d36eff52ae07013cc 2200 main/binary-arm64/Packages
+ d472b6193c94820b2fc83dae7a58c91acf39c014 1141 main/binary-arm64/Packages.gz
  16545bc7fdcc958f5ae0b8428f1f20c0b9aeecd4 153 main/binary-arm64/Release
 SHA256:
- 70f54edbeb6faebfcbaa9ace8adf8a7242a618de92fa32c126f2d3391b25087f 2200 main/binary-amd64/Packages
- 11d0799c699da07a09c9979fc02b9c84e0f3c9f9dae5ecce75deb16a811ce1be 1141 main/binary-amd64/Packages.gz
+ 50aa2d0fa1108dace5f00b342caef98d5f2218a064199cc38c5be06eb7efb021 2200 main/binary-amd64/Packages
+ bc0bdfbeab316abe797ebaf505e6dc8810c67a4d25b45e25a205814b5fdc91d7 1138 main/binary-amd64/Packages.gz
  928bdbd947c04594a37b959de3ea5d0261f68b3949409bc56f0798159bdd5e8a 153 main/binary-amd64/Release
- 216e7df3a8b715de9fdc087f94c4563f91f2379e552821a30692189f200dd4c6 10196 main/binary-armhf/Packages
- c08694ffe6234fc2161f45e1b7dc578566f9ae4800d78560b9b68e613a4ba1ab 4210 main/binary-armhf/Packages.gz
+ 6c3a442d46e9ee3d0a4d57d3b777225068bc1d8b9653b90f325379a827828721 10196 main/binary-armhf/Packages
+ 43559647d96aee9e18125508fcbec99d522ad2e88fa438539d72ea84ebecc47e 4205 main/binary-armhf/Packages.gz
  9007ad1d6c4c176c3de49d365482c1f5153b0b8577d9d9c2fe34c06c3cc55b67 153 main/binary-armhf/Release
- 302601fdc4fa0dc5a25136969634dd2e5d5fe929a16ba42534f31338e6f31dde 2200 main/binary-arm64/Packages
- 6467f161a0c1b4410f2b088d0519486510f14350ed1fa7a08a247757fa123adb 1142 main/binary-arm64/Packages.gz
+ ad4476693343ca7f95205cbc85a17e04070ff6387b60f62d3a81731ced6d5102 2200 main/binary-arm64/Packages
+ ddeb2d7d61489bc7f851b05e3d4498ffc8ac9c22967ec365f10cc6fd2d971ac4 1141 main/binary-arm64/Packages.gz
  e8e62d74fb0b19007475cfeb1ccd8ed81ba6325d4b121aac3da0063df53c4515 153 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAl/4ubwACgkQhhfXN9sG
-qB9TXwf/fC7dvDDQg1R3pt17uEErYTrAiZxb+ZYbI7zjo9TgTIYxN26mFgxzuwiq
-htUCPpqEHyGf15OunHcIU1ji7Y+T8Be335sS7o5CCxS2eX5fgCvUcuaJOiTJzH7A
-lgv4ROM5KiWWw3kmiznUtBCbVE0nx+n4XkgoJVgi2b7nF997BDGzN8H1qMOH6ipN
-sU5ZZneor//5g3AkoRIXrY9Tdowoiky9zhnuKTXVfdE8pVMHJhfA0/KcgLVTndW+
-DCagD8+qjQkOWOdC85LApgf673BgypZhPfFPpcbMqNK6y8+niGssdVhKz8DpJhb/
-Qqx4uDfCgz3CBNtBBKdwKZjhXjb/Sg==
-=e2Xu
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAl/5e2YACgkQhhfXN9sG
+qB9QoAf+JIdeMjlfdmXYicpRoGmCQlLBpVNmNwdzWV2482HmUjZ0+/lt2ke9oWcW
+O9F/SOsJW80O6gaDY87vw9gpJNRH2t37CNCRFcVi8ZHyh5qeqUrl4beMg6SEzgrl
+ryJIHLn6BSDfBB6tvzxWz8IKjXwNnGlonBMh16Fr/Qw7yfxtQwn3aaZKcSs/H7kc
+IAb47pSii9KcftJmbe3qbPDniednWgsjfn3CnXs7Ui+G/NzEBZiW3AjAyQc5LUnF
+yoHVrIgYicoRxBoSv2Pry/HKBfPWUNsx4tVkjfHEwB4hmAV2AHrd2vrPpNGfIfBR
+TPlfH41EbDTqqLD4aFzljW1TPbQsMg==
+=qppM
 -----END PGP SIGNATURE-----
