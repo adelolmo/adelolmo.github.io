@@ -52,7 +52,6 @@
 |stretch|main|amd64|eliterss|2.27.0|
 |stretch|main|amd64|hd-idle|1.12|
 |stretch|main|amd64|rest980|2.1.0~ado4|
-|stretch|main|armhf|adguardhome|0.105.1|
 |stretch|main|armhf|ap-clients|1.1.1|
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |stretch|main|armhf|createap|0.4.6~ado4|
