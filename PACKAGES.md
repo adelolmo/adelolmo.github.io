@@ -29,6 +29,7 @@
 |buster|main|amd64|eliterss|2.27.0|
 |buster|main|amd64|hd-idle|1.12|
 |buster|main|amd64|rest980|2.1.0~ado4|
+|buster|main|armhf|adguardhome|0.105.1|
 |buster|main|armhf|ap-clients|1.1.1|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |buster|main|armhf|createap|0.4.6~ado4|
