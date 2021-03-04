@@ -13,6 +13,32 @@ SHA1: e27f54d8c2ce846a74d71e754ab41ca0538445b9
 MD5sum: 6ec46b2aa96ab20a4b12aaca1f10debd
 Description: Create a RSS feed from torrent websites
 
+Package: hd-idle
+Version: 1.13
+Architecture: amd64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 2686
+Homepage: https://github.com/adelolmo/hd-idle
+Priority: optional
+Section: admin
+Filename: pool/main/h/hd-idle/hd-idle_1.13_amd64.deb
+Size: 1283224
+SHA256: 5b346a6ca48258fd5bc4ebb2d8db14d3030f3a371e404d3e9e9bafc0db038238
+SHA1: 40e822e4ce3c3b33d71a641c503641c1d3295c80
+MD5sum: 232347608f7df2cb6ce2183860b9479e
+Description: Spin down idle hard disks
+ hd-idle is a utility program for spinning-down external disks after a period
+ of idle time. Since most external IDE disk enclosures don't support setting
+ the IDE idle timer, a program like hd-idle is required to spin down idle disks
+ automatically.
+ .
+ A word of caution: hard disks don't like spinning up too often. Laptop disks
+ are more robust in this respect than desktop disks but if you set your disks
+ to spin down after a few seconds you may damage the disk over time due to the
+ stress the spin-up causes on the spindle motor and bearings. It seems that
+ manufacturers recommend a minimum idle time of 3-5 minutes, the default in
+ hd-idle is 10 minutes.
+
 Package: rest980
 Version: 2.1.0~ado4
 Architecture: all
