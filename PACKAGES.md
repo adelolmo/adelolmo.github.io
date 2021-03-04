@@ -25,7 +25,7 @@
 |xenial|main|arm64|hd-idle|1.11|
 |trusty|main|amd64|delauncher|1.5.1|
 |trusty|main|amd64|hd-idle|1.13|
-|trusty|main|arm64|hd-idle|1.11|
+|trusty|main|arm64|hd-idle|1.13|
 |buster|main|amd64|eliterss|2.27.0|
 |buster|main|amd64|hd-idle|1.13|
 |buster|main|amd64|rest980|2.1.0~ado4|
