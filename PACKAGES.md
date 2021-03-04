@@ -27,7 +27,7 @@
 |trusty|main|amd64|hd-idle|1.12|
 |trusty|main|arm64|hd-idle|1.11|
 |buster|main|amd64|eliterss|2.27.0|
-|buster|main|amd64|hd-idle|1.12|
+|buster|main|amd64|hd-idle|1.13|
 |buster|main|amd64|rest980|2.1.0~ado4|
 |buster|main|armhf|adguardhome|0.105.1|
 |buster|main|armhf|ap-clients|1.1.1|
