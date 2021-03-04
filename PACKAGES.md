@@ -70,7 +70,7 @@
 |stretch|main|armhf|snapraid-runner|1.1.0|
 |stretch|main|armhf|tvshow-parse|1.15.0|
 |stretch|main|arm64|eliterss|2.27.0|
-|stretch|main|arm64|hd-idle|1.12|
+|stretch|main|arm64|hd-idle|1.13|
 |stretch|main|arm64|rest980|2.1.0~ado4|
 |jessie|main|amd64|eliterss|2.27.0|
 |jessie|main|amd64|hd-idle|1.13|
