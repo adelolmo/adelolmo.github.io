@@ -1,24 +1,21 @@
 #!/bin/sh -e
 
-# sudo reprepro -Vb /var/www/html/apt --component=contrib includedeb trusty /tmp/deb/contrib/dp_1.0_all.deb
-
-usage(){
-    echo "Usage: $(basename $0) distribution package"
-    exit 1
+usage() {
+  echo "Usage: $(basename "$0") distribution package"
+  exit 1
 }
 
 if [ -z "$1" ] || [ -z "$2" ]; then
-    usage
+  usage
 fi
 
 DISTRIBUTION=$1
 PACKAGE=$2
 
-sudo reprepro -b $DISTRIBUTION remove $@
-sudo chown --recursive $USER.$USER $DISTRIBUTION
+reprepro --basedir "${DISTRIBUTION}" remove "${DISTRIBUTION}" "${PACKAGE}"
 
 ./createPackageList
 
-git add . > /dev/null 2>&1
-git commit -m "delete package $( basename ${PACKAGE} ) from ${DISTRIBUTION}"
+git add . >/dev/null 2>&1
+git commit -m "delete package $(basename "${PACKAGE}") from ${DISTRIBUTION}"
 git push

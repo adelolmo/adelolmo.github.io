@@ -1,29 +1,26 @@
 #!/bin/sh -e
 
-# sudo reprepro -Vb /var/www/html/apt --component=contrib includedeb trusty /tmp/deb/contrib/dp_1.0_all.deb
-
-usage(){
-    echo "Usage: $(basename $0) distribution package"
-    exit 1
+usage() {
+  echo "Usage: $(basename "$0") distribution package"
+  exit 1
 }
 
 if [ -z "$1" ] || [ -z "$2" ]; then
-    usage
+  usage
 fi
 
 DISTRIBUTION=$1
 PACKAGE=$2
 
-sudo reprepro --ask-passphrase -Vb $DISTRIBUTION includedeb $@
-sudo chown --recursive $USER.$USER $DISTRIBUTION
+reprepro --ask-passphrase --verbose --basedir "${DISTRIBUTION}" includedeb "${DISTRIBUTION}" "${PACKAGE}"
 
 echo
-reprepro -b $DISTRIBUTION list $DISTRIBUTION
+reprepro --basedir "${DISTRIBUTION}" list "${DISTRIBUTION}"
 echo
-echo "$(basename $PACKAGE) added."
+echo "$(basename "${PACKAGE}") added."
 
 ./createPackageList
 
-git add . > /dev/null 2>&1
-git commit -m "add package $( basename ${PACKAGE} ) to ${DISTRIBUTION}"
+git add . >/dev/null 2>&1
+git commit -m "add package $(basename "${PACKAGE}") to ${DISTRIBUTION}"
 git push
