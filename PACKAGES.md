@@ -46,7 +46,7 @@
 |jessie|main|armhf|createap|0.4.6~ado4|
 |jessie|main|armhf|delugecli|1.4.3|
 |jessie|main|armhf|eliterss|2.27.0|
-|jessie|main|armhf|hd-idle|1.13|
+|jessie|main|armhf|hd-idle|1.14|
 |jessie|main|armhf|mergerfs|2.32.4~debian-jessie|
 |jessie|main|armhf|noimdb|1.1.0|
 |jessie|main|armhf|notify-mail|1.2.2|
