@@ -58,7 +58,7 @@
 |jessie|main|armhf|snapraid-runner|1.1.0|
 |jessie|main|armhf|tvshow-parse|1.15.0|
 |jessie|main|arm64|eliterss|2.27.0|
-|jessie|main|arm64|hd-idle|1.13|
+|jessie|main|arm64|hd-idle|1.14|
 |jessie|main|arm64|rest980|2.1.0~ado4|
 |stretch|main|amd64|eliterss|2.27.0|
 |stretch|main|amd64|hd-idle|1.14|
