@@ -84,7 +84,7 @@
 |stretch|main|arm64|hd-idle|1.13|
 |stretch|main|arm64|rest980|2.1.0~ado4|
 |trusty|main|amd64|delauncher|1.5.1|
-|trusty|main|amd64|hd-idle|1.13|
+|trusty|main|amd64|hd-idle|1.14|
 |trusty|main|arm64|hd-idle|1.13|
 |xenial|main|amd64|delauncher|1.5.1|
 |xenial|main|amd64|dex-tools|2.0-ado1|
