@@ -10,7 +10,7 @@
 |bionic|main|arm64|delauncher|1.5.1|
 |bionic|main|arm64|hd-idle|1.13|
 |buster|main|amd64|eliterss|2.27.0|
-|buster|main|amd64|hd-idle|1.13|
+|buster|main|amd64|hd-idle|1.14|
 |buster|main|amd64|rest980|2.1.0~ado4|
 |buster|main|armhf|adguardhome|0.105.2|
 |buster|main|armhf|ap-clients|1.1.1|
