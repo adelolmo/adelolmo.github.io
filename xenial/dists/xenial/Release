@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: xenial
 Version: 16.04
-Date: Sun, 28 Mar 2021 17:11:13 UTC
+Date: Sun, 28 Mar 2021 17:12:02 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: adelolmo ubuntu xenial repository
@@ -14,8 +14,8 @@ MD5Sum:
  b42315f4aa1d1f3acb5ad2bfc2f3ab76 505 main/binary-i386/Packages
  f9a587c5013d4d44874eb08cb4948d6e 377 main/binary-i386/Packages.gz
  71e00fa4fb03281ecd46064ee622d99b 153 main/binary-i386/Release
- 677b06adff953d8dc3bda9f966ba8bdc 1140 main/binary-arm64/Packages
- feb58a68cfaf4be097feb78091ad5aac 687 main/binary-arm64/Packages.gz
+ 439248beba3e4a763b2c3b4831a957ba 1140 main/binary-arm64/Packages
+ 2e81d4a84b885e916960f0094ff54ae5 684 main/binary-arm64/Packages.gz
  b410c13eb110344a0ff0099896c23a65 154 main/binary-arm64/Release
 SHA1:
  aff3e5d0df915ea8eea2fac6361150507a59a62f 4053 main/binary-amd64/Packages
@@ -24,8 +24,8 @@ SHA1:
  88d1154fd19089275c03b64341c6d1c7ef54e10b 505 main/binary-i386/Packages
  2516f0c2a0a90fbe327dfea43ee0b2b186aef536 377 main/binary-i386/Packages.gz
  2fe6d1783d7c4e1ab911a876e1f26fb18812326c 153 main/binary-i386/Release
- a19c62679c0eabeb5fb497a8fd5559bf07d655fc 1140 main/binary-arm64/Packages
- eff3f824e7668d16e160a9b448414ee24097c87b 687 main/binary-arm64/Packages.gz
+ 454dfa3e6f6702f6f65fd8750212eb4c5c6fc8eb 1140 main/binary-arm64/Packages
+ 07a00209497cba2c61a18f2b2674da5c8425fb6a 684 main/binary-arm64/Packages.gz
  8d9ebbebb0d05755b7df8d23eb3b49093c6bc5f6 154 main/binary-arm64/Release
 SHA256:
  317879343da21d734ec1f8f23cce9353370f2d2510eed144e994cccafa832893 4053 main/binary-amd64/Packages
@@ -34,6 +34,6 @@ SHA256:
  5218e2863f7ee471791ea1efe5863c6298c20f8298039087fe4a381f6f6fe00a 505 main/binary-i386/Packages
  7d7a05de11be755823ec52ae7985d2ed6b150773074909f540918708ccf67d77 377 main/binary-i386/Packages.gz
  b85780c77395840bea782da10a9dd26aeffc969e3e06f8860ae32d4e1d464b7f 153 main/binary-i386/Release
- b8f694f383684c024fdb147c58bb292b3b2c4e0d776efc9e56db28c245e19240 1140 main/binary-arm64/Packages
- 2b9603da392ed8224d88dbda0c178a2f369c4b092c08cdeaf7853d9ee005ff6e 687 main/binary-arm64/Packages.gz
+ 69ff0135cf1bc936ff64b1ed22ab4d63ae0913a3c8829917d40635f4355d56c7 1140 main/binary-arm64/Packages
+ f0154d630b6ad84a60149402f2e8204b0dc9b93580e11a8eeaef04d7bbd0ad46 684 main/binary-arm64/Packages.gz
  b91f45f0d2aaf57b5555e26391b1a3169ee705962fe67d9badedd42b955a4df9 154 main/binary-arm64/Release
