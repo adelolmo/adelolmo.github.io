@@ -35,7 +35,7 @@
 |focal|main|amd64|delauncher|1.5.1|
 |focal|main|amd64|hd-idle|1.15|
 |focal|main|arm64|delauncher|1.5.1|
-|focal|main|arm64|hd-idle|1.14|
+|focal|main|arm64|hd-idle|1.15|
 |focal|main|armhf|hd-idle|1.14|
 |jessie|main|amd64|eliterss|2.27.0|
 |jessie|main|amd64|hd-idle|1.15|
