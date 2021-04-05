@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: focal
 Version: 20.04
-Date: Mon, 05 Apr 2021 09:22:32 UTC
+Date: Mon, 05 Apr 2021 09:23:25 UTC
 Architectures: amd64 i386 arm64 armhf
 Components: main
 Description: adelolmo ubuntu focal repository
@@ -17,8 +17,8 @@ MD5Sum:
  e41f25cf03d643575b5afad13597a206 1684 main/binary-arm64/Packages
  e2a6d26fce81084293a333cec98f4542 900 main/binary-arm64/Packages.gz
  51fc6e3816814bde5120ab2d6ffb18e7 153 main/binary-arm64/Release
- cd8badef511542ee59201f255a1d7eac 1140 main/binary-armhf/Packages
- a9e5844eca02b7692e6538c7946fea8d 688 main/binary-armhf/Packages.gz
+ 2b20681b850711e9b417f6b57b323638 1140 main/binary-armhf/Packages
+ 3d0ed982edac9e9f782297ab7d07ff22 682 main/binary-armhf/Packages.gz
  d8bd182144db74c362b59d02bb18d3e8 153 main/binary-armhf/Release
 SHA1:
  d19803d2464f70a61901d970862da0ec2d2bcdfb 1684 main/binary-amd64/Packages
@@ -30,8 +30,8 @@ SHA1:
  e33ae788c2a0f37e364bdef4270583f222ee429b 1684 main/binary-arm64/Packages
  f9c55fc7d4c685514fb16c35033322c4acaacabf 900 main/binary-arm64/Packages.gz
  138910c57c06f90a28e9f31f5ffb29eb50db2eda 153 main/binary-arm64/Release
- 4b3c7c043fc1b121d47e83cc41c606c455140700 1140 main/binary-armhf/Packages
- 538113f3f675b974c584b330981916172936dc8f 688 main/binary-armhf/Packages.gz
+ 4b8d7ed517425c7a6027940da0703005e66cc267 1140 main/binary-armhf/Packages
+ 52c8e680fa968d69ce46762447023c5ddaed858f 682 main/binary-armhf/Packages.gz
  695c070f7702fb545a3ae89b966255dae3650af9 153 main/binary-armhf/Release
 SHA256:
  48ff200b81724cfad95b6f7c9c8002724f1caa54280c616099d0ce294593c89e 1684 main/binary-amd64/Packages
@@ -43,6 +43,6 @@ SHA256:
  a7edefd16388af82d8901634788793b681817364afb2b170e494d810efa043f1 1684 main/binary-arm64/Packages
  78cd2eb0f39d12e41faabd96a2a6b1c3de4dcc8bc735547c40034dfcc6391f21 900 main/binary-arm64/Packages.gz
  19a249cc5f598227c6f01bc5a2a59644c5549c5ffe8a347f00193032c0695c42 153 main/binary-arm64/Release
- ad5a24125deedea9fcf7661d7faf91a349988e83c9e6bdf085ad989e850c8a76 1140 main/binary-armhf/Packages
- 33646b67549b47c8779eca19c9b8555f1a4dc3b6ed780964b1789b54ec950799 688 main/binary-armhf/Packages.gz
+ 494c4904fdff8324bd00949a0fb84326ae886dcb8d07b55aacd92711633858e5 1140 main/binary-armhf/Packages
+ 159b2209d37df95f5bc57f46490c0c32bd92a37c9dd1aac7a7319262297e42eb 682 main/binary-armhf/Packages.gz
  e027885f3758d820a86b2504232d0432ed409d568f3f555ec1ddc36150d75ee0 153 main/binary-armhf/Release
