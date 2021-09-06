@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: jessie
 Version: 8.0
-Date: Mon, 06 Sep 2021 18:02:39 UTC
+Date: Mon, 06 Sep 2021 18:03:11 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: adelolmo debian jessie repository
@@ -14,8 +14,8 @@ MD5Sum:
  94214bc1e748f5f94de7a789eb445e34 10684 main/binary-armhf/Packages
  7d60a8016f50f5052ff9abb27d002612 4419 main/binary-armhf/Packages.gz
  f1b4543abc6a34fb8179880b61274400 152 main/binary-armhf/Release
- 3a9e437b90ab55d01d383800002760f8 2200 main/binary-arm64/Packages
- 45698568a276d21107806de95a46643c 1136 main/binary-arm64/Packages.gz
+ 3d8f361d43e2763989819a512f5bb4aa 2200 main/binary-arm64/Packages
+ 91f70bfd30baefd138366cba035fbff0 1139 main/binary-arm64/Packages.gz
  b7d96fe4e3303dd729b41c520b15c38c 152 main/binary-arm64/Release
 SHA1:
  1042a8f8e7716ea9a616148a5e08e6c140b8d12e 2200 main/binary-amd64/Packages
@@ -24,8 +24,8 @@ SHA1:
  105e0d1b23e65197862cd1ee037af47b8746170d 10684 main/binary-armhf/Packages
  a9b04e6a102fe5728ac530e9d8e88215e62b0491 4419 main/binary-armhf/Packages.gz
  a0f34d336c1d5e6cd101a0b09f9aa4b7f6ae4752 152 main/binary-armhf/Release
- 5d1e61bb30399a3a7fb7fc52ec2191c542d954a2 2200 main/binary-arm64/Packages
- 9e9bb3e4290bc7b721033f96250f4086347c28aa 1136 main/binary-arm64/Packages.gz
+ 5f531b50f53e225b4c3eef6383847ff601373327 2200 main/binary-arm64/Packages
+ fa84b1c6863ac39d368e8ca0666daab48a74636b 1139 main/binary-arm64/Packages.gz
  759edb3905e6c80c7228a97db5bb6615f27d5b67 152 main/binary-arm64/Release
 SHA256:
  55f85fddfdffa2fe7e41eef53609ecc240c3d3f7f7e63314c210290bc827e366 2200 main/binary-amd64/Packages
@@ -34,6 +34,6 @@ SHA256:
  c5c6c02fa632528a4018fb9249c55d66618ca99440235d82955a6ae62d1e4e60 10684 main/binary-armhf/Packages
  09d6360781fb4d62b10eab1045b1135033591c0c2661522a76df373f7cbbc37b 4419 main/binary-armhf/Packages.gz
  d5982dfe8d6c56b162349ada5d421c382320f91f0de059a3cc78bc1250466fe5 152 main/binary-armhf/Release
- 0871461d9578df122a2e1bd9d718adb897f67222565a1900451c4dd116249b4a 2200 main/binary-arm64/Packages
- bf437b0664463a43cbd3e6be15b876bf4d958b22a65f75a49418e2b34341a40f 1136 main/binary-arm64/Packages.gz
+ 0caae4189f4729a45cc1530e4df4e267187cab48a759e0f9a8f7ab1ec2add0dd 2200 main/binary-arm64/Packages
+ 160b38f0712b56dc1aa9d3756ed39d1b68c0047f46e8c30b00e847eced62fc94 1139 main/binary-arm64/Packages.gz
  bc0679cc649b9dddc8f7097cdafd3e4a7c865aa92cd8c18b2b743ae4abafa72a 152 main/binary-arm64/Release
