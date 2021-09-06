@@ -3,7 +3,7 @@
 | Distribution | Component | Architecture | Package | Version |
 | ------------ | ------ | -------- | ------- | ------- |
 |bionic|main|amd64|delauncher|1.5.1|
-|bionic|main|amd64|hd-idle|1.15|
+|bionic|main|amd64|hd-idle|1.16|
 |bionic|main|amd64|notify-mail|1.2.2|
 |bionic|main|amd64|psp-library|1.4.0|
 |bionic|main|amd64|tvshow-parse|1.15.0|
