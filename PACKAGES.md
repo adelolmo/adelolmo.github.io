@@ -33,7 +33,7 @@
 |buster|main|arm64|hd-idle|1.15|
 |buster|main|arm64|rest980|2.1.0~ado4|
 |focal|main|amd64|delauncher|1.5.1|
-|focal|main|amd64|hd-idle|1.15|
+|focal|main|amd64|hd-idle|1.16|
 |focal|main|arm64|delauncher|1.5.1|
 |focal|main|arm64|hd-idle|1.15|
 |focal|main|armhf|hd-idle|1.15|
