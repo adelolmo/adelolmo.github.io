@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: bionic
 Version: 18.04
-Date: Mon, 06 Sep 2021 18:03:02 UTC
+Date: Mon, 06 Sep 2021 18:03:31 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: adelolmo ubuntu bionic repository
@@ -14,8 +14,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  ba00e7c3c7f7e2da34e453937854af21 153 main/binary-i386/Release
- e41f25cf03d643575b5afad13597a206 1684 main/binary-arm64/Packages
- e2a6d26fce81084293a333cec98f4542 900 main/binary-arm64/Packages.gz
+ 0bf66e3bc4692c2e1c69e4f430551d44 1684 main/binary-arm64/Packages
+ aea7dd87e2b26e345183dd961ed0c34a 903 main/binary-arm64/Packages.gz
  463f5fd5f43ec9030fe74f23e755c074 154 main/binary-arm64/Release
 SHA1:
  fa2b6beb3e9b6203374847e2a27663a1c238db15 3074 main/binary-amd64/Packages
@@ -24,8 +24,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  abe0006ba7828d79d626657984df83acbcf5307f 153 main/binary-i386/Release
- e33ae788c2a0f37e364bdef4270583f222ee429b 1684 main/binary-arm64/Packages
- f9c55fc7d4c685514fb16c35033322c4acaacabf 900 main/binary-arm64/Packages.gz
+ 04d0bd03e8a14af1f4d11ac68aa280a81ee2db63 1684 main/binary-arm64/Packages
+ b319f3824c95b9a63832471775b194ca1520156a 903 main/binary-arm64/Packages.gz
  99d5709aa0f537ed7637e9643b88b063e2a43667 154 main/binary-arm64/Release
 SHA256:
  1125a815141756d814f8ef2ae785775c2405fd62c8eb34c7cf42771b9ab0fe90 3074 main/binary-amd64/Packages
@@ -34,6 +34,6 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  82362b41710a242f911b45d92e7bdd8f43e27fbe77339b5831542242b40235c0 153 main/binary-i386/Release
- a7edefd16388af82d8901634788793b681817364afb2b170e494d810efa043f1 1684 main/binary-arm64/Packages
- 78cd2eb0f39d12e41faabd96a2a6b1c3de4dcc8bc735547c40034dfcc6391f21 900 main/binary-arm64/Packages.gz
+ d0628cd191dc4e02b7b90f98d391cbee1851d643db1cc56cbcc94e0c5f5951f1 1684 main/binary-arm64/Packages
+ 61a6345121a7f4610c30a6fc463aa25b94f9cea53ff1f698d26fd7db052bf386 903 main/binary-arm64/Packages.gz
  1b488b4d24bcfe54376d2e2448467a06fa13f9d745c16bda3c3ce731c5f9d948 154 main/binary-arm64/Release
