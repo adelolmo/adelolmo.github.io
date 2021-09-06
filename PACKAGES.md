@@ -30,7 +30,7 @@
 |buster|main|armhf|snapraid-runner|1.1.0|
 |buster|main|armhf|tvshow-parse|1.15.0|
 |buster|main|arm64|eliterss|2.27.0|
-|buster|main|arm64|hd-idle|1.15|
+|buster|main|arm64|hd-idle|1.16|
 |buster|main|arm64|rest980|2.1.0~ado4|
 |focal|main|amd64|delauncher|1.5.1|
 |focal|main|amd64|hd-idle|1.16|
