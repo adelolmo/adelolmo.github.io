@@ -17,6 +17,7 @@ List of current [packages](PACKAGES.md) in the repositories.
 
 |version|name|
 |------|------|
+|11|bullseye|
 |10|buster|
 |9|stretch|
 |8|jessie|
