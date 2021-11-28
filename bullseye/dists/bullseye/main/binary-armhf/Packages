@@ -1,0 +1,19 @@
+Package: mergerfs
+Version: 2.33.1~debian-bullseye
+Architecture: armhf
+Maintainer: Antonio SJ Musumeci <trapexit@spawn.link>
+Installed-Size: 443
+Depends: libc6 (>= 2.28), libgcc-s1 (>= 3.5), libstdc++6 (>= 5.2), fuse
+Homepage: http://github.com/trapexit/mergerfs
+Priority: optional
+Section: utils
+Filename: pool/main/m/mergerfs/mergerfs_2.33.1~debian-bullseye_armhf.deb
+Size: 242244
+SHA256: dad8f406acfbcfae99cc75452c12b6a9d5c4b598c123ed37ebb56503a3375df0
+SHA1: 2ea4b7f11720c23e53d1421b042e8dac8965d338
+MD5sum: 7f4e7ea77b8c09b1ca8a0ac1f588159e
+Description: another FUSE union filesystem
+ mergerfs is a union filesystem geared towards simplifying storage and
+ management of files across numerous commodity storage devices. It is
+ similar to mhddfs, unionfs, and aufs.
+
