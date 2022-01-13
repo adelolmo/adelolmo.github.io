@@ -6,11 +6,14 @@ Label: adelolmo
 Suite: stable
 Codename: bullseye
 Version: 11.0
-Date: Thu, 13 Jan 2022 18:35:05 UTC
-Architectures: amd64 armhf arm64
+Date: Thu, 13 Jan 2022 18:40:26 UTC
+Architectures: i386 amd64 armhf arm64
 Components: main
 Description: adelolmo debian bullseye repository
 MD5Sum:
+ 4fc4dab52a563485afac4290445b662f 1138 main/binary-i386/Packages
+ a9d62fd900f73f386373d1f66caae5e2 684 main/binary-i386/Packages.gz
+ 444a80b6bc11413d35f6d5baeb528afd 154 main/binary-i386/Release
  04260f2c24475f1a6e19a871d2e45404 1140 main/binary-amd64/Packages
  b20e18b2bf62aa9ba58d76eb1ec227c3 686 main/binary-amd64/Packages.gz
  855e07f99ed783c492a2e16c4cf2663e 155 main/binary-amd64/Release
@@ -21,6 +24,9 @@ MD5Sum:
  723fafcbe9adbea39d1e390e693e98fd 686 main/binary-arm64/Packages.gz
  445e2d3c8fcfe231c72d1f3b35d4136f 155 main/binary-arm64/Release
 SHA1:
+ 83e250e22b7e53f425f3e70ed4529633d921fad8 1138 main/binary-i386/Packages
+ de28cf3b0d9f54ea6f7dc7f6d69bbc4e57420f35 684 main/binary-i386/Packages.gz
+ 1e36e264b2a7e8243790f4fccf3640cb3ba7f35b 154 main/binary-i386/Release
  07d2908954057b42f8180e74e114b4909af1f95b 1140 main/binary-amd64/Packages
  c0373622a1cff9d0ecd51d42ad4ddc74d78847b1 686 main/binary-amd64/Packages.gz
  5a7311d9b438ef5db3f7d355bdd5f7d30a9c7076 155 main/binary-amd64/Release
@@ -31,6 +37,9 @@ SHA1:
  9a605d2b948a1c2844c162174fd8f347ebb00eee 686 main/binary-arm64/Packages.gz
  11ebafb9ddda3bf6e5b1efbf857423c1aad34319 155 main/binary-arm64/Release
 SHA256:
+ c6a448f5cea9286f980073bf65a9fcfcbd4b21aed7534365c6e1700e4dec3a9d 1138 main/binary-i386/Packages
+ dd0d62d4e1966ae589b89d9d80a7d7c6d151b55e0930958b97592e28092f1f2f 684 main/binary-i386/Packages.gz
+ 611a74babd20c2ca021f21cadfdda016f95b54c966299444d27e8b2e4f327756 154 main/binary-i386/Release
  509f33c83a29d1a004eb046ec59c5aa388862088028141844108e64cbbebccd2 1140 main/binary-amd64/Packages
  74cecaa3a574cf48e8854f0ed96631e06eda120f0f0f97f98a349a3b35e14810 686 main/binary-amd64/Packages.gz
  56ce63f9f4f03d6ebe0e6699dc76471d50b5ce4f3288f3f73b5c854aaf4250d2 155 main/binary-amd64/Release
@@ -42,12 +51,12 @@ SHA256:
  1d04e45f7ee65d5a465d6bca348d68703de5dd4c9a843b565ff6a7796a19d759 155 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmHgcNkACgkQhhfXN9sG
-qB+0Dgf/Q6/OzhJpXm/WmwulU2wfvqWWVgNi6fa7dYUW/FdWYzIEfaHgo/Q+Cn1V
-YfUhyqeB4vEZ8EhdBDnxh2fCVhKzYmwy6Xv55UHQ49BJ2L3t9j49UC39sjIorDGv
-WowNI9VjpqbGEE31Lwrl391RQnaTVvj0ZvC0+Y3X63ZoMPGiDSPF1K/jWXtV8ucW
-UBQNYwDZOOyK4S+WSeaLs1GBOGddmxLZOM+hpZ5IzuwwQzzTA5geA1u9eiOo6qdH
-pP61dBBDHqQz59SpjYLsVSzG0Zzk/zS2OUI3Cgdh+CD+yEIxrUDKZC4PSWcCoLXX
-jhjLiEnohICdCxa0m8TezMkS7cqvJA==
-=rztH
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmHgchoACgkQhhfXN9sG
+qB/3ZQf9F9WE+N25WAdpf48bckZMAIE11lplu8bvKYTsZCI5uKiNBGOpvpsr/VXT
+PBG1G23CQdS0aCAYvqdoRX4ivfK5BKc5EutXR9/gSXw1x7nFx7nArCcAnH5uycnz
+UUmSTL90UHQVdCfz4vuYiyINeCbajF5SP92OMkVgt2FQ5GLbxKuzt9GD+k9OkE7J
+OHDYRF/46N3S6ayK68dz9E+xmy8tLx4IpUedSE/kkKujnYJu3+jQSduMCxnEMYp2
+EQX1ATlAqequ+0lGM2G1a9HIyIt3mUGbpGMHGsl2UxQNOt8tNjAberoYjgLm2jfd
+DC+3qL5UwYrptnCs68ZYZMg5DMuTDA==
+=2W8p
 -----END PGP SIGNATURE-----
