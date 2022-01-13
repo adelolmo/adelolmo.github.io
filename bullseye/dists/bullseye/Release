@@ -3,13 +3,13 @@ Label: adelolmo
 Suite: stable
 Codename: bullseye
 Version: 11.0
-Date: Sun, 28 Nov 2021 16:14:10 UTC
+Date: Thu, 13 Jan 2022 18:34:50 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: adelolmo debian bullseye repository
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 04260f2c24475f1a6e19a871d2e45404 1140 main/binary-amd64/Packages
+ b20e18b2bf62aa9ba58d76eb1ec227c3 686 main/binary-amd64/Packages.gz
  855e07f99ed783c492a2e16c4cf2663e 155 main/binary-amd64/Release
  8d9c1d86c337892c4f9d27e2e247aea5 767 main/binary-armhf/Packages
  f344e4ee1faed96d15eaafc5cf570f1b 522 main/binary-armhf/Packages.gz
@@ -18,8 +18,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
  445e2d3c8fcfe231c72d1f3b35d4136f 155 main/binary-arm64/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 07d2908954057b42f8180e74e114b4909af1f95b 1140 main/binary-amd64/Packages
+ c0373622a1cff9d0ecd51d42ad4ddc74d78847b1 686 main/binary-amd64/Packages.gz
  5a7311d9b438ef5db3f7d355bdd5f7d30a9c7076 155 main/binary-amd64/Release
  06ff5815f9c07639df1271b947923fa8197a132b 767 main/binary-armhf/Packages
  f58cba70cf2020c404ae1cf903ece0167ab24159 522 main/binary-armhf/Packages.gz
@@ -28,8 +28,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
  11ebafb9ddda3bf6e5b1efbf857423c1aad34319 155 main/binary-arm64/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 509f33c83a29d1a004eb046ec59c5aa388862088028141844108e64cbbebccd2 1140 main/binary-amd64/Packages
+ 74cecaa3a574cf48e8854f0ed96631e06eda120f0f0f97f98a349a3b35e14810 686 main/binary-amd64/Packages.gz
  56ce63f9f4f03d6ebe0e6699dc76471d50b5ce4f3288f3f73b5c854aaf4250d2 155 main/binary-amd64/Release
  8768ea9c58aa2766e5ede17e7e159bcb13efae52fad5fad6660cb00d191e86de 767 main/binary-armhf/Packages
  cfd5283b0b91840d965d87ce780b168ff64bfb8a240598dc1020defe112f69fc 522 main/binary-armhf/Packages.gz
