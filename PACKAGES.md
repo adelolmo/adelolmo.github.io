@@ -75,7 +75,7 @@
 |stretch|main|armhf|delugecli|1.4.3|
 |stretch|main|armhf|eliterss|2.27.0|
 |stretch|main|armhf|hd-idle|1.16|
-|stretch|main|armhf|mergerfs|2.33.1~debian-stretch|
+|stretch|main|armhf|mergerfs|2.33.3~debian-stretch|
 |stretch|main|armhf|noimdb|1.1.0|
 |stretch|main|armhf|notify-mail|1.2.2|
 |stretch|main|armhf|pimotd|1.2.0|
