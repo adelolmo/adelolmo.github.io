@@ -65,7 +65,7 @@
 |jessie|main|arm64|eliterss|2.29.0|
 |jessie|main|arm64|hd-idle|1.16|
 |jessie|main|arm64|rest980|2.1.0~ado4|
-|stretch|main|amd64|eliterss|2.28.0|
+|stretch|main|amd64|eliterss|2.29.0|
 |stretch|main|amd64|hd-idle|1.16|
 |stretch|main|amd64|rest980|2.1.0~ado4|
 |stretch|main|armhf|adguardhome|0.107.2|
@@ -73,7 +73,7 @@
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |stretch|main|armhf|createap|0.4.6~ado4|
 |stretch|main|armhf|delugecli|1.4.3|
-|stretch|main|armhf|eliterss|2.28.0|
+|stretch|main|armhf|eliterss|2.29.0|
 |stretch|main|armhf|hd-idle|1.16|
 |stretch|main|armhf|mergerfs|2.33.3~debian-stretch|
 |stretch|main|armhf|noimdb|1.1.0|
@@ -85,7 +85,7 @@
 |stretch|main|armhf|snapraid|11.3-1|
 |stretch|main|armhf|snapraid-runner|1.1.0|
 |stretch|main|armhf|tvshow-parse|1.15.0|
-|stretch|main|arm64|eliterss|2.28.0|
+|stretch|main|arm64|eliterss|2.29.0|
 |stretch|main|arm64|hd-idle|1.16|
 |stretch|main|arm64|rest980|2.1.0~ado4|
 |trusty|main|amd64|delauncher|1.5.1|
