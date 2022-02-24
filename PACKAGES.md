@@ -42,7 +42,7 @@
 |focal|main|arm64|delauncher|1.5.1|
 |focal|main|arm64|hd-idle|1.16|
 |focal|main|armhf|hd-idle|1.16|
-|jessie|main|amd64|eliterss|2.28.0|
+|jessie|main|amd64|eliterss|2.29.0|
 |jessie|main|amd64|hd-idle|1.16|
 |jessie|main|amd64|rest980|2.1.0~ado4|
 |jessie|main|armhf|adguardhome|0.107.2|
@@ -50,7 +50,7 @@
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |jessie|main|armhf|createap|0.4.6~ado4|
 |jessie|main|armhf|delugecli|1.4.3|
-|jessie|main|armhf|eliterss|2.28.0|
+|jessie|main|armhf|eliterss|2.29.0|
 |jessie|main|armhf|hd-idle|1.16|
 |jessie|main|armhf|mergerfs|2.33.3~debian-jessie|
 |jessie|main|armhf|noimdb|1.1.0|
@@ -62,7 +62,7 @@
 |jessie|main|armhf|snapraid|11.3-1|
 |jessie|main|armhf|snapraid-runner|1.1.0|
 |jessie|main|armhf|tvshow-parse|1.15.0|
-|jessie|main|arm64|eliterss|2.28.0|
+|jessie|main|arm64|eliterss|2.29.0|
 |jessie|main|arm64|hd-idle|1.16|
 |jessie|main|arm64|rest980|2.1.0~ado4|
 |stretch|main|amd64|eliterss|2.28.0|
