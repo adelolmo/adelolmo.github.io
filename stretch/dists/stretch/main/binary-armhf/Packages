@@ -251,6 +251,22 @@ SHA1: e27a89d82e7f31064ac2fc43e57af5ed6ef52afa
 MD5sum: c754e8a0593ed09a9ac1a7301f69b60e
 Description: sane-web-client - Web client for sane-utils
 
+Package: scanpi
+Version: 1.3.1
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 13851
+Depends: sane-utils
+Homepage: https://github.com/adelolmo/scanpi
+Priority: extra
+Section: utils
+Filename: pool/main/s/scanpi/scanpi_1.3.1_armhf.deb
+Size: 5357900
+SHA256: 08cf56b3c38735f836bc84695c0e0a9bfb837660119a2075c38c7f08e6fe4b8f
+SHA1: 8b16d2d68ec2d59f0262bd685f26ebdf9cefb8ae
+MD5sum: ab7b52d1b0ceae0d9e1dc02e8d161e4e
+Description: scanpi - Web interface for SANE (Scanner Access Now Easy)
+
 Package: snapraid
 Installed-Size: 416
 Maintainer: root@8ba341d6a552
