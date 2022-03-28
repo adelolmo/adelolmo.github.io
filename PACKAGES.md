@@ -31,6 +31,7 @@
 |buster|main|armhf|rest980|2.1.0~ado4|
 |buster|main|armhf|rumbero|1.0.0|
 |buster|main|armhf|sane-web-client|1.4|
+|buster|main|armhf|scanpi|1.3.1|
 |buster|main|armhf|snapraid|11.3-1|
 |buster|main|armhf|snapraid-runner|1.1.0|
 |buster|main|armhf|tvshow-parse|1.15.0|
