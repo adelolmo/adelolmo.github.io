@@ -12,7 +12,7 @@
 |bullseye|main|i386|hd-idle|1.16|
 |bullseye|main|amd64|hd-idle|1.16|
 |bullseye|main|armhf|hd-idle|1.16|
-|bullseye|main|armhf|mergerfs|2.33.3~debian-bullseye|
+|bullseye|main|armhf|mergerfs|2.33.4~debian-bullseye|
 |bullseye|main|arm64|hd-idle|1.16|
 |buster|main|amd64|eliterss|2.29.0|
 |buster|main|amd64|hd-idle|1.16|
