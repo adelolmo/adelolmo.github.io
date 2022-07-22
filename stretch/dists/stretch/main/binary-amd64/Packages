@@ -40,18 +40,18 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: rest980
-Version: 2.1.0~ado4
+Version: 2.1.2~ado1
 Architecture: all
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 41875
+Installed-Size: 42186
 Depends: npm
 Homepage: https://github.com/adelolmo/rest980
 Priority: optional
 Section: net
-Filename: pool/main/r/rest980/rest980_2.1.0~ado4_all.deb
-Size: 5114464
-SHA256: f942ebbc6a91b4e206c684cad065e2ced9b03350829fea38bd337914e6de99d3
-SHA1: 46c348db46191043bacee63a20d2d707f926517b
-MD5sum: f40dd12ebdcd501f12d90f7c6188257a
+Filename: pool/main/r/rest980/rest980_2.1.2~ado1_all.deb
+Size: 5171344
+SHA256: 8f09d9997e9d7da1ad54acee573958932bb7f7ee2834d583e9720a6df620ad6d
+SHA1: f8ad918b861a22ee79368f8aff16391d2563f138
+MD5sum: 93a533d7f67852c597fcafc9dcf6e7af
 Description: REST interface to control your iRobot Roomba 900 series 980 / i7 / i7+ via HTTP requests.
 
