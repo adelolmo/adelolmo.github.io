@@ -16,7 +16,7 @@
 |bullseye|main|arm64|hd-idle|1.16|
 |buster|main|amd64|eliterss|2.29.0|
 |buster|main|amd64|hd-idle|1.16|
-|buster|main|amd64|rest980|2.1.0~ado4|
+|buster|main|amd64|rest980|2.1.2~ado1|
 |buster|main|armhf|adguardhome|0.107.2|
 |buster|main|armhf|ap-clients|1.1.1|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
@@ -28,7 +28,7 @@
 |buster|main|armhf|noimdb|1.1.0|
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
-|buster|main|armhf|rest980|2.1.0~ado4|
+|buster|main|armhf|rest980|2.1.2~ado1|
 |buster|main|armhf|rumbero|1.0.0|
 |buster|main|armhf|sane-web-client|1.4|
 |buster|main|armhf|scanpi|1.3.1|
@@ -37,7 +37,7 @@
 |buster|main|armhf|tvshow-parse|1.15.0|
 |buster|main|arm64|eliterss|2.29.0|
 |buster|main|arm64|hd-idle|1.16|
-|buster|main|arm64|rest980|2.1.0~ado4|
+|buster|main|arm64|rest980|2.1.2~ado1|
 |focal|main|amd64|delauncher|1.5.1|
 |focal|main|amd64|hd-idle|1.16|
 |focal|main|arm64|delauncher|1.5.1|
