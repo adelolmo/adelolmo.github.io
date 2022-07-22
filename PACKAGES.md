@@ -45,7 +45,7 @@
 |focal|main|armhf|hd-idle|1.16|
 |jessie|main|amd64|eliterss|2.29.0|
 |jessie|main|amd64|hd-idle|1.16|
-|jessie|main|amd64|rest980|2.1.0~ado4|
+|jessie|main|amd64|rest980|2.1.2~ado1|
 |jessie|main|armhf|adguardhome|0.107.2|
 |jessie|main|armhf|ap-clients|1.1.1|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
@@ -57,7 +57,7 @@
 |jessie|main|armhf|noimdb|1.1.0|
 |jessie|main|armhf|notify-mail|1.2.2|
 |jessie|main|armhf|pimotd|1.2.0|
-|jessie|main|armhf|rest980|2.1.0~ado4|
+|jessie|main|armhf|rest980|2.1.2~ado1|
 |jessie|main|armhf|rumbero|1.0.0|
 |jessie|main|armhf|sane-web-client|1.4|
 |jessie|main|armhf|scanpi|1.3.1|
@@ -66,7 +66,7 @@
 |jessie|main|armhf|tvshow-parse|1.15.0|
 |jessie|main|arm64|eliterss|2.29.0|
 |jessie|main|arm64|hd-idle|1.16|
-|jessie|main|arm64|rest980|2.1.0~ado4|
+|jessie|main|arm64|rest980|2.1.2~ado1|
 |stretch|main|amd64|eliterss|2.29.0|
 |stretch|main|amd64|hd-idle|1.16|
 |stretch|main|amd64|rest980|2.1.0~ado4|
