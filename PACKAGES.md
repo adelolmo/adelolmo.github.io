@@ -44,7 +44,7 @@
 |focal|main|arm64|hd-idle|1.16|
 |focal|main|armhf|hd-idle|1.16|
 |jessie|main|amd64|eliterss|2.29.0|
-|jessie|main|amd64|hd-idle|1.16|
+|jessie|main|amd64|hd-idle|1.17|
 |jessie|main|amd64|rest980|2.1.2~ado1|
 |jessie|main|armhf|adguardhome|0.107.2|
 |jessie|main|armhf|ap-clients|1.1.1|
