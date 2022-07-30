@@ -6,7 +6,7 @@ Label: adelolmo
 Suite: stable
 Codename: jessie
 Version: 8.0
-Date: Sat, 30 Jul 2022 19:14:34 UTC
+Date: Sat, 30 Jul 2022 19:14:49 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: adelolmo debian jessie repository
@@ -14,8 +14,8 @@ MD5Sum:
  a900d8eba615a2889c12a7cad13748d6 2200 main/binary-amd64/Packages
  0443d7d3f2843b8a5c9b09687f5a9673 1143 main/binary-amd64/Packages.gz
  15fc6961b0e81f54b37fd26b06bed6c2 152 main/binary-amd64/Release
- 48a9e42375ae8426a20617da1d5d3d95 10787 main/binary-armhf/Packages
- bbf8a5500be8bee368e40cacc5185ad6 4456 main/binary-armhf/Packages.gz
+ 8d287d8b49d31d2e31220d9f9f946b5d 11210 main/binary-armhf/Packages
+ 886beee2fe87ba9d89cc5510950b5c66 4600 main/binary-armhf/Packages.gz
  f1b4543abc6a34fb8179880b61274400 152 main/binary-armhf/Release
  656bcf763132dac9cf4f321e65a2a28c 2200 main/binary-arm64/Packages
  bc771cc739a7f6472fc342efd59d863c 1141 main/binary-arm64/Packages.gz
@@ -24,8 +24,8 @@ SHA1:
  c0f994e58436fbf86a27c71ac28198fa0286f209 2200 main/binary-amd64/Packages
  17184b1632fd5ff933e73049d3bbdb3800fa5d28 1143 main/binary-amd64/Packages.gz
  3b85e3ef53760231b993054f7ac55867235067ae 152 main/binary-amd64/Release
- fad96a953afcf98e1f5de61547207a964eb79220 10787 main/binary-armhf/Packages
- 190094f4ac6abf0ef4a8fef5155a4e74da36d218 4456 main/binary-armhf/Packages.gz
+ ec3b9fdb3dde32ec2a13eacca7243a55b22d6da1 11210 main/binary-armhf/Packages
+ 709a25bcaf1fe6ca576ed761273053e677f08e71 4600 main/binary-armhf/Packages.gz
  a0f34d336c1d5e6cd101a0b09f9aa4b7f6ae4752 152 main/binary-armhf/Release
  13402f64c3e61a46b23acf6d3d42411e953e1d1e 2200 main/binary-arm64/Packages
  6f729e4b8c85038cc18c639c3a27f417269a6293 1141 main/binary-arm64/Packages.gz
@@ -34,20 +34,20 @@ SHA256:
  07c1caaa6f3d8a10774f8dd391f69f93b12cd19df6f4d2142b634ed61310f504 2200 main/binary-amd64/Packages
  d5f020778d6ea2d7b6d13d0a804203b5eeab608b68df29c0ccf72846db1aca7f 1143 main/binary-amd64/Packages.gz
  02c7dd9495a1f15c727c4d9de0c19d51c015f5a355faa5de2a59222ff51edc99 152 main/binary-amd64/Release
- 4ed36ebcd10c18695239ef4edf343969cb222b09c4957112a7620c513efba97f 10787 main/binary-armhf/Packages
- 4ac8c9dd9be428e86f31cec0910019d2c6c17b139b24a6ec210c3210dc53ac8d 4456 main/binary-armhf/Packages.gz
+ 63358c3c688fc1316f69a3e758a3c68f26f38d02360b0beca7670f4e691239f7 11210 main/binary-armhf/Packages
+ 343748b119266cd207b8e3398b9d08c14e1f551745305fdb9f94e332c47ebba2 4600 main/binary-armhf/Packages.gz
  d5982dfe8d6c56b162349ada5d421c382320f91f0de059a3cc78bc1250466fe5 152 main/binary-armhf/Release
  afbeb716623fd181797eb977405b688da6e6b39b995000e1050dd165f463a750 2200 main/binary-arm64/Packages
  4a937d650b117875ff878c675b88ea8c4a9f8406c7381db9f894d73822b2f720 1141 main/binary-arm64/Packages.gz
  bc0679cc649b9dddc8f7097cdafd3e4a7c865aa92cd8c18b2b743ae4abafa72a 152 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmLlgx4ACgkQhhfXN9sG
-qB8G8wgAtJEq+Mb5h4chMa0z3nUMc4vCm4AZbh527wT7e95/KrULfB6MiYhQUmyt
-GWFyqf4i+mHTU+8dwQV9qDvMddKj5wks8lsFMrJopp421lt218v/xJNdmujJv+Dt
-9AppT/YeOeUbLnBanKBFv/u5F+zQcbeh+kJ1MlFcwDbT+9KZbsE+MZbiJWZmMG1A
-wbWabEKd1QzwfkevQjewhidc8otjTEqx9j6s9fedXDkNPT6KGXnpBQf6QP+SqDzI
-AyL1ZlGI+n0/8ggNYiByKmfty2pZQTuqvmgt04uRiW1GyyNswJwdGq0uVc9Vijg6
-DvW2TX9x4d6GRSfbMvAYp3f97f47Zw==
-=63jC
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmLlgykACgkQhhfXN9sG
+qB/flAf/Vjsl6vAhDCZmy00JHcKv5Sd7MtLkTkxVjJVk3oVDd8xam92Z29xb7bA3
+gHw42vuaC1wLIXyNBmzfMXPySwFswdrlrzGn39yLzn8rbij1RVLsS4b5D+LqJA38
+2pjzYRHjOXZJ6EiNM1VacFRAe+q15F1oUDF6DOhwjlAsDoB9gocd1xQOU0pkQs1z
+wYEHLKTb8ecoJ1UP5hITcHBokAnNjEz6CWa119afHiPTKKqxbYSMtA/2J6OazZOZ
+2Mk5ivuqQg0RYIMxnDXEWW+pVWzXoKei9lHtPfGoWEqWhVI8+J2mC5UtoCzLCFAM
+V+p6C5SHp0Hxba5sDz9XyWDUAsTuHQ==
+=IBi4
 -----END PGP SIGNATURE-----
