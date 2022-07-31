@@ -10,7 +10,7 @@
 |bionic|main|arm64|delauncher|1.5.1|
 |bionic|main|arm64|hd-idle|1.17|
 |bullseye|main|i386|hd-idle|1.16|
-|bullseye|main|amd64|hd-idle|1.16|
+|bullseye|main|amd64|hd-idle|1.17|
 |bullseye|main|armhf|hd-idle|1.16|
 |bullseye|main|armhf|mergerfs|2.33.5~debian-bullseye|
 |bullseye|main|arm64|hd-idle|1.16|

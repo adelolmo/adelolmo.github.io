@@ -1,16 +1,16 @@
 Package: hd-idle
-Version: 1.16
+Version: 1.17
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 2514
+Installed-Size: 2395
 Homepage: https://github.com/adelolmo/hd-idle
 Priority: optional
 Section: admin
-Filename: pool/main/h/hd-idle/hd-idle_1.16_amd64.deb
-Size: 1241412
-SHA256: 5aa47737805c07ae88eb4e05b21db65e500589b821f52cfd0128ea0150c271dd
-SHA1: 26a93b4a36a2d6b6bb2a794b7c4fc913fdd464c6
-MD5sum: 7efae4fe0de5e4040e99fba5d86d054b
+Filename: pool/main/h/hd-idle/hd-idle_1.17_amd64.deb
+Size: 1277108
+SHA256: 5e25932c97409685c2415b05749446f8a657529340e1eb27e39b3a8dff251bb8
+SHA1: 2cf54f07baaa67d4a1c736f64b716e82101ba7a0
+MD5sum: ade8fc6505071e667e847a2dcf1bd9bb
 Description: Spin down idle hard disks
  hd-idle is a utility program for spinning-down external disks after a period
  of idle time. Since most external IDE disk enclosures don't support setting
