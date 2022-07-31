@@ -13,7 +13,7 @@
 |bullseye|main|amd64|hd-idle|1.17|
 |bullseye|main|armhf|hd-idle|1.16|
 |bullseye|main|armhf|mergerfs|2.33.5~debian-bullseye|
-|bullseye|main|arm64|hd-idle|1.16|
+|bullseye|main|arm64|hd-idle|1.17|
 |buster|main|amd64|eliterss|2.29.0|
 |buster|main|amd64|hd-idle|1.17|
 |buster|main|amd64|rest980|2.1.2~ado1|
