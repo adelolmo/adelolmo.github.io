@@ -6,13 +6,13 @@ Label: adelolmo
 Suite: stable
 Codename: xenial
 Version: 16.04
-Date: Sat, 30 Jul 2022 17:57:04 UTC
+Date: Wed, 17 Aug 2022 11:09:50 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: adelolmo ubuntu xenial repository
 MD5Sum:
- 84b7b3dee10e3fa7654fb87c5e4ffcbf 4053 main/binary-amd64/Packages
- 4cddbee7732e5350d6aabc5c5f26baa8 1774 main/binary-amd64/Packages.gz
+ 1095dad5118c9149da1ade6ac41ebca8 4053 main/binary-amd64/Packages
+ 48c2766c6bfd5423bbd0e4f25fd1df17 1776 main/binary-amd64/Packages.gz
  43c084c4abd3b31f3730d805f20c7808 147 main/binary-amd64/Release
  b42315f4aa1d1f3acb5ad2bfc2f3ab76 505 main/binary-i386/Packages
  f9a587c5013d4d44874eb08cb4948d6e 377 main/binary-i386/Packages.gz
@@ -21,8 +21,8 @@ MD5Sum:
  f235bba7fc0ca60d9623a160f43ed0b2 684 main/binary-arm64/Packages.gz
  b410c13eb110344a0ff0099896c23a65 154 main/binary-arm64/Release
 SHA1:
- f17657b6ceede49ca8bd727563d40cb7274c6f90 4053 main/binary-amd64/Packages
- 37c42df5b6a3a18c817277c93e3a4b2c70866db6 1774 main/binary-amd64/Packages.gz
+ 7e38b217c67282f3dc95b4b1bf6a59234348aa53 4053 main/binary-amd64/Packages
+ 4cc7f484bd1893534d39d4823c75fec86e79ebcd 1776 main/binary-amd64/Packages.gz
  b2aa60d9c7e42644a348afdbe02af5579682b95b 147 main/binary-amd64/Release
  88d1154fd19089275c03b64341c6d1c7ef54e10b 505 main/binary-i386/Packages
  2516f0c2a0a90fbe327dfea43ee0b2b186aef536 377 main/binary-i386/Packages.gz
@@ -31,8 +31,8 @@ SHA1:
  83a1496564b8f4a4b80330acd497c49efae1aaae 684 main/binary-arm64/Packages.gz
  8d9ebbebb0d05755b7df8d23eb3b49093c6bc5f6 154 main/binary-arm64/Release
 SHA256:
- 7fd035228b909bcf71dfcfc05a7a0233e42684aad8a1824ab42ba3e191476927 4053 main/binary-amd64/Packages
- dbed1d581e76cccd95c305aecc1ed924fffe1b453485725824ff61028c758fec 1774 main/binary-amd64/Packages.gz
+ 6c64cc89e94b4a1f43739ea1fbf146627a65281b7e6bb50db6b042182fbf9c1a 4053 main/binary-amd64/Packages
+ c1e7f9532e606b19a7360cc4497e7de99ee1837798b49c5d45061ee1b717bf6f 1776 main/binary-amd64/Packages.gz
  7e5921d28867907feed43240b2d895a5d0f2232e3df31183686340154abd670d 147 main/binary-amd64/Release
  5218e2863f7ee471791ea1efe5863c6298c20f8298039087fe4a381f6f6fe00a 505 main/binary-i386/Packages
  7d7a05de11be755823ec52ae7985d2ed6b150773074909f540918708ccf67d77 377 main/binary-i386/Packages.gz
@@ -42,12 +42,12 @@ SHA256:
  b91f45f0d2aaf57b5555e26391b1a3169ee705962fe67d9badedd42b955a4df9 154 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmLlcPAACgkQhhfXN9sG
-qB953Af+KNdg/oTqHZjC2KfR/oxmjRP4M282YgB9oIomMFxyQ1O0Ut8FQ28kQ9xw
-tx3x7AWSYnoGKVHoFIkQ24z+m9JjLyzxrBeBUN2BS6b2KJu/qRbOWElLtOaO69xC
-YT/ke++Ba2irG4464Tf11J5ApneVAEcYfhH2pbZKX3vaQCJlG3bLaWKwfbpY2kXQ
-24wEpT7D8RIzqmFwu81HR6J7DnkyLUZk3IplzX/mv3PHWcvahQ4jqwcCVW31Nb8t
-78+HkWkiqR/qO6f9Hg4I9PGSWU9XVDmPYFTSyOIeQ9gOdNji8kuLNSTvZQgR7Ael
-Ge+h6/Wb56FCAySgSJ/uHNZ/xVdqRA==
-=z2hu
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmL8zH4ACgkQhhfXN9sG
+qB/TwAf+KjXhZa7cHzsatJBK/mOd7JKqdJZf9N/FLGUi0AkHt3pbqeVWoiyq1cHA
+LbmJK8x8fB9pajOHfaUBT1Oo0SUaeIjf/6O3nuyuFO7tGGeQAZNVU/xtbgqATdSW
+PcnF7RA6jjsogzlPuTPeb4hZrixLY2OoPKVsl45WMRbYmQp8ubSlIE9pazYJeAxt
+TZuigxzZWvmLm0etDqktBAe+kzllCPQstVAWhNHznU02JHokNRX2ioTYpZWGJdcm
+BBsVG1gI/z5CGcog1Y85RxCFfw9H2rJeq6IwTGzki0XUdbBX+P9zXVBzPKfeIeRE
+LUOYrsW4Isncnxo854oA+UOQggWcEw==
+=aeeX
 -----END PGP SIGNATURE-----
