@@ -96,7 +96,7 @@
 |stretch|main|arm64|rest980|2.1.2~ado1|
 |trusty|main|amd64|delauncher|1.5.1|
 |trusty|main|amd64|hd-idle|1.18|
-|trusty|main|arm64|hd-idle|1.17|
+|trusty|main|arm64|hd-idle|1.18|
 |xenial|main|amd64|delauncher|1.5.1|
 |xenial|main|amd64|dex-tools|2.0-ado1|
 |xenial|main|amd64|hd-idle|1.18|

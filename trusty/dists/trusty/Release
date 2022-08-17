@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: trusty
 Version: 14.04
-Date: Wed, 17 Aug 2022 11:09:47 UTC
+Date: Wed, 17 Aug 2022 11:11:51 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: adelolmo ubuntu trusty repository
@@ -14,8 +14,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  63b27d15dd82b2cc8a1161b27b565aa4 153 main/binary-i386/Release
- eb4b529b67b4e64c96ceef3abb8857f6 1140 main/binary-arm64/Packages
- f235bba7fc0ca60d9623a160f43ed0b2 684 main/binary-arm64/Packages.gz
+ 6c9cc97ff1cb87e0abacea0dc4eed646 1140 main/binary-arm64/Packages
+ 26554118e1174250ca17a14a2b590990 685 main/binary-arm64/Packages.gz
  408997afc1d06b1765023cf3e68100cc 154 main/binary-arm64/Release
 SHA1:
  acf854f9cdb7cb1628ba5731b4bbb00ea25575ba 1684 main/binary-amd64/Packages
@@ -24,8 +24,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  ad90f821b59c1883ba70732e95a315d04613f4cc 153 main/binary-i386/Release
- 3e234c42391a7f07215d51785065be12c1ce1975 1140 main/binary-arm64/Packages
- 83a1496564b8f4a4b80330acd497c49efae1aaae 684 main/binary-arm64/Packages.gz
+ 0dba9a3d4646c842bc579137cdb7bb204e6136a4 1140 main/binary-arm64/Packages
+ 3202dfe91d8850f292fd7ef4bdb4cd7f6d423d46 685 main/binary-arm64/Packages.gz
  78f43f5f478c1190f2f136b08bdfeb111aa3e110 154 main/binary-arm64/Release
 SHA256:
  28266a1999ae36c7185873023b85b762b028b21d4acac8d72e2a0d510fc0d094 1684 main/binary-amd64/Packages
@@ -34,6 +34,6 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  58f595822d4b15252f80433a2c57f0eb6ad22a5b3bc652b0d7ffc9b9ad99ad26 153 main/binary-i386/Release
- c21464a4840324fac1a2c31e8035b93d3adddd78d4999a71fcd3b2bf6b33d542 1140 main/binary-arm64/Packages
- efaf4cf65c827e4ebcebd0ead2512983946890fa0a97c849a3b2a942956db71d 684 main/binary-arm64/Packages.gz
+ 13d481eb8b35f135e96cbb8e3bcfdedd5eb4bdb4c3d45cb01d44fd99497d1526 1140 main/binary-arm64/Packages
+ 29829b9b2679cf3cbb96d625076e8b0bc05d49ee7c0cd99309c570874ff68051 685 main/binary-arm64/Packages.gz
  5783c2c5fc65fbae64747fed2c12209c11baec2dc0fd29ca940426225cc263a4 154 main/binary-arm64/Release
