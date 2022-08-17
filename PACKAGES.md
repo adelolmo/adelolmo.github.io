@@ -92,7 +92,7 @@
 |stretch|main|armhf|snapraid-runner|1.1.0|
 |stretch|main|armhf|tvshow-parse|1.15.0|
 |stretch|main|arm64|eliterss|2.29.0|
-|stretch|main|arm64|hd-idle|1.17|
+|stretch|main|arm64|hd-idle|1.18|
 |stretch|main|arm64|rest980|2.1.2~ado1|
 |trusty|main|amd64|delauncher|1.5.1|
 |trusty|main|amd64|hd-idle|1.18|
