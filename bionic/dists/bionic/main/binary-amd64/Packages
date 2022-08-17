@@ -15,18 +15,18 @@ MD5sum: 00366b935ceaf640322bbf9fe93f71a3
 Description: Send magnet and torrent links to a remote deluge server
 
 Package: hd-idle
-Version: 1.17
+Version: 1.18
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 2395
+Installed-Size: 2389
 Homepage: https://github.com/adelolmo/hd-idle
 Priority: optional
 Section: admin
-Filename: pool/main/h/hd-idle/hd-idle_1.17_amd64.deb
-Size: 1277108
-SHA256: 5e25932c97409685c2415b05749446f8a657529340e1eb27e39b3a8dff251bb8
-SHA1: 2cf54f07baaa67d4a1c736f64b716e82101ba7a0
-MD5sum: ade8fc6505071e667e847a2dcf1bd9bb
+Filename: pool/main/h/hd-idle/hd-idle_1.18_amd64.deb
+Size: 1273964
+SHA256: f9249a724ff2ecf7747e24254c51a7de6b722afe14e3d3d57c81d2964f2a42a8
+SHA1: d5833096da41164402d9af8bf69d4dbe3522bee9
+MD5sum: 61b2d69d0e968a88603c8e08c5fc1142
 Description: Spin down idle hard disks
  hd-idle is a utility program for spinning-down external disks after a period
  of idle time. Since most external IDE disk enclosures don't support setting
