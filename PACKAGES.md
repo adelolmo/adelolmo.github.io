@@ -44,7 +44,7 @@
 |focal|main|arm64|hd-idle|1.18|
 |focal|main|armhf|hd-idle|1.17|
 |jammy|main|amd64|hd-idle|1.18|
-|jammy|main|arm64|hd-idle|1.17|
+|jammy|main|arm64|hd-idle|1.18|
 |jammy|main|armhf|hd-idle|1.17|
 |jessie|main|amd64|eliterss|2.29.0|
 |jessie|main|amd64|hd-idle|1.18|
