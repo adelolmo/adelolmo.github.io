@@ -6,7 +6,7 @@ Label: adelolmo
 Suite: stable
 Codename: focal
 Version: 20.04
-Date: Wed, 17 Aug 2022 11:11:59 UTC
+Date: Wed, 17 Aug 2022 11:13:18 UTC
 Architectures: amd64 i386 arm64 armhf
 Components: main
 Description: adelolmo ubuntu focal repository
@@ -20,8 +20,8 @@ MD5Sum:
  cb8b525a2afda7032ef5eb26e97d74a1 1684 main/binary-arm64/Packages
  8a336339e7748dbf87d7c622a9e66d2d 902 main/binary-arm64/Packages.gz
  51fc6e3816814bde5120ab2d6ffb18e7 153 main/binary-arm64/Release
- f78b89d2b192e1eab5a7236281447410 1140 main/binary-armhf/Packages
- cae207729196e3f93d5713f7937d3496 684 main/binary-armhf/Packages.gz
+ cd7045e0fbbc8e8c955bee5b9c43a2e5 1140 main/binary-armhf/Packages
+ d30fbb74ac0a437f8b79ead8877cadcd 686 main/binary-armhf/Packages.gz
  d8bd182144db74c362b59d02bb18d3e8 153 main/binary-armhf/Release
 SHA1:
  acf854f9cdb7cb1628ba5731b4bbb00ea25575ba 1684 main/binary-amd64/Packages
@@ -33,8 +33,8 @@ SHA1:
  347fc7ec2fba459e63dfecbebada68f1b8474122 1684 main/binary-arm64/Packages
  f3d3978820a6d40524f7c93764110084e62e8eff 902 main/binary-arm64/Packages.gz
  138910c57c06f90a28e9f31f5ffb29eb50db2eda 153 main/binary-arm64/Release
- dd5438f90265b1f218d686db5aae7072dacd4398 1140 main/binary-armhf/Packages
- 2fcb63c4864e044624674cc85d4e78eebcc48ece 684 main/binary-armhf/Packages.gz
+ 56364f0a7712345b8030093b3799ad0d41c460b3 1140 main/binary-armhf/Packages
+ fe469a1fbeca49c8b2ba6e3ee5b0c150a061fad8 686 main/binary-armhf/Packages.gz
  695c070f7702fb545a3ae89b966255dae3650af9 153 main/binary-armhf/Release
 SHA256:
  28266a1999ae36c7185873023b85b762b028b21d4acac8d72e2a0d510fc0d094 1684 main/binary-amd64/Packages
@@ -46,17 +46,17 @@ SHA256:
  708e19da99af005b4f17aa8554ac7ad7abb210108a86f8f8323b04caf62c525f 1684 main/binary-arm64/Packages
  b7bc4fd27a7ffe4f46c734d266fb9cff3e428941aef19e8b51b5f973cb950967 902 main/binary-arm64/Packages.gz
  19a249cc5f598227c6f01bc5a2a59644c5549c5ffe8a347f00193032c0695c42 153 main/binary-arm64/Release
- 333e7617c9cf1abce1eccb98cfaf7c0ddcf2506ae30b6a69c1d06c0e77edba13 1140 main/binary-armhf/Packages
- 17408074ce6d0d0302c4263f1c065bce126668990a9ba1137b9ffeb8869a7ab9 684 main/binary-armhf/Packages.gz
+ 9c2b087c60e834bb102ebcb01799014bfa3bf91f9d2a13c599a51c473d424f33 1140 main/binary-armhf/Packages
+ d9949d0fbee7c0abc3c03c6d428fbad1de513daf7eaa7c0e9ad86b661271a7a3 686 main/binary-armhf/Packages.gz
  e027885f3758d820a86b2504232d0432ed409d568f3f555ec1ddc36150d75ee0 153 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmL8zP8ACgkQhhfXN9sG
-qB8Ksgf/SlIOMHxHjCePGkjTafBokm+EP0liB3CIsHqq9EqjB+N+3xU/MYu4vyto
-DWrYbNCVF3pcEHmMOkyVcddfHWD9DJQQM+DwlW8wdejf0vpFTpkjkU0pEjg2UTop
-pjFiknjFDehsxyO+8YyV8blZvhhUYIvg9oVJGh5Loa1KLLdJPeD0+O5JRB4vHvDl
-QVU8KiLwu6KjqTDKn63tTTtVNSOVZcBRVYIIjBtt6YN6mslhaL6ewQqOjr6lfO1U
-DiQjVHlivCrkeQtwatR4ahhVOzHlpUuJjWFmlYibMtf2VAcvueXH0JGKeoLGadTc
-MFmHPDDm5f+WRB0obELJklO3VBJRzg==
-=bTFR
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmL8zU4ACgkQhhfXN9sG
+qB8GuAf9EUojLBuPnNN0U2FqfWXc4H4IROUO8wuIS4FampqGtUrWE6meT11kiiNa
+yzqRDGGwyX+749Yi6e0wVFMphsh1hFKNt3oI8URW7KcjYOLql9pI4lKTGTQaYZXZ
+qtuyHMehH/UA5h7B6M7kEfYXTS2nyx+F5anRPppf4dMsnOHrZhGiiV1kmlv98OXz
+o/mdTzcp4iKQgF+HOhccuo7hRryJNKoWrS0j8oibuRYWue/xfIbY34h4qh3wxQx3
+/CFuDClIo9hLn0m/OFew+TEBOCl+0irZ0jBlrM0uDmiEsO7b18gqVYKIZSlQcUox
+dbdlApe+K7Hg/XetVmkVfkgpCdl7PA==
+=iBrX
 -----END PGP SIGNATURE-----
