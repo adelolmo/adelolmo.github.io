@@ -53,7 +53,7 @@
 |jessie|main|armhf|ap-clients|1.1.1|
 |jessie|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |jessie|main|armhf|createap|0.4.6~ado4|
-|jessie|main|armhf|delugecli|1.4.4|
+|jessie|main|armhf|delugecli|1.5.0|
 |jessie|main|armhf|eliterss|2.29.0|
 |jessie|main|armhf|hd-idle|1.18|
 |jessie|main|armhf|mergerfs|2.33.5~debian-jessie|
