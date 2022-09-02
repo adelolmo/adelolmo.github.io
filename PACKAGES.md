@@ -21,7 +21,7 @@
 |buster|main|armhf|ap-clients|1.1.1|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |buster|main|armhf|createap|0.4.6~ado4|
-|buster|main|armhf|delugecli|1.4.4|
+|buster|main|armhf|delugecli|1.5.0|
 |buster|main|armhf|eliterss|2.29.0|
 |buster|main|armhf|hd-idle|1.18|
 |buster|main|armhf|mergerfs|2.33.5~debian-buster|
