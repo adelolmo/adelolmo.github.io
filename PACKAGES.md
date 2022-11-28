@@ -76,6 +76,7 @@
 |stretch|main|amd64|eliterss|2.29.0|
 |stretch|main|amd64|hd-idle|1.18|
 |stretch|main|amd64|rest980|2.1.2~ado1|
+|stretch|main|amd64|sonoshttpapi|1.4.3~ado1|
 |stretch|main|armhf|adguardhome|0.107.2|
 |stretch|main|armhf|ap-clients|1.1.1|
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado4|
@@ -93,10 +94,12 @@
 |stretch|main|armhf|scanpi|1.3.1|
 |stretch|main|armhf|snapraid|11.3-1|
 |stretch|main|armhf|snapraid-runner|1.1.0|
+|stretch|main|armhf|sonoshttpapi|1.4.3~ado1|
 |stretch|main|armhf|tvshow-parse|1.15.0|
 |stretch|main|arm64|eliterss|2.29.0|
 |stretch|main|arm64|hd-idle|1.18|
 |stretch|main|arm64|rest980|2.1.2~ado1|
+|stretch|main|arm64|sonoshttpapi|1.4.3~ado1|
 |trusty|main|amd64|delauncher|1.5.1|
 |trusty|main|amd64|hd-idle|1.18|
 |trusty|main|arm64|hd-idle|1.18|
