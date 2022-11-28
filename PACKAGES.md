@@ -10,10 +10,14 @@
 |bionic|main|arm64|delauncher|1.5.1|
 |bionic|main|arm64|hd-idle|1.18|
 |bullseye|main|i386|hd-idle|1.17|
+|bullseye|main|i386|sonoshttpapi|1.4.3~ado1|
 |bullseye|main|amd64|hd-idle|1.18|
+|bullseye|main|amd64|sonoshttpapi|1.4.3~ado1|
 |bullseye|main|armhf|hd-idle|1.18|
 |bullseye|main|armhf|mergerfs|2.33.5~debian-bullseye|
+|bullseye|main|armhf|sonoshttpapi|1.4.3~ado1|
 |bullseye|main|arm64|hd-idle|1.18|
+|bullseye|main|arm64|sonoshttpapi|1.4.3~ado1|
 |buster|main|amd64|eliterss|2.29.0|
 |buster|main|amd64|hd-idle|1.18|
 |buster|main|amd64|rest980|2.1.2~ado1|
