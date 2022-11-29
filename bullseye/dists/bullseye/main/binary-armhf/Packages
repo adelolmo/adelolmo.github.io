@@ -43,19 +43,3 @@ Description: another FUSE union filesystem
  management of files across numerous commodity storage devices. It is
  similar to mhddfs, unionfs, and aufs.
 
-Package: sonoshttpapi
-Version: 1.4.3~ado1
-Architecture: all
-Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 42603
-Depends: nodejs (>= 6.0.0)
-Homepage: https://github.com/adelolmo/node-sonos-http-api
-Priority: optional
-Section: net
-Filename: pool/main/s/sonoshttpapi/sonoshttpapi_1.4.3~ado1_all.deb
-Size: 4769344
-SHA256: aa200e5a9fc71bf8fbbebdf9390b2d5ae77945dff330cde32736b222baa1d924
-SHA1: b7c6fd34bf6dbd821169874f1c96923af87011c1
-MD5sum: 010f24124aee8435c422451a2a1dc8ca
-Description: A simple http based API for controlling your Sonos system.
-
