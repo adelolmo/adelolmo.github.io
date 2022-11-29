@@ -55,19 +55,3 @@ SHA1: f8ad918b861a22ee79368f8aff16391d2563f138
 MD5sum: 93a533d7f67852c597fcafc9dcf6e7af
 Description: REST interface to control your iRobot Roomba 900 series 980 / i7 / i7+ via HTTP requests.
 
-Package: sonoshttpapi
-Version: 1.4.3~ado1
-Architecture: all
-Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 42606
-Depends: nodejs (>= 6.0.0)
-Homepage: https://github.com/adelolmo/node-sonos-http-api
-Priority: optional
-Section: net
-Filename: pool/main/s/sonoshttpapi/sonoshttpapi_1.4.3~ado1_all.deb
-Size: 4767884
-SHA256: 8060ad829855e534704581c520b04d85715bc05d42fef2cbb238342ef0edcfff
-SHA1: 283892fe0deba2fbcc35af814831627b73b18d1f
-MD5sum: f1a943a6014237290e32bf096ee2ebf7
-Description: A simple http based API for controlling your Sonos system.
-
