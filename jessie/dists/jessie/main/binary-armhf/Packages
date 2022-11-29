@@ -297,6 +297,22 @@ SHA1: f2533ec1f9490bdce626ac5f8c7383e979e8c717
 MD5sum: 6124de68df01bbb204127eb81c96297d
 Description: Automate SnapRAID sync
 
+Package: sonoshttpapi
+Version: 1.4.3~ado1
+Architecture: all
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 42606
+Depends: nodejs (>= 6.0.0)
+Homepage: https://github.com/adelolmo/node-sonos-http-api
+Priority: optional
+Section: net
+Filename: pool/main/s/sonoshttpapi/sonoshttpapi_1.4.3~ado1_all.deb
+Size: 4767884
+SHA256: 8060ad829855e534704581c520b04d85715bc05d42fef2cbb238342ef0edcfff
+SHA1: 283892fe0deba2fbcc35af814831627b73b18d1f
+MD5sum: f1a943a6014237290e32bf096ee2ebf7
+Description: A simple http based API for controlling your Sonos system.
+
 Package: tvshow-parse
 Version: 1.15.0
 Architecture: armhf
