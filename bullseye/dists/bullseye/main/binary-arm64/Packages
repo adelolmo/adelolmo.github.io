@@ -24,3 +24,19 @@ Description: Spin down idle hard disks
  manufacturers recommend a minimum idle time of 3-5 minutes, the default in
  hd-idle is 10 minutes.
 
+Package: sonoshttpapi
+Version: 1.4.3~ado1
+Architecture: all
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 42606
+Depends: nodejs (>= 6.0.0)
+Homepage: https://github.com/adelolmo/node-sonos-http-api
+Priority: optional
+Section: net
+Filename: pool/main/s/sonoshttpapi/sonoshttpapi_1.4.3~ado1_all.deb
+Size: 4768816
+SHA256: f3468d32385be208723a5be7a09a3b7bb8b90d00d948faca8da852f74120c03f
+SHA1: d5d47606675a4cd8a7a92fb4f9bc1e6c818bd601
+MD5sum: 5c2c2dc4c8b993835dabc421f3addaf3
+Description: A simple http based API for controlling your Sonos system.
+
