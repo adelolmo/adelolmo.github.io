@@ -15,6 +15,7 @@
 |bullseye|main|amd64|sonoshttpapi|1.4.3~ado1|
 |bullseye|main|armhf|hd-idle|1.18|
 |bullseye|main|armhf|mergerfs|2.33.5~debian-bullseye|
+|bullseye|main|armhf|rumbero|1.4.0|
 |bullseye|main|armhf|sonoshttpapi|1.4.3~ado1|
 |bullseye|main|arm64|hd-idle|1.18|
 |bullseye|main|arm64|sonoshttpapi|1.4.3~ado1|
