@@ -43,6 +43,20 @@ Description: another FUSE union filesystem
  management of files across numerous commodity storage devices. It is
  similar to mhddfs, unionfs, and aufs.
 
+Package: rumbero
+Version: 1.4.0
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 
+Priority: standard
+Section: extras
+Filename: pool/main/r/rumbero/rumbero_1.4.0_armhf.deb
+Size: 5380012
+SHA256: 8da1c7f204387b9d6f6f702338e12a546531e47b32526c18154ed8caabfc275d
+SHA1: 9630e42c2e7fcfd14d7750b8b2d8b95048b486c2
+MD5sum: 086014af21701912093c689b29302dda
+Description: Rumbero - Control Roomba iRobot with advance scheduling and UniFi integration
+
 Package: sonoshttpapi
 Version: 1.4.3~ado1
 Architecture: all
