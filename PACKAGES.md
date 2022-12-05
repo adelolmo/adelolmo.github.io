@@ -35,7 +35,6 @@
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
 |buster|main|armhf|rest980|2.1.2~ado1|
-|buster|main|armhf|rumbero|1.4.0|
 |buster|main|armhf|sane-web-client|1.4|
 |buster|main|armhf|scanpi|1.3.1|
 |buster|main|armhf|snapraid|11.3-1|
