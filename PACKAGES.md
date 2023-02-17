@@ -48,7 +48,7 @@
 |buster|main|arm64|rest980|2.1.2~ado1|
 |buster|main|arm64|sonoshttpapi|1.4.3~ado1|
 |focal|main|amd64|delauncher|1.5.1|
-|focal|main|amd64|hd-idle|1.18|
+|focal|main|amd64|hd-idle|1.20|
 |focal|main|arm64|delauncher|1.5.1|
 |focal|main|arm64|hd-idle|1.18|
 |focal|main|armhf|hd-idle|1.18|
