@@ -83,7 +83,7 @@
 |jessie|main|arm64|rest980|2.1.2~ado1|
 |jessie|main|arm64|sonoshttpapi|1.4.3~ado1|
 |stretch|main|amd64|eliterss|2.29.0|
-|stretch|main|amd64|hd-idle|1.18|
+|stretch|main|amd64|hd-idle|1.20|
 |stretch|main|amd64|rest980|2.1.2~ado1|
 |stretch|main|amd64|sonoshttpapi|1.4.3~ado1|
 |stretch|main|armhf|adguardhome|0.107.2|
