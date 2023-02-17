@@ -106,7 +106,7 @@
 |stretch|main|armhf|sonoshttpapi|1.4.3~ado1|
 |stretch|main|armhf|tvshow-parse|1.15.0|
 |stretch|main|arm64|eliterss|2.29.0|
-|stretch|main|arm64|hd-idle|1.18|
+|stretch|main|arm64|hd-idle|1.20|
 |stretch|main|arm64|rest980|2.1.2~ado1|
 |stretch|main|arm64|sonoshttpapi|1.4.3~ado1|
 |trusty|main|amd64|delauncher|1.5.1|
