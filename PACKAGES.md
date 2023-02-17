@@ -53,7 +53,7 @@
 |focal|main|arm64|hd-idle|1.20|
 |focal|main|armhf|hd-idle|1.18|
 |jammy|main|amd64|hd-idle|1.20|
-|jammy|main|arm64|hd-idle|1.18|
+|jammy|main|arm64|hd-idle|1.20|
 |jammy|main|armhf|hd-idle|1.18|
 |jessie|main|amd64|eliterss|2.29.0|
 |jessie|main|amd64|hd-idle|1.20|
