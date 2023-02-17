@@ -56,7 +56,7 @@
 |jammy|main|arm64|hd-idle|1.18|
 |jammy|main|armhf|hd-idle|1.18|
 |jessie|main|amd64|eliterss|2.29.0|
-|jessie|main|amd64|hd-idle|1.18|
+|jessie|main|amd64|hd-idle|1.20|
 |jessie|main|amd64|rest980|2.1.2~ado1|
 |jessie|main|amd64|sonoshttpapi|1.4.3~ado1|
 |jessie|main|armhf|adguardhome|0.107.2|
