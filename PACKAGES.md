@@ -18,7 +18,7 @@
 |bullseye|main|armhf|mergerfs|2.34.1~debian-bullseye|
 |bullseye|main|armhf|rumbero|1.4.0|
 |bullseye|main|armhf|sonoshttpapi|1.4.3~ado1|
-|bullseye|main|arm64|hd-idle|1.18|
+|bullseye|main|arm64|hd-idle|1.20|
 |bullseye|main|arm64|sonoshttpapi|1.4.3~ado1|
 |buster|main|amd64|eliterss|2.29.0|
 |buster|main|amd64|hd-idle|1.20|
