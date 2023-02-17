@@ -110,7 +110,7 @@
 |stretch|main|arm64|rest980|2.1.2~ado1|
 |stretch|main|arm64|sonoshttpapi|1.4.3~ado1|
 |trusty|main|amd64|delauncher|1.5.1|
-|trusty|main|amd64|hd-idle|1.18|
+|trusty|main|amd64|hd-idle|1.20|
 |trusty|main|arm64|hd-idle|1.18|
 |xenial|main|amd64|delauncher|1.5.1|
 |xenial|main|amd64|dex-tools|2.0-ado1|
