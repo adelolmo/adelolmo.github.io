@@ -51,7 +51,7 @@
 |focal|main|amd64|hd-idle|1.20|
 |focal|main|arm64|delauncher|1.5.1|
 |focal|main|arm64|hd-idle|1.20|
-|focal|main|armhf|hd-idle|1.18|
+|focal|main|armhf|hd-idle|1.20|
 |jammy|main|amd64|hd-idle|1.20|
 |jammy|main|arm64|hd-idle|1.20|
 |jammy|main|armhf|hd-idle|1.18|
