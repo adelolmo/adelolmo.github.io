@@ -1,3 +1,26 @@
+Package: adguardhome
+Version: 0.107.28
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 26671
+Homepage: https://github.com/AdguardTeam/AdGuardHome
+Priority: standard
+Section: misc
+Filename: pool/main/a/adguardhome/adguardhome_0.107.28_armhf.deb
+Size: 5216268
+SHA256: 8b6b7d231294d68847f520363cd0c7e0ff581a1b98dab7408b8b8f7291dc551f
+SHA1: 1d17c99a2709dbd26934ba23bf36b3c48b6367ca
+MD5sum: 22d1d7e72d68f0d07b5b17b53d0daf21
+Description: Network-wide ads & trackers blocking DNS server
+ AdGuard Home is a network-wide software for blocking ads & tracking.
+ After you set it up, it'll cover ALL your home devices, and you don't need
+ any client-side software for that.
+ .
+ It operates as a DNS server that re-routes tracking domains to a
+ "black hole", thus preventing your devices from connecting to those servers.
+ It's based on software we use for our public AdGuard DNS servers -- both
+ share a lot of common code.
+
 Package: hd-idle
 Version: 1.20
 Architecture: armhf
