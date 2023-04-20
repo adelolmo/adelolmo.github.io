@@ -14,7 +14,7 @@
 |bullseye|main|amd64|delauncher|2.2.0|
 |bullseye|main|amd64|hd-idle|1.20|
 |bullseye|main|amd64|sonoshttpapi|1.4.3~ado1|
-|bullseye|main|armhf|adguardhome|0.107.28|
+|bullseye|main|armhf|adguardhome|0.107.29|
 |bullseye|main|armhf|hd-idle|1.20|
 |bullseye|main|armhf|mergerfs|2.34.1~debian-bullseye|
 |bullseye|main|armhf|rumbero|1.4.0|
