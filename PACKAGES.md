@@ -25,7 +25,7 @@
 |buster|main|amd64|hd-idle|1.20|
 |buster|main|amd64|rest980|2.1.2~ado1|
 |buster|main|amd64|sonoshttpapi|1.4.3~ado1|
-|buster|main|armhf|adguardhome|0.107.28|
+|buster|main|armhf|adguardhome|0.107.29|
 |buster|main|armhf|ap-clients|1.1.1|
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |buster|main|armhf|createap|0.4.6~ado4|
