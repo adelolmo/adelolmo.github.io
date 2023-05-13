@@ -41,7 +41,7 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: sonoshttpapi
-Version: 1.4.3~ado1
+Version: 1.4.3~ado2
 Architecture: all
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 42607
@@ -49,10 +49,10 @@ Depends: nodejs (>= 6.0.0), jq
 Homepage: https://github.com/adelolmo/node-sonos-http-api
 Priority: optional
 Section: net
-Filename: pool/main/s/sonoshttpapi/sonoshttpapi_1.4.3~ado1_all.deb
-Size: 4768796
-SHA256: dc17f76891534156c99e1a714cd9f5abaf309baf7006390a811adbdf760ae460
-SHA1: 178918ffa3195ac2b8c1f0ef8b6f85b894742336
-MD5sum: 184f202b510abbd0e1188b2476915504
+Filename: pool/main/s/sonoshttpapi/sonoshttpapi_1.4.3~ado2_all.deb
+Size: 4841760
+SHA256: b67a267e278b09cf89fe7a2459c9ceeff92705ad6ad170072ce44ca436271de2
+SHA1: a6d1ea7f073507f587410cb15feb5d47af375fb1
+MD5sum: f9fe72509d16b582ea401435ab66bb68
 Description: A simple http based API for controlling your Sonos system.
 
