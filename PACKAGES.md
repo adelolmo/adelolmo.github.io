@@ -106,6 +106,7 @@
 |jessie|main|arm64|rest980|2.1.2~ado1|
 |jessie|main|arm64|snapraid-runner|1.1.1|
 |jessie|main|arm64|sonoshttpapi|1.4.3~ado2|
+|stretch|main|amd64|delugecli|1.5.0|
 |stretch|main|amd64|eliterss|2.29.0|
 |stretch|main|amd64|hd-idle|1.20|
 |stretch|main|amd64|noimdb|1.1.0|
