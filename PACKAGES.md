@@ -14,6 +14,7 @@
 |bullseye|main|i386|sonoshttpapi|1.4.3~ado2|
 |bullseye|main|amd64|delauncher|2.2.0|
 |bullseye|main|amd64|hd-idle|1.20|
+|bullseye|main|amd64|notify-mail|1.2.2|
 |bullseye|main|amd64|snapraid-runner|1.1.1|
 |bullseye|main|amd64|sonoshttpapi|1.4.3~ado2|
 |bullseye|main|armhf|adguardhome|0.107.29|

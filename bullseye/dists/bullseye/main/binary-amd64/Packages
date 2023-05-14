@@ -40,6 +40,21 @@ Description: Spin down idle hard disks
  manufacturers recommend a minimum idle time of 3-5 minutes, the default in
  hd-idle is 10 minutes.
 
+Package: notify-mail
+Version: 1.2.2
+Architecture: amd64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 5303
+Homepage: https://github.com/adelolmo/notify-mail
+Priority: standard
+Section: extras
+Filename: pool/main/n/notify-mail/notify-mail_1.2.2_amd64.deb
+Size: 2766620
+SHA256: 028299ca27d8e4bdd02ade577e8989eefb72c23b46eaff2f5845b527cb85fd6a
+SHA1: edd1eabf4ccad8b4961adcb385cd436c848ded67
+MD5sum: d3dfa506926ee92d0931f1b831d63927
+Description: Send mail notifications
+
 Package: snapraid-runner
 Version: 1.1.1
 Architecture: all
