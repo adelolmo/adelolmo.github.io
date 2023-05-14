@@ -72,6 +72,7 @@
 |jammy|main|amd64|hd-idle|1.20|
 |jammy|main|arm64|hd-idle|1.20|
 |jammy|main|armhf|hd-idle|1.20|
+|jessie|main|amd64|delugecli|1.5.0|
 |jessie|main|amd64|eliterss|2.29.0|
 |jessie|main|amd64|hd-idle|1.20|
 |jessie|main|amd64|noimdb|1.1.0|
