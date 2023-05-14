@@ -94,6 +94,7 @@
 |jessie|main|arm64|sonoshttpapi|1.4.3~ado2|
 |stretch|main|amd64|eliterss|2.29.0|
 |stretch|main|amd64|hd-idle|1.20|
+|stretch|main|amd64|notify-mail|1.2.2|
 |stretch|main|amd64|rest980|2.1.2~ado1|
 |stretch|main|amd64|snapraid-runner|1.1.1|
 |stretch|main|amd64|sonoshttpapi|1.4.3~ado2|
