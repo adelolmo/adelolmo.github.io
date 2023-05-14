@@ -14,6 +14,20 @@ SHA1: e1748d0c92a4efdfe3fe54781fb7f92d381dbdd2
 MD5sum: 97d0a154629d7c1b40ea62a5db668dcf
 Description: Send magnet and torrent links to a remote deluge server
 
+Package: delugecli
+Version: 1.5.0
+Architecture: amd64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 7410
+Priority: standard
+Section: extras
+Filename: pool/main/d/delugecli/delugecli_1.5.0_amd64.deb
+Size: 3802272
+SHA256: de2dc99518ce94e55d0722b55a06748e7c3fc885e05ed148c120eccf2bd4c116
+SHA1: 3de8b53b0f3d1504469705680cff66e890e122e8
+MD5sum: 895244983549281fbdab3ccf3bf6ab18
+Description: Deluge CLI
+
 Package: hd-idle
 Version: 1.20
 Architecture: amd64
