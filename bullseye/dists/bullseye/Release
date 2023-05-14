@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: bullseye
 Version: 11.0
-Date: Sun, 14 May 2023 12:04:34 UTC
+Date: Sun, 14 May 2023 12:06:15 UTC
 Architectures: i386 amd64 armhf arm64
 Components: main
 Description: adelolmo debian bullseye repository
@@ -11,8 +11,8 @@ MD5Sum:
  5011ee972d31d7eb235be37854e08fe6 2625 main/binary-i386/Packages
  ba1e56fcce4c42044f2c8b3d6d6b12f1 1284 main/binary-i386/Packages.gz
  444a80b6bc11413d35f6d5baeb528afd 154 main/binary-i386/Release
- 4ca74fdd5ccd56617b39c016f74d266f 4571 main/binary-amd64/Packages
- c69285841f71c7de3e15fc4af7f4735b 1919 main/binary-amd64/Packages.gz
+ cd76e3be4581146c4f9b5f133bd72b34 5527 main/binary-amd64/Packages
+ b1922c900f3fc95b91b6b0bb12b8a181 2319 main/binary-amd64/Packages.gz
  855e07f99ed783c492a2e16c4cf2663e 155 main/binary-amd64/Release
  d0456bfa7c0a70dfb65eeea957a217c7 4830 main/binary-armhf/Packages
  5b2480d3b59ca550485dd5fc66e2fba1 2211 main/binary-armhf/Packages.gz
@@ -24,8 +24,8 @@ SHA1:
  82d6836bb0b094342a26c6eebc3f8c9aecd01163 2625 main/binary-i386/Packages
  70fcccb9b458e294f1b89a7d9b68fad71da28148 1284 main/binary-i386/Packages.gz
  1e36e264b2a7e8243790f4fccf3640cb3ba7f35b 154 main/binary-i386/Release
- 8a1589c21adfd2b0e2b2424113ba37cfa0ee1d7c 4571 main/binary-amd64/Packages
- e78938c558353d6a7d904be26c0f08aa6295f1f6 1919 main/binary-amd64/Packages.gz
+ 90ca73d408b3e89606adadba5a5cf0a1371ce7ab 5527 main/binary-amd64/Packages
+ cb50b61e8be5c01778f03a89703b0cadc48b0801 2319 main/binary-amd64/Packages.gz
  5a7311d9b438ef5db3f7d355bdd5f7d30a9c7076 155 main/binary-amd64/Release
  b316bb58a9bdce01d845066902b92e87b02a5653 4830 main/binary-armhf/Packages
  d74741b468c76ca6c1a0d4e01b12921b19734620 2211 main/binary-armhf/Packages.gz
@@ -37,8 +37,8 @@ SHA256:
  c067da10307982311dee6f33b26a3c3a186aead1c07707c60a82ffdf669a8e2c 2625 main/binary-i386/Packages
  97e7c83a82e764f49429ea62707632ee97bf814d5f9eb68fdec104a50913be02 1284 main/binary-i386/Packages.gz
  611a74babd20c2ca021f21cadfdda016f95b54c966299444d27e8b2e4f327756 154 main/binary-i386/Release
- 9a1d9c51319a82bca186330391eede0ba8e228c346a7c9a84c4e47ccd8648a11 4571 main/binary-amd64/Packages
- 511b99d2711b008aaad488b81c960fba5fab73c92423ea82ce64553f2b95071b 1919 main/binary-amd64/Packages.gz
+ 39e8c36210937901f856cbc8fa25a14c975895c2c387b6905ba6cd9cb079aca5 5527 main/binary-amd64/Packages
+ 99026fee8584ccdfc1978b34379e31e7d7dad6c89cb436c54030dabb050938af 2319 main/binary-amd64/Packages.gz
  56ce63f9f4f03d6ebe0e6699dc76471d50b5ce4f3288f3f73b5c854aaf4250d2 155 main/binary-amd64/Release
  c33c8afb5b3ab0ab5fafbafbb47c62cfe6630bad94c606921d3724a9b2adb31b 4830 main/binary-armhf/Packages
  5ae6a7e3dd9cb730da660a66b0d29b7fa3d561732586f4565e087439e4ebcdb7 2211 main/binary-armhf/Packages.gz
