@@ -26,6 +26,7 @@
 |bullseye|main|armhf|hd-idle|1.20|
 |bullseye|main|armhf|mergerfs|2.34.1~debian-bullseye|
 |bullseye|main|armhf|noimdb|1.1.0|
+|bullseye|main|armhf|notify-mail|1.2.2|
 |bullseye|main|armhf|rumbero|1.4.0|
 |bullseye|main|armhf|snapraid-runner|1.1.1|
 |bullseye|main|armhf|sonoshttpapi|1.4.3~ado2|
