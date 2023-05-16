@@ -37,6 +37,7 @@
 |buster|main|amd64|eliterss|2.29.0|
 |buster|main|amd64|hd-idle|1.20|
 |buster|main|amd64|noimdb|1.1.0|
+|buster|main|amd64|notify-mail|1.2.2|
 |buster|main|amd64|rest980|2.1.2~ado1|
 |buster|main|amd64|snapraid-runner|1.1.1|
 |buster|main|amd64|sonoshttpapi|1.4.3~ado2|
