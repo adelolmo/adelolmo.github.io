@@ -42,7 +42,7 @@
 |buster|main|amd64|notify-mail|1.2.2|
 |buster|main|amd64|rest980|2.1.2~ado1|
 |buster|main|amd64|snapraid-runner|1.1.1|
-|buster|main|amd64|sonoshttpapi|1.4.3~ado2|
+|buster|main|amd64|sonoshttpapi|1.4.3~ado3|
 |buster|main|amd64|tvshow-parse|1.17.0|
 |buster|main|armhf|adguardhome|0.107.29|
 |buster|main|armhf|ap-clients|1.1.1|
@@ -61,14 +61,14 @@
 |buster|main|armhf|scanpi|1.6.0|
 |buster|main|armhf|snapraid|11.3-1|
 |buster|main|armhf|snapraid-runner|1.1.1|
-|buster|main|armhf|sonoshttpapi|1.4.3~ado2|
+|buster|main|armhf|sonoshttpapi|1.4.3~ado3|
 |buster|main|armhf|tvshow-parse|1.17.0|
 |buster|main|arm64|eliterss|2.29.0|
 |buster|main|arm64|hd-idle|1.20|
 |buster|main|arm64|noimdb|1.1.0|
 |buster|main|arm64|rest980|2.1.2~ado1|
 |buster|main|arm64|snapraid-runner|1.1.1|
-|buster|main|arm64|sonoshttpapi|1.4.3~ado2|
+|buster|main|arm64|sonoshttpapi|1.4.3~ado3|
 |focal|main|amd64|delauncher|1.5.1|
 |focal|main|amd64|hd-idle|1.20|
 |focal|main|arm64|delauncher|1.5.1|
