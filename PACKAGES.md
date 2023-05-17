@@ -85,7 +85,7 @@
 |jessie|main|amd64|notify-mail|1.2.2|
 |jessie|main|amd64|rest980|2.1.2~ado1|
 |jessie|main|amd64|snapraid-runner|1.1.1|
-|jessie|main|amd64|sonoshttpapi|1.4.3~ado2|
+|jessie|main|amd64|sonoshttpapi|1.4.3~ado3|
 |jessie|main|amd64|tvshow-parse|1.17.0|
 |jessie|main|armhf|adguardhome|0.107.29|
 |jessie|main|armhf|ap-clients|1.1.1|
@@ -104,14 +104,14 @@
 |jessie|main|armhf|scanpi|1.6.0|
 |jessie|main|armhf|snapraid|11.3-1|
 |jessie|main|armhf|snapraid-runner|1.1.1|
-|jessie|main|armhf|sonoshttpapi|1.4.3~ado2|
+|jessie|main|armhf|sonoshttpapi|1.4.3~ado3|
 |jessie|main|armhf|tvshow-parse|1.17.0|
 |jessie|main|arm64|eliterss|2.29.0|
 |jessie|main|arm64|hd-idle|1.20|
 |jessie|main|arm64|noimdb|1.1.0|
 |jessie|main|arm64|rest980|2.1.2~ado1|
 |jessie|main|arm64|snapraid-runner|1.1.1|
-|jessie|main|arm64|sonoshttpapi|1.4.3~ado2|
+|jessie|main|arm64|sonoshttpapi|1.4.3~ado3|
 |stretch|main|amd64|adguardhome|0.107.29|
 |stretch|main|amd64|delugecli|1.5.0|
 |stretch|main|amd64|eliterss|2.29.0|
