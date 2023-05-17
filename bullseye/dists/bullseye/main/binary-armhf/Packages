@@ -126,7 +126,7 @@ MD5sum: 9e500f79951608f76d502c3328348788
 Description: Automate SnapRAID sync
 
 Package: sonoshttpapi
-Version: 1.4.3~ado2
+Version: 1.4.3~ado3
 Architecture: all
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 42607
@@ -134,10 +134,10 @@ Depends: nodejs (>= 6.0.0), jq
 Homepage: https://github.com/adelolmo/node-sonos-http-api
 Priority: optional
 Section: net
-Filename: pool/main/s/sonoshttpapi/sonoshttpapi_1.4.3~ado2_all.deb
-Size: 4841760
-SHA256: b67a267e278b09cf89fe7a2459c9ceeff92705ad6ad170072ce44ca436271de2
-SHA1: a6d1ea7f073507f587410cb15feb5d47af375fb1
-MD5sum: f9fe72509d16b582ea401435ab66bb68
+Filename: pool/main/s/sonoshttpapi/sonoshttpapi_1.4.3~ado3_all.deb
+Size: 4843848
+SHA256: 6f10a9c22bf0f6fb161981a17f606a38e3e12d7d83baffc3e555d6b869dee88c
+SHA1: 1f12e6a49e0d4f651757fc00936196fa64431af3
+MD5sum: 54b7d39e97581c6bec5dbd7c67f31d95
 Description: A simple http based API for controlling your Sonos system.
 

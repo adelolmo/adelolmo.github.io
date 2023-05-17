@@ -12,7 +12,7 @@
 |bullseye|main|i386|hd-idle|1.17|
 |bullseye|main|i386|noimdb|1.1.0|
 |bullseye|main|i386|snapraid-runner|1.1.1|
-|bullseye|main|i386|sonoshttpapi|1.4.3~ado2|
+|bullseye|main|i386|sonoshttpapi|1.4.3~ado3|
 |bullseye|main|amd64|adguardhome|0.107.29|
 |bullseye|main|amd64|delauncher|2.2.0|
 |bullseye|main|amd64|delugecli|1.5.0|
@@ -20,7 +20,7 @@
 |bullseye|main|amd64|noimdb|1.1.0|
 |bullseye|main|amd64|notify-mail|1.2.2|
 |bullseye|main|amd64|snapraid-runner|1.1.1|
-|bullseye|main|amd64|sonoshttpapi|1.4.3~ado2|
+|bullseye|main|amd64|sonoshttpapi|1.4.3~ado3|
 |bullseye|main|amd64|tvshow-parse|1.17.0|
 |bullseye|main|armhf|adguardhome|0.107.29|
 |bullseye|main|armhf|hd-idle|1.20|
@@ -29,11 +29,11 @@
 |bullseye|main|armhf|notify-mail|1.2.2|
 |bullseye|main|armhf|rumbero|1.4.0|
 |bullseye|main|armhf|snapraid-runner|1.1.1|
-|bullseye|main|armhf|sonoshttpapi|1.4.3~ado2|
+|bullseye|main|armhf|sonoshttpapi|1.4.3~ado3|
 |bullseye|main|arm64|hd-idle|1.20|
 |bullseye|main|arm64|noimdb|1.1.0|
 |bullseye|main|arm64|snapraid-runner|1.1.1|
-|bullseye|main|arm64|sonoshttpapi|1.4.3~ado2|
+|bullseye|main|arm64|sonoshttpapi|1.4.3~ado3|
 |buster|main|amd64|adguardhome|0.107.29|
 |buster|main|amd64|delugecli|1.5.0|
 |buster|main|amd64|eliterss|2.29.0|
