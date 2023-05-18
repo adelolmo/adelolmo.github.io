@@ -15,7 +15,7 @@
 |bullseye|main|i386|sonoshttpapi|1.6.9~ado1|
 |bullseye|main|amd64|adguardhome|0.107.29|
 |bullseye|main|amd64|delauncher|2.2.0|
-|bullseye|main|amd64|delugecli|1.5.0|
+|bullseye|main|amd64|delugecli|1.6.0|
 |bullseye|main|amd64|hd-idle|1.20|
 |bullseye|main|amd64|noimdb|1.1.0|
 |bullseye|main|amd64|notify-mail|1.2.2|
