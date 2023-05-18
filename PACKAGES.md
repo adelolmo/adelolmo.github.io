@@ -126,7 +126,7 @@
 |stretch|main|armhf|ap-clients|1.1.1|
 |stretch|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |stretch|main|armhf|createap|0.4.6~ado4|
-|stretch|main|armhf|delugecli|1.5.0|
+|stretch|main|armhf|delugecli|1.6.0|
 |stretch|main|armhf|eliterss|2.29.0|
 |stretch|main|armhf|hd-idle|1.20|
 |stretch|main|armhf|mergerfs|2.34.1~debian-stretch|
