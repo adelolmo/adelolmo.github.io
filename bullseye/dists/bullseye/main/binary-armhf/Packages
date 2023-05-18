@@ -21,6 +21,20 @@ Description: Network-wide ads & trackers blocking DNS server
  It's based on software we use for our public AdGuard DNS servers -- both
  share a lot of common code.
 
+Package: delugecli
+Version: 1.6.0
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 
+Priority: standard
+Section: extras
+Filename: pool/main/d/delugecli/delugecli_1.6.0_armhf.deb
+Size: 3481276
+SHA256: 462e8e79a0719cac57b64ec102949ab5127c045cf3d34db5733cd3096986a324
+SHA1: f075003d60e10595fe6f55f88aee8174ad628a9a
+MD5sum: 623a817ed684518b9eb7ee3196f6ed81
+Description: Deluge CLI
+
 Package: hd-idle
 Version: 1.20
 Architecture: armhf
