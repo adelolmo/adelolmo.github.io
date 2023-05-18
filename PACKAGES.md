@@ -113,7 +113,7 @@
 |jessie|main|arm64|snapraid-runner|1.1.1|
 |jessie|main|arm64|sonoshttpapi|1.6.9~ado1|
 |stretch|main|amd64|adguardhome|0.107.29|
-|stretch|main|amd64|delugecli|1.5.0|
+|stretch|main|amd64|delugecli|1.6.0|
 |stretch|main|amd64|eliterss|2.29.0|
 |stretch|main|amd64|hd-idle|1.20|
 |stretch|main|amd64|noimdb|1.1.0|
