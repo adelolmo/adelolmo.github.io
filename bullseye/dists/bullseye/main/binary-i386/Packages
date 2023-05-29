@@ -39,21 +39,6 @@ SHA1: 13ad4b93bbc715df1ef72dc8c5d15f64ae79ed98
 MD5sum: 7c74f006ee4e0ca6c6aa7d6beb2cbf7d
 Description: Find movie titles
 
-Package: snapraid-runner
-Version: 2.0.3
-Architecture: all
-Depends: snapraid, python3
-Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 36
-Priority: standard
-Section: extras
-Filename: pool/main/s/snapraid-runner/snapraid-runner_2.0.3_all.deb
-Size: 4544
-SHA256: e304cca38ad7667592f80a639cca4742a6d52ec106c7f3eb98da8d21f9b70a45
-SHA1: 4198f8fad5df89c1bb73aef4da74ffe99248a717
-MD5sum: d04281aaf6dca449f7bf04165f240417
-Description: Automate SnapRAID sync
-
 Package: sonoshttpapi
 Version: 1.6.9~ado1
 Architecture: all
