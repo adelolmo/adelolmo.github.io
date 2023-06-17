@@ -1,0 +1,16 @@
+Package: delauncher
+Version: 2.3.0
+Architecture: amd64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 4
+Depends: libgtk-3-0, libglib2.0-0, libgdk-pixbuf2.0-0, libnotify-bin
+Homepage: https://github.com/adelolmo/delauncher
+Priority: standard
+Section: extras
+Filename: pool/main/d/delauncher/delauncher_2.3.0_amd64.deb
+Size: 4763500
+SHA256: a82ea359507412647ce14fffe0dca6ffa9fc74cc6f94267746d8fd3b1e6237a2
+SHA1: 9320e36262479ce0a9ff6c08f51ea3ecad3c604e
+MD5sum: 412f42dc906ecc95cfe5b196ba492173
+Description: Send magnet and torrent links to a remote deluge server
+

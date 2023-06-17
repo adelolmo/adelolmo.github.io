@@ -9,6 +9,7 @@
 |bionic|main|amd64|tvshow-parse|1.15.0|
 |bionic|main|arm64|delauncher|1.5.1|
 |bionic|main|arm64|hd-idle|1.20|
+|bookworm|main|amd64|delauncher|2.3.0|
 |bullseye|main|i386|hd-idle|1.17|
 |bullseye|main|i386|noimdb|1.1.0|
 |bullseye|main|i386|snapraid-runner|2.0.4|
