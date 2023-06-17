@@ -12,6 +12,7 @@
 |bookworm|main|amd64|delauncher|2.3.0|
 |bookworm|main|amd64|hd-idle|1.20|
 |bookworm|main|armhf|hd-idle|1.20|
+|bookworm|main|arm64|hd-idle|1.20|
 |bullseye|main|i386|hd-idle|1.17|
 |bullseye|main|i386|noimdb|1.1.0|
 |bullseye|main|i386|snapraid-runner|2.0.4|
