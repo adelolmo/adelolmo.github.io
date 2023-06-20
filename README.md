@@ -26,14 +26,6 @@ List of current [packages](PACKAGES.md) in the repositories.
 
 ## Setup Repository
 
-### Debian 12 bookworm
-
     sudo apt install apt-transport-https
     sudo curl -sS -fsSLo /usr/share/keyrings/adelolmo-archive-keyring.gpg https://adelolmo.github.io/andoni.delolmo@gmail.com.gpg
     echo "deb [signed-by=/usr/share/keyrings/adelolmo-archive-keyring.gpg] https://adelolmo.github.io/$(lsb_release -cs) $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/adelolmo.github.io.list
-
-### For older versions
-
-    sudo apt-get install apt-transport-https
-    wget -O - http://adelolmo.github.io/andoni.delolmo@gmail.com.gpg.key | sudo apt-key add -
-    echo "deb http://adelolmo.github.io/$(lsb_release -cs) $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/adelolmo.github.io.list
