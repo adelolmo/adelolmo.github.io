@@ -1,3 +1,26 @@
+Package: adguardhome
+Version: 0.107.36
+Architecture: amd64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 28255
+Homepage: https://github.com/AdguardTeam/AdGuardHome
+Priority: standard
+Section: misc
+Filename: pool/main/a/adguardhome/adguardhome_0.107.36_amd64.deb
+Size: 6005732
+SHA256: c048bcf26546ba5e6dae5cf6cbfa61817ae6b8e6afaf1108bfb535989d902562
+SHA1: a84bfd6ee7e8a16028c8458b65c324d12f7c84f8
+MD5sum: 623b9f677dd8a08e511f3df55316197e
+Description: Network-wide ads & trackers blocking DNS server
+ AdGuard Home is a network-wide software for blocking ads & tracking.
+ After you set it up, it'll cover ALL your home devices, and you don't need
+ any client-side software for that.
+ .
+ It operates as a DNS server that re-routes tracking domains to a
+ "black hole", thus preventing your devices from connecting to those servers.
+ It's based on software we use for our public AdGuard DNS servers -- both
+ share a lot of common code.
+
 Package: delauncher
 Version: 2.3.0
 Architecture: amd64
