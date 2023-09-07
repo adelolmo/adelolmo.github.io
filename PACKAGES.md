@@ -10,7 +10,7 @@
 |bionic|main|arm64|delauncher|1.5.1|
 |bionic|main|arm64|hd-idle|1.20|
 |bookworm|main|i386|hd-idle|1.20|
-|bookworm|main|amd64|adguardhome|0.107.36|
+|bookworm|main|amd64|adguardhome|0.107.37|
 |bookworm|main|amd64|delauncher|2.3.0|
 |bookworm|main|amd64|hd-idle|1.20|
 |bookworm|main|armhf|hd-idle|1.20|
