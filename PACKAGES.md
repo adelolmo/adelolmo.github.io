@@ -35,7 +35,7 @@
 |bullseye|main|armhf|adguardhome|0.107.29|
 |bullseye|main|armhf|delugecli|1.6.0|
 |bullseye|main|armhf|hd-idle|1.20|
-|bullseye|main|armhf|mergerfs|2.34.1~debian-bullseye|
+|bullseye|main|armhf|mergerfs|2.37.0~debian-bullseye|
 |bullseye|main|armhf|noimdb|1.1.0|
 |bullseye|main|armhf|notify-mail|1.2.2|
 |bullseye|main|armhf|rumbero|1.4.0|
