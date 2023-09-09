@@ -24,3 +24,22 @@ Description: Spin down idle hard disks
  manufacturers recommend a minimum idle time of 3-5 minutes, the default in
  hd-idle is 10 minutes.
 
+Package: mergerfs
+Version: 2.37.0~debian-bookworm
+Architecture: arm64
+Maintainer: Antonio SJ Musumeci <trapexit@spawn.link>
+Installed-Size: 1064
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.5), libstdc++6 (>= 11), fuse
+Homepage: http://github.com/trapexit/mergerfs
+Priority: optional
+Section: utils
+Filename: pool/main/m/mergerfs/mergerfs_2.37.0~debian-bookworm_arm64.deb
+Size: 338120
+SHA256: 6d3e8e15a3d0d6cb007af14aa98ad6e38a67d54e6606e5626cd6bf583ba4ac5e
+SHA1: 1262440b7eaba091aafc4c9336ca6e76fecf90f5
+MD5sum: d2ea9e9b2e44ccbc1918bd093225c764
+Description: another FUSE union filesystem
+ mergerfs is a union filesystem geared towards simplifying storage and
+ management of files across numerous commodity storage devices. It is
+ similar to mhddfs, unionfs, and aufs.
+
