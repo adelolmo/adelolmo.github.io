@@ -26,7 +26,7 @@
 |bullseye|main|amd64|delauncher|2.3.0|
 |bullseye|main|amd64|delugecli|1.6.0|
 |bullseye|main|amd64|hd-idle|1.20|
-|bullseye|main|amd64|mergerfs|2.37.0~debian-bullseye|
+|bullseye|main|amd64|mergerfs|2.37.1~debian-bullseye|
 |bullseye|main|amd64|noimdb|1.1.0|
 |bullseye|main|amd64|notify-mail|1.2.2|
 |bullseye|main|amd64|snapraid-runner|2.0.4|
