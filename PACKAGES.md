@@ -22,7 +22,7 @@
 |bullseye|main|i386|noimdb|1.1.0|
 |bullseye|main|i386|snapraid-runner|2.0.4|
 |bullseye|main|i386|sonoshttpapi|1.6.9~ado1|
-|bullseye|main|amd64|adguardhome|0.107.37|
+|bullseye|main|amd64|adguardhome|0.107.38|
 |bullseye|main|amd64|delauncher|2.3.0|
 |bullseye|main|amd64|delugecli|1.6.0|
 |bullseye|main|amd64|hd-idle|1.20|
