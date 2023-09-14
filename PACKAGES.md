@@ -42,7 +42,7 @@
 |bullseye|main|armhf|snapraid-runner|2.0.4|
 |bullseye|main|armhf|sonoshttpapi|1.6.9~ado1|
 |bullseye|main|arm64|hd-idle|1.20|
-|bullseye|main|arm64|mergerfs|2.37.0~debian-bullseye|
+|bullseye|main|arm64|mergerfs|2.37.1~debian-bullseye|
 |bullseye|main|arm64|noimdb|1.1.0|
 |bullseye|main|arm64|snapraid-runner|2.0.4|
 |bullseye|main|arm64|sonoshttpapi|1.6.9~ado1|
