@@ -33,7 +33,7 @@
 |bullseye|main|amd64|sonoshttpapi|1.6.9~ado1|
 |bullseye|main|amd64|tvshow-parse|1.17.0|
 |bullseye|main|armhf|adguardhome|0.107.29|
-|bullseye|main|armhf|delugecli|1.6.0|
+|bullseye|main|armhf|delugecli|1.6.1|
 |bullseye|main|armhf|hd-idle|1.20|
 |bullseye|main|armhf|mergerfs|2.37.1~debian-bullseye|
 |bullseye|main|armhf|noimdb|1.1.0|
