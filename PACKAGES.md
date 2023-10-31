@@ -64,7 +64,7 @@
 |buster|main|armhf|delugecli|1.6.1|
 |buster|main|armhf|eliterss|2.29.0|
 |buster|main|armhf|hd-idle|1.20|
-|buster|main|armhf|mergerfs|2.34.1~debian-buster|
+|buster|main|armhf|mergerfs|2.38.0~debian-buster|
 |buster|main|armhf|noimdb|1.1.0|
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
