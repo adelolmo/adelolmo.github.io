@@ -13,7 +13,7 @@
 |bookworm|main|amd64|adguardhome|0.107.40|
 |bookworm|main|amd64|delauncher|2.3.0|
 |bookworm|main|amd64|hd-idle|1.20|
-|bookworm|main|amd64|mergerfs|2.37.1~debian-bookworm|
+|bookworm|main|amd64|mergerfs|2.38.0~debian-bookworm|
 |bookworm|main|armhf|hd-idle|1.20|
 |bookworm|main|armhf|mergerfs|2.37.1~debian-bookworm|
 |bookworm|main|arm64|hd-idle|1.20|
