@@ -77,7 +77,7 @@
 |buster|main|armhf|sonoshttpapi|1.6.9~ado1|
 |buster|main|armhf|tvshow-parse|1.17.0|
 |buster|main|arm64|eliterss|2.29.0|
-|buster|main|arm64|hd-idle|1.20|
+|buster|main|arm64|hd-idle|1.21|
 |buster|main|arm64|mergerfs|2.38.0~debian-buster|
 |buster|main|arm64|noimdb|1.1.0|
 |buster|main|arm64|rest980|2.1.2~ado1|
