@@ -41,7 +41,7 @@
 |bullseye|main|armhf|rumbero|1.4.0|
 |bullseye|main|armhf|snapraid-runner|2.0.4|
 |bullseye|main|armhf|sonoshttpapi|1.6.9~ado1|
-|bullseye|main|arm64|hd-idle|1.20|
+|bullseye|main|arm64|hd-idle|1.21|
 |bullseye|main|arm64|mergerfs|2.38.0~debian-bullseye|
 |bullseye|main|arm64|noimdb|1.1.0|
 |bullseye|main|arm64|snapraid-runner|2.0.4|
