@@ -49,7 +49,7 @@
 |buster|main|amd64|adguardhome|0.107.40|
 |buster|main|amd64|delugecli|1.6.1|
 |buster|main|amd64|eliterss|2.29.0|
-|buster|main|amd64|hd-idle|1.20|
+|buster|main|amd64|hd-idle|1.21|
 |buster|main|amd64|mergerfs|2.38.0~debian-buster|
 |buster|main|amd64|noimdb|1.1.0|
 |buster|main|amd64|notify-mail|1.2.2|
