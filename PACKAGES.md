@@ -25,7 +25,7 @@
 |bullseye|main|amd64|adguardhome|0.107.40|
 |bullseye|main|amd64|delauncher|2.3.0|
 |bullseye|main|amd64|delugecli|1.6.1|
-|bullseye|main|amd64|hd-idle|1.20|
+|bullseye|main|amd64|hd-idle|1.21|
 |bullseye|main|amd64|mergerfs|2.38.0~debian-bullseye|
 |bullseye|main|amd64|noimdb|1.1.0|
 |bullseye|main|amd64|notify-mail|1.2.2|

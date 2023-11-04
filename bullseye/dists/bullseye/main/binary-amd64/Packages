@@ -52,18 +52,18 @@ MD5sum: 3912fe22efc2d6aab2c13ec04d03f80b
 Description: Deluge CLI
 
 Package: hd-idle
-Version: 1.20
+Version: 1.21
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 2473
+Installed-Size: 2524
 Homepage: https://github.com/adelolmo/hd-idle
 Priority: optional
 Section: admin
-Filename: pool/main/h/hd-idle/hd-idle_1.20_amd64.deb
-Size: 1323644
-SHA256: 55e1a678d9aeb2b1f3ce30599ef7c2bbb18c3c70088ba9de7ed3327997e1572c
-SHA1: a5e3ef534cef2b70d68867d579a27dd957741c5b
-MD5sum: 91cd9214003bc78087f4d7773d33135c
+Filename: pool/main/h/hd-idle/hd-idle_1.21_amd64.deb
+Size: 1357316
+SHA256: 27c934d04743d12961006effeb6824cf61b0679c04e8c87342740c26033d37b7
+SHA1: fb61148817df2fdf3998707f861d9f038d0d2ce7
+MD5sum: a03644047533816fb4dfcc0bfc387562
 Description: Spin down idle hard disks
  hd-idle is a utility program for spinning-down external disks after a period
  of idle time. Since most external IDE disk enclosures don't support setting
