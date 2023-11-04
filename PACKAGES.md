@@ -18,7 +18,7 @@
 |bookworm|main|armhf|mergerfs|2.38.0~debian-bookworm|
 |bookworm|main|arm64|hd-idle|1.20|
 |bookworm|main|arm64|mergerfs|2.38.0~debian-bookworm|
-|bullseye|main|i386|hd-idle|1.17|
+|bullseye|main|i386|hd-idle|1.21|
 |bullseye|main|i386|noimdb|1.1.0|
 |bullseye|main|i386|snapraid-runner|2.0.4|
 |bullseye|main|i386|sonoshttpapi|1.6.9~ado1|
