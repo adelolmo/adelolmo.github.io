@@ -117,18 +117,18 @@ MD5sum: 71ed43646fbad87093f898ab93ac5ae4
 Description: Create a RSS feed from torrent websites
 
 Package: hd-idle
-Version: 1.20
+Version: 1.21
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 2498
+Installed-Size: 2586
 Homepage: https://github.com/adelolmo/hd-idle
 Priority: optional
 Section: admin
-Filename: pool/main/h/hd-idle/hd-idle_1.20_armhf.deb
-Size: 1234588
-SHA256: c3bf3cc130a1808566c2a7b8a7c39c662d59abe0074185de15a2390cf8d1e429
-SHA1: cb29738efcf758f0ad13e69940cd8ab5d9d042c7
-MD5sum: 597e9eb84f1cadb09aa5c96878cfc8e8
+Filename: pool/main/h/hd-idle/hd-idle_1.21_armhf.deb
+Size: 1268292
+SHA256: f45a2a8d34bd48ce366717f019fd83252838ff3ad6501b79e4e9f61b4b08e64e
+SHA1: a8d3f479e0a7598b06aa1684832d21d4bb7cc666
+MD5sum: cd876d8b596fb53b826c2f0e5bcac748
 Description: Spin down idle hard disks
  hd-idle is a utility program for spinning-down external disks after a period
  of idle time. Since most external IDE disk enclosures don't support setting

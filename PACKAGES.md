@@ -63,7 +63,7 @@
 |buster|main|armhf|createap|0.4.6~ado4|
 |buster|main|armhf|delugecli|1.6.1|
 |buster|main|armhf|eliterss|2.29.0|
-|buster|main|armhf|hd-idle|1.20|
+|buster|main|armhf|hd-idle|1.21|
 |buster|main|armhf|mergerfs|2.38.0~debian-buster|
 |buster|main|armhf|noimdb|1.1.0|
 |buster|main|armhf|notify-mail|1.2.2|
