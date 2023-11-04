@@ -121,7 +121,7 @@
 |jessie|main|armhf|sonoshttpapi|1.6.9~ado1|
 |jessie|main|armhf|tvshow-parse|1.17.0|
 |jessie|main|arm64|eliterss|2.29.0|
-|jessie|main|arm64|hd-idle|1.20|
+|jessie|main|arm64|hd-idle|1.21|
 |jessie|main|arm64|noimdb|1.1.0|
 |jessie|main|arm64|rest980|2.1.2~ado1|
 |jessie|main|arm64|snapraid-runner|1.1.1|
