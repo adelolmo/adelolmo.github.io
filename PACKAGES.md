@@ -91,7 +91,7 @@
 |focal|main|arm64|hd-idle|1.21|
 |focal|main|armhf|hd-idle|1.21|
 |jammy|main|amd64|hd-idle|1.21|
-|jammy|main|arm64|hd-idle|1.20|
+|jammy|main|arm64|hd-idle|1.21|
 |jammy|main|armhf|hd-idle|1.20|
 |jessie|main|amd64|adguardhome|0.107.40|
 |jessie|main|amd64|delugecli|1.6.1|
