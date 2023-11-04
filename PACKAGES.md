@@ -85,7 +85,7 @@
 |buster|main|arm64|snapraid-runner|1.1.1|
 |buster|main|arm64|sonoshttpapi|1.6.9~ado1|
 |focal|main|amd64|delauncher|1.5.1|
-|focal|main|amd64|hd-idle|1.20|
+|focal|main|amd64|hd-idle|1.21|
 |focal|main|arm64|delauncher|1.5.1|
 |focal|main|arm64|hd-idle|1.20|
 |focal|main|armhf|hd-idle|1.20|
