@@ -1,0 +1,26 @@
+Package: hd-idle
+Version: 1.21
+Architecture: i386
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 2471
+Homepage: https://github.com/adelolmo/hd-idle
+Priority: optional
+Section: admin
+Filename: pool/main/h/hd-idle/hd-idle_1.21_i386.deb
+Size: 1356712
+SHA256: 155bf1589c3354adbd73f65f2d0c2498e7e709f8fc22c5a46cb3c9a39159ac7c
+SHA1: 5edc14e2a9f87f7ce45d2fc7f03658180021b99d
+MD5sum: 36e051e1e8fad5eb80e1904052d1c5d4
+Description: Spin down idle hard disks
+ hd-idle is a utility program for spinning-down external disks after a period
+ of idle time. Since most external IDE disk enclosures don't support setting
+ the IDE idle timer, a program like hd-idle is required to spin down idle disks
+ automatically.
+ .
+ A word of caution: hard disks don't like spinning up too often. Laptop disks
+ are more robust in this respect than desktop disks but if you set your disks
+ to spin down after a few seconds you may damage the disk over time due to the
+ stress the spin-up causes on the spindle motor and bearings. It seems that
+ manufacturers recommend a minimum idle time of 3-5 minutes, the default in
+ hd-idle is 10 minutes.
+
