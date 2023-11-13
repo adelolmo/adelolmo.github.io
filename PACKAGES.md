@@ -94,7 +94,7 @@
 |jammy|main|i386|hd-idle|1.21|
 |jammy|main|arm64|hd-idle|1.21|
 |jammy|main|armhf|hd-idle|1.21|
-|jessie|main|amd64|adguardhome|0.107.40|
+|jessie|main|amd64|adguardhome|0.107.41|
 |jessie|main|amd64|delugecli|1.6.1|
 |jessie|main|amd64|eliterss|2.29.0|
 |jessie|main|amd64|hd-idle|1.21|
