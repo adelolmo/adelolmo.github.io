@@ -47,7 +47,7 @@
 |bullseye|main|arm64|noimdb|1.1.0|
 |bullseye|main|arm64|snapraid-runner|2.0.4|
 |bullseye|main|arm64|sonoshttpapi|1.6.9~ado1|
-|buster|main|amd64|adguardhome|0.107.40|
+|buster|main|amd64|adguardhome|0.107.41|
 |buster|main|amd64|delugecli|1.6.1|
 |buster|main|amd64|eliterss|2.29.0|
 |buster|main|amd64|hd-idle|1.21|
