@@ -19,6 +19,7 @@
 |bookworm|main|armhf|mergerfs|2.38.0~debian-bookworm|
 |bookworm|main|arm64|hd-idle|1.21|
 |bookworm|main|arm64|mergerfs|2.38.0~debian-bookworm|
+|bullseye|main|i386|eliterss|2.29.0|
 |bullseye|main|i386|hd-idle|1.21|
 |bullseye|main|i386|noimdb|1.1.0|
 |bullseye|main|i386|snapraid-runner|2.0.4|
@@ -26,6 +27,7 @@
 |bullseye|main|amd64|adguardhome|0.107.41|
 |bullseye|main|amd64|delauncher|2.3.0|
 |bullseye|main|amd64|delugecli|1.6.1|
+|bullseye|main|amd64|eliterss|2.29.0|
 |bullseye|main|amd64|hd-idle|1.21|
 |bullseye|main|amd64|mergerfs|2.38.0~debian-bullseye|
 |bullseye|main|amd64|noimdb|1.1.0|
@@ -35,6 +37,7 @@
 |bullseye|main|amd64|tvshow-parse|1.17.0|
 |bullseye|main|armhf|adguardhome|0.107.29|
 |bullseye|main|armhf|delugecli|1.6.1|
+|bullseye|main|armhf|eliterss|2.29.0|
 |bullseye|main|armhf|hd-idle|1.21|
 |bullseye|main|armhf|mergerfs|2.38.0~debian-bullseye|
 |bullseye|main|armhf|noimdb|1.1.0|
@@ -42,6 +45,7 @@
 |bullseye|main|armhf|rumbero|1.4.0|
 |bullseye|main|armhf|snapraid-runner|2.0.4|
 |bullseye|main|armhf|sonoshttpapi|1.6.9~ado1|
+|bullseye|main|arm64|eliterss|2.29.0|
 |bullseye|main|arm64|hd-idle|1.21|
 |bullseye|main|arm64|mergerfs|2.38.0~debian-bullseye|
 |bullseye|main|arm64|noimdb|1.1.0|
