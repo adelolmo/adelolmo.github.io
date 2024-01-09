@@ -39,7 +39,7 @@
 |bullseye|main|amd64|notify-mail|1.2.2|
 |bullseye|main|amd64|snapraid-runner|2.0.4|
 |bullseye|main|amd64|sonoshttpapi|1.6.9~ado1|
-|bullseye|main|amd64|tvshow-parse|1.19.0|
+|bullseye|main|amd64|tvshow-parse|1.20.0|
 |bullseye|main|armhf|adguardhome|0.107.29|
 |bullseye|main|armhf|delugecli|1.6.1|
 |bullseye|main|armhf|eliterss|2.30.0|
