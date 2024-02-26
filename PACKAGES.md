@@ -23,7 +23,7 @@
 |bookworm|main|armhf|mergerfs|2.38.0~debian-bookworm|
 |bookworm|main|arm64|eliterss|2.30.0|
 |bookworm|main|arm64|hd-idle|1.21|
-|bookworm|main|arm64|mergerfs|2.38.0~debian-bookworm|
+|bookworm|main|arm64|mergerfs|2.40.1~debian-bookworm|
 |bullseye|main|i386|eliterss|2.30.0|
 |bullseye|main|i386|hd-idle|1.21|
 |bullseye|main|i386|noimdb|1.1.0|
