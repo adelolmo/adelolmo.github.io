@@ -44,7 +44,7 @@
 |bullseye|main|armhf|delugecli|1.6.1|
 |bullseye|main|armhf|eliterss|2.30.0|
 |bullseye|main|armhf|hd-idle|1.21|
-|bullseye|main|armhf|mergerfs|2.38.0~debian-bullseye|
+|bullseye|main|armhf|mergerfs|2.40.1~debian-bullseye|
 |bullseye|main|armhf|noimdb|1.1.0|
 |bullseye|main|armhf|notify-mail|1.2.2|
 |bullseye|main|armhf|rumbero|1.4.0|
