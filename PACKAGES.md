@@ -16,7 +16,7 @@
 |bookworm|main|amd64|delauncher|2.3.0|
 |bookworm|main|amd64|eliterss|2.30.0|
 |bookworm|main|amd64|hd-idle|1.21|
-|bookworm|main|amd64|mergerfs|2.38.0~debian-bookworm|
+|bookworm|main|amd64|mergerfs|2.40.1~debian-bookworm|
 |bookworm|main|amd64|tvshow-parse|1.19.0|
 |bookworm|main|armhf|eliterss|2.30.0|
 |bookworm|main|armhf|hd-idle|1.21|
