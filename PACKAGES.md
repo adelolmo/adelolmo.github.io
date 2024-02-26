@@ -20,7 +20,7 @@
 |bookworm|main|amd64|tvshow-parse|1.19.0|
 |bookworm|main|armhf|eliterss|2.30.0|
 |bookworm|main|armhf|hd-idle|1.21|
-|bookworm|main|armhf|mergerfs|2.38.0~debian-bookworm|
+|bookworm|main|armhf|mergerfs|2.40.1~debian-bookworm|
 |bookworm|main|arm64|eliterss|2.30.0|
 |bookworm|main|arm64|hd-idle|1.21|
 |bookworm|main|arm64|mergerfs|2.40.1~debian-bookworm|
