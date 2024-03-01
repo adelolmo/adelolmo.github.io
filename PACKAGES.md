@@ -60,7 +60,7 @@
 |buster|main|amd64|delugecli|1.6.1|
 |buster|main|amd64|eliterss|2.29.0|
 |buster|main|amd64|hd-idle|1.21|
-|buster|main|amd64|mergerfs|2.40.1~debian-buster|
+|buster|main|amd64|mergerfs|2.40.2~debian-buster|
 |buster|main|amd64|noimdb|1.1.0|
 |buster|main|amd64|notify-mail|1.2.2|
 |buster|main|amd64|rest980|2.1.2~ado1|
