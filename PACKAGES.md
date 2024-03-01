@@ -34,7 +34,7 @@
 |bullseye|main|amd64|delugecli|1.6.1|
 |bullseye|main|amd64|eliterss|2.30.0|
 |bullseye|main|amd64|hd-idle|1.21|
-|bullseye|main|amd64|mergerfs|2.40.1~debian-bullseye|
+|bullseye|main|amd64|mergerfs|2.40.2~debian-bullseye|
 |bullseye|main|amd64|noimdb|1.1.0|
 |bullseye|main|amd64|notify-mail|1.2.2|
 |bullseye|main|amd64|snapraid-runner|2.0.4|
