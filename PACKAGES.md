@@ -12,7 +12,7 @@
 |bionic|main|arm64|hd-idle|1.21|
 |bookworm|main|i386|eliterss|2.30.0|
 |bookworm|main|i386|hd-idle|1.21|
-|bookworm|main|amd64|adguardhome|0.107.41|
+|bookworm|main|amd64|adguardhome|0.107.50|
 |bookworm|main|amd64|delauncher|2.3.0|
 |bookworm|main|amd64|eliterss|2.30.0|
 |bookworm|main|amd64|hd-idle|1.21|
