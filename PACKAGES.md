@@ -58,7 +58,7 @@
 |bullseye|main|arm64|sonoshttpapi|1.6.9~ado1|
 |buster|main|amd64|adguardhome|0.107.50|
 |buster|main|amd64|delugecli|1.6.1|
-|buster|main|amd64|eliterss|2.29.0|
+|buster|main|amd64|eliterss|2.32.0|
 |buster|main|amd64|hd-idle|1.21|
 |buster|main|amd64|mergerfs|2.40.2~debian-buster|
 |buster|main|amd64|noimdb|1.1.0|
@@ -72,7 +72,7 @@
 |buster|main|armhf|bubbleupnpserver|0.9-5~ado4|
 |buster|main|armhf|createap|0.4.6~ado4|
 |buster|main|armhf|delugecli|1.6.1|
-|buster|main|armhf|eliterss|2.29.0|
+|buster|main|armhf|eliterss|2.32.0|
 |buster|main|armhf|hd-idle|1.21|
 |buster|main|armhf|mergerfs|2.40.2~debian-buster|
 |buster|main|armhf|noimdb|1.1.0|
@@ -86,7 +86,7 @@
 |buster|main|armhf|snapraid-runner|1.1.1|
 |buster|main|armhf|sonoshttpapi|1.6.9~ado1|
 |buster|main|armhf|tvshow-parse|1.17.0|
-|buster|main|arm64|eliterss|2.29.0|
+|buster|main|arm64|eliterss|2.32.0|
 |buster|main|arm64|hd-idle|1.21|
 |buster|main|arm64|mergerfs|2.40.2~debian-buster|
 |buster|main|arm64|noimdb|1.1.0|

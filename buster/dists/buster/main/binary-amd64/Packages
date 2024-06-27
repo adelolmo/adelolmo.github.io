@@ -36,19 +36,19 @@ MD5sum: 3912fe22efc2d6aab2c13ec04d03f80b
 Description: Deluge CLI
 
 Package: eliterss
-Version: 2.29.0
+Version: 2.32.0
 Architecture: all
 Depends: default-jre-headless, transmission-cli, nodejs
-Installed-Size: 53396
+Installed-Size: 61143
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Priority: low
 Section: service
-Filename: pool/main/e/eliterss/eliterss_2.29.0_all.deb
-Size: 49427180
-SHA256: 5724609d06da8bc58c2a85d222c720222dbbf7027498aefd13786a95ff78bcdb
-SHA1: b65b13d21ec538de1a2e2a9d79b408321facd06c
-MD5sum: 71ed43646fbad87093f898ab93ac5ae4
-Description: Create a RSS feed from torrent websites
+Filename: pool/main/e/eliterss/eliterss_2.32.0_all.deb
+Size: 57285996
+SHA256: 49860323242b21399be99d447760236abd9d63bebba57b55f1c4a6df5d8099d3
+SHA1: 95aa90f0d85ed61ecae66339e1feaf7ab2f2592e
+MD5sum: a7b5b9d4f4d441a5124e259a44a94a48
+Description: Create an RSS feed from torrent websites
 
 Package: hd-idle
 Version: 1.21
