@@ -1,0 +1,39 @@
+Origin: Andoni del Olmo
+Label: adelolmo
+Suite: stable
+Codename: noble
+Version: 24.04
+Date: Thu, 04 Jul 2024 06:01:29 UTC
+Architectures: amd64 armhf arm64
+Components: main
+Description: adelolmo ubuntu noble repository
+MD5Sum:
+ a99ddd751df9b2458df848f1ec7f65b7 1140 main/binary-amd64/Packages
+ f3872b68d695f31a7686922a6e3758c0 686 main/binary-amd64/Packages.gz
+ 58580d8fa814949628b23f4f63d0ae59 153 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 773896a3b6add456e9754b1fbdcc70a3 153 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 0fc4c45cca8281ef06403d7d50034e70 153 main/binary-arm64/Release
+SHA1:
+ 6ce4427e70b39ff9de1b739ac721923322dac623 1140 main/binary-amd64/Packages
+ 8100b0074b61dc461d32c8b3b3133603305f322c 686 main/binary-amd64/Packages.gz
+ 95441e88950ab048c9133a6dc463c522cd6bb025 153 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ d90f98958d47d8fd51d792e779916bc77a76d6d8 153 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 4ac8f34cec062353f6e6f6aa21bd2873b06dca1d 153 main/binary-arm64/Release
+SHA256:
+ 728997d10bd1e8f6a4c10a4507a06ec47b2af087f871176637c7ed15621818b1 1140 main/binary-amd64/Packages
+ 370eb0b324c6177bd8b928e47adc106be600ab1b88e6b2bf7479af28b0d9400b 686 main/binary-amd64/Packages.gz
+ d091f4df7e685027d209e1919e3f323d2fd91e92a1654f3864486acccee566e7 153 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 7ed6265a7813c82568e96da49af8e2058d573c8ae357b6ac2d6dc69626ecc5ba 153 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ e858213930de9662c3d34b6e737b92ef6ef84ff3c23aee89ee95e124e191f3ea 153 main/binary-arm64/Release

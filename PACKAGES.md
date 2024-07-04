@@ -138,6 +138,7 @@
 |jessie|main|arm64|rest980|2.1.2~ado1|
 |jessie|main|arm64|snapraid-runner|1.1.1|
 |jessie|main|arm64|sonoshttpapi|1.6.9~ado1|
+|noble|main|amd64|hd-idle|1.21|
 |stretch|main|amd64|adguardhome|0.107.50|
 |stretch|main|amd64|delugecli|1.6.1|
 |stretch|main|amd64|eliterss|2.29.0|
