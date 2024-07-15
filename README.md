@@ -8,6 +8,7 @@ List of current [packages](PACKAGES.md) in the repositories.
 
 | version | name   |
 |---------|--------|
+| 24.04   | noble  |
 | 22.04   | jammy  |
 | 20.04   | focal  |
 | 18.04   | bionic |
@@ -18,6 +19,7 @@ List of current [packages](PACKAGES.md) in the repositories.
 
 |version|name|
 |------|------|
+|13|trixie|
 |12|bookworm|
 |11|bullseye|
 |10|buster|
