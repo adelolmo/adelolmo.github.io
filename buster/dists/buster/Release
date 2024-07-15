@@ -3,37 +3,37 @@ Label: adelolmo
 Suite: stable
 Codename: buster
 Version: 10.0
-Date: Thu, 27 Jun 2024 18:45:58 UTC
+Date: Mon, 15 Jul 2024 19:12:54 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: adelolmo debian buster repository
 MD5Sum:
- 226c174ee82da97ee3ac6fa51869ff16 6760 main/binary-amd64/Packages
- 5a83ee35f495213ae6f580c7aa496a86 2841 main/binary-amd64/Packages.gz
+ 8b3474def3b5b67a0e146d18cb943816 7246 main/binary-amd64/Packages
+ 62ab9ec575900f6cdc8f5eca84926834 3023 main/binary-amd64/Packages.gz
  831da18a2df3ab30b3f57f3daab93003 153 main/binary-amd64/Release
- 8685db5b91dcdf5ad061bde974638d0f 11824 main/binary-armhf/Packages
- 093a0a2b727828aa4817bb9118f40d2a 4781 main/binary-armhf/Packages.gz
+ c2182552c95c532cdf32becba40db969 12310 main/binary-armhf/Packages
+ 59bfa6abc6d947824ed835f776b34da2 4958 main/binary-armhf/Packages.gz
  e7373563498f612d1dc64180ecefef64 153 main/binary-armhf/Release
- 5737c92c6126053679ecc12751ba59fc 4449 main/binary-arm64/Packages
- 864cc37fb41e9b4dfa99751507c19756 2012 main/binary-arm64/Packages.gz
+ 87fd39d8270840c16f931b7d7a0ea402 4935 main/binary-arm64/Packages
+ cac8cbe0a9edf841981777b47c5e2a23 2190 main/binary-arm64/Packages.gz
  d491fdc38309239c478ac6c3c88cfad9 153 main/binary-arm64/Release
 SHA1:
- 5ac2ce9f55f985e32b3627ba5032dca2a203e3ad 6760 main/binary-amd64/Packages
- 8ea3ef0aa9185babea4c858aa45069298fb11b45 2841 main/binary-amd64/Packages.gz
+ f753f5232391660b299f6679ef7e7df4fb48b487 7246 main/binary-amd64/Packages
+ 6c15365da817068293eed99f609a3095ca32734a 3023 main/binary-amd64/Packages.gz
  6a2ac67d9c57d68d291a5bcb7bf3d4568b5020ca 153 main/binary-amd64/Release
- 8950b89e0ef25d51e7c0904270a1cbd92f4bff1b 11824 main/binary-armhf/Packages
- a38bcbc6d3b9c7ca2837ed85cdb41a0d6144e05a 4781 main/binary-armhf/Packages.gz
+ eb76625f0af684cf1a0d1c6c3cb6a10f8e37388e 12310 main/binary-armhf/Packages
+ 69362da7a0b9f3f47182744e3398b405795df9d6 4958 main/binary-armhf/Packages.gz
  cf9db83fb66dc9c483b0e7fda2a09c43ba11aab7 153 main/binary-armhf/Release
- d471969746d70bc1cf626da1d2c4363c1e208f8d 4449 main/binary-arm64/Packages
- f83ec3c9b2d30f42d5f765fe99fc541d74c6b24a 2012 main/binary-arm64/Packages.gz
+ 1dbb67a0b982b9727ed092a8c261b6e10ea1e603 4935 main/binary-arm64/Packages
+ 525473ccd6911161e8ea20f544ebede0224aeaf2 2190 main/binary-arm64/Packages.gz
  d1e741dd8a1ba1d0b16e9b940e556527c958772f 153 main/binary-arm64/Release
 SHA256:
- b116325b2bfe89467b5dbb3da9865adab205fc4238060517b15e3c91f46e5637 6760 main/binary-amd64/Packages
- 02435be81058ac0c43189597070982efa68d0b0bdfd797b1e1006b503ca587b9 2841 main/binary-amd64/Packages.gz
+ 54ab3ca965eb696a09ef9e4be42f1706d0e52c324bc437a2b9f9ae8d8cb5805e 7246 main/binary-amd64/Packages
+ 62fb369ca030435dac48ea44667edd090f5572fc54c1feb98f9140e6948c9f45 3023 main/binary-amd64/Packages.gz
  b55b3938f4299fad264dcd61a9ca29062a70211256f7aa68f759da3526953a1f 153 main/binary-amd64/Release
- 6106c6b23869ff39cb64ad2d6395c62ac5a761a38cb4f2ccd092b838d81c3806 11824 main/binary-armhf/Packages
- 6037549f5d55c07b83c3f7ae6ab31708deb385eae52a44669015b3ca0620c6fa 4781 main/binary-armhf/Packages.gz
+ 019583089939b5f614069a06fc31ffead222f9dc88f05d3343386635e41eec51 12310 main/binary-armhf/Packages
+ b02818e524c0040a875b9d48b0a34d072b6df6fa9447558960a78999106f532b 4958 main/binary-armhf/Packages.gz
  b594a0269448e71cf83235bd8653d5ec701c63bdfb24b96468f5f753baad8f09 153 main/binary-armhf/Release
- 88415e463ab93d7a3467046e5000b26303e20b78b44990e2d9da7287bc1b75fd 4449 main/binary-arm64/Packages
- d5319f9dac00fdbe2e70d45094861725ff086ad79b69061012a831e57ae81965 2012 main/binary-arm64/Packages.gz
+ 2d1f409d6fed5a74aec903dd204f5342e45173097e3b3e83185cb8aa63bb97a3 4935 main/binary-arm64/Packages
+ ddc5984df42984329b9d7f6eb0a85643cce35b72c8db5d7163b0594bc78bbf82 2190 main/binary-arm64/Packages.gz
  53dad87b5e6ea9a4c140d72324f1d543a2719c39e1031a6f97169937aa89fde7 153 main/binary-arm64/Release
