@@ -148,6 +148,7 @@
 |stretch|main|amd64|delugecli|1.6.1|
 |stretch|main|amd64|eliterss|2.29.0|
 |stretch|main|amd64|hd-idle|1.21|
+|stretch|main|amd64|mp3spmerge|1.0.0|
 |stretch|main|amd64|noimdb|1.1.0|
 |stretch|main|amd64|notify-mail|1.2.2|
 |stretch|main|amd64|rest980|2.1.2~ado1|
@@ -162,6 +163,7 @@
 |stretch|main|armhf|eliterss|2.29.0|
 |stretch|main|armhf|hd-idle|1.21|
 |stretch|main|armhf|mergerfs|2.34.1~debian-stretch|
+|stretch|main|armhf|mp3spmerge|1.0.0|
 |stretch|main|armhf|noimdb|1.1.0|
 |stretch|main|armhf|notify-mail|1.2.2|
 |stretch|main|armhf|pimotd|1.2.0|
@@ -175,6 +177,7 @@
 |stretch|main|armhf|tvshow-parse|1.17.0|
 |stretch|main|arm64|eliterss|2.29.0|
 |stretch|main|arm64|hd-idle|1.21|
+|stretch|main|arm64|mp3spmerge|1.0.0|
 |stretch|main|arm64|noimdb|1.1.0|
 |stretch|main|arm64|rest980|2.1.2~ado1|
 |stretch|main|arm64|snapraid-runner|1.1.1|
