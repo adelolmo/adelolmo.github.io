@@ -118,7 +118,7 @@
 |jessie|main|amd64|delugecli|1.6.1|
 |jessie|main|amd64|eliterss|2.29.0|
 |jessie|main|amd64|hd-idle|1.21|
-|jessie|main|amd64|mp3spmerge|1.0.0|
+|jessie|main|amd64|mp3spmerge|1.0.1|
 |jessie|main|amd64|noimdb|1.1.0|
 |jessie|main|amd64|notify-mail|1.2.2|
 |jessie|main|amd64|rest980|2.1.2~ado1|
@@ -133,7 +133,7 @@
 |jessie|main|armhf|eliterss|2.29.0|
 |jessie|main|armhf|hd-idle|1.21|
 |jessie|main|armhf|mergerfs|2.33.5~debian-jessie|
-|jessie|main|armhf|mp3spmerge|1.0.0|
+|jessie|main|armhf|mp3spmerge|1.0.1|
 |jessie|main|armhf|noimdb|1.1.0|
 |jessie|main|armhf|notify-mail|1.2.2|
 |jessie|main|armhf|pimotd|1.2.0|
@@ -147,7 +147,7 @@
 |jessie|main|armhf|tvshow-parse|1.17.0|
 |jessie|main|arm64|eliterss|2.29.0|
 |jessie|main|arm64|hd-idle|1.21|
-|jessie|main|arm64|mp3spmerge|1.0.0|
+|jessie|main|arm64|mp3spmerge|1.0.1|
 |jessie|main|arm64|noimdb|1.1.0|
 |jessie|main|arm64|rest980|2.1.2~ado1|
 |jessie|main|arm64|snapraid-runner|1.1.1|
