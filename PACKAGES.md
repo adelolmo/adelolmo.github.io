@@ -69,7 +69,7 @@
 |buster|main|amd64|eliterss|2.32.0|
 |buster|main|amd64|hd-idle|1.21|
 |buster|main|amd64|mergerfs|2.40.2~debian-buster|
-|buster|main|amd64|mp3spmerge|1.0.0|
+|buster|main|amd64|mp3spmerge|1.0.1|
 |buster|main|amd64|noimdb|1.1.0|
 |buster|main|amd64|notify-mail|1.2.2|
 |buster|main|amd64|rest980|2.1.2~ado1|
@@ -84,7 +84,7 @@
 |buster|main|armhf|eliterss|2.32.0|
 |buster|main|armhf|hd-idle|1.21|
 |buster|main|armhf|mergerfs|2.40.2~debian-buster|
-|buster|main|armhf|mp3spmerge|1.0.0|
+|buster|main|armhf|mp3spmerge|1.0.1|
 |buster|main|armhf|noimdb|1.1.0|
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
@@ -99,7 +99,7 @@
 |buster|main|arm64|eliterss|2.32.0|
 |buster|main|arm64|hd-idle|1.21|
 |buster|main|arm64|mergerfs|2.40.2~debian-buster|
-|buster|main|arm64|mp3spmerge|1.0.0|
+|buster|main|arm64|mp3spmerge|1.0.1|
 |buster|main|arm64|noimdb|1.1.0|
 |buster|main|arm64|rest980|2.1.2~ado1|
 |buster|main|arm64|snapraid-runner|1.1.1|
