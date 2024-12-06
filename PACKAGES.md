@@ -30,6 +30,7 @@
 |bookworm|main|arm64|mp3spmerge|1.0.1|
 |bullseye|main|i386|eliterss|2.30.0|
 |bullseye|main|i386|hd-idle|1.21|
+|bullseye|main|i386|heroscribe-enhanced-skull|1.10|
 |bullseye|main|i386|mp3spmerge|1.0.1|
 |bullseye|main|i386|noimdb|1.1.0|
 |bullseye|main|i386|snapraid-runner|2.0.4|
@@ -39,6 +40,7 @@
 |bullseye|main|amd64|delugecli|1.6.1|
 |bullseye|main|amd64|eliterss|2.30.0|
 |bullseye|main|amd64|hd-idle|1.21|
+|bullseye|main|amd64|heroscribe-enhanced-skull|1.10|
 |bullseye|main|amd64|mergerfs|2.40.2~debian-bullseye|
 |bullseye|main|amd64|mp3spmerge|1.0.1|
 |bullseye|main|amd64|noimdb|1.1.0|
@@ -50,6 +52,7 @@
 |bullseye|main|armhf|delugecli|1.6.1|
 |bullseye|main|armhf|eliterss|2.30.0|
 |bullseye|main|armhf|hd-idle|1.21|
+|bullseye|main|armhf|heroscribe-enhanced-skull|1.10|
 |bullseye|main|armhf|mergerfs|2.40.2~debian-bullseye|
 |bullseye|main|armhf|mp3spmerge|1.0.1|
 |bullseye|main|armhf|noimdb|1.1.0|
@@ -59,6 +62,7 @@
 |bullseye|main|armhf|sonoshttpapi|1.6.9~ado1|
 |bullseye|main|arm64|eliterss|2.30.0|
 |bullseye|main|arm64|hd-idle|1.21|
+|bullseye|main|arm64|heroscribe-enhanced-skull|1.10|
 |bullseye|main|arm64|mergerfs|2.40.2~debian-bullseye|
 |bullseye|main|arm64|mp3spmerge|1.0.1|
 |bullseye|main|arm64|noimdb|1.1.0|
