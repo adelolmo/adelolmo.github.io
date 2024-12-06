@@ -68,6 +68,7 @@
 |buster|main|amd64|delugecli|1.6.1|
 |buster|main|amd64|eliterss|2.32.0|
 |buster|main|amd64|hd-idle|1.21|
+|buster|main|amd64|heroscribe-enhanced-skull|1.10|
 |buster|main|amd64|mergerfs|2.40.2~debian-buster|
 |buster|main|amd64|mp3spmerge|1.0.1|
 |buster|main|amd64|noimdb|1.1.0|
@@ -83,6 +84,7 @@
 |buster|main|armhf|delugecli|1.6.1|
 |buster|main|armhf|eliterss|2.32.0|
 |buster|main|armhf|hd-idle|1.21|
+|buster|main|armhf|heroscribe-enhanced-skull|1.10|
 |buster|main|armhf|mergerfs|2.40.2~debian-buster|
 |buster|main|armhf|mp3spmerge|1.0.1|
 |buster|main|armhf|noimdb|1.1.0|
@@ -98,6 +100,7 @@
 |buster|main|armhf|tvshow-parse|1.17.0|
 |buster|main|arm64|eliterss|2.32.0|
 |buster|main|arm64|hd-idle|1.21|
+|buster|main|arm64|heroscribe-enhanced-skull|1.10|
 |buster|main|arm64|mergerfs|2.40.2~debian-buster|
 |buster|main|arm64|mp3spmerge|1.0.1|
 |buster|main|arm64|noimdb|1.1.0|
