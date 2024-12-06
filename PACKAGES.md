@@ -129,13 +129,13 @@
 |focal|main|armhf|hd-idle|1.21|
 |focal|main|armhf|heroscribe-enhanced-skull|1.11|
 |jammy|main|amd64|hd-idle|1.21|
-|jammy|main|amd64|heroscribe-enhanced-skull|1.10|
+|jammy|main|amd64|heroscribe-enhanced-skull|1.11|
 |jammy|main|i386|hd-idle|1.21|
-|jammy|main|i386|heroscribe-enhanced-skull|1.10|
+|jammy|main|i386|heroscribe-enhanced-skull|1.11|
 |jammy|main|arm64|hd-idle|1.21|
-|jammy|main|arm64|heroscribe-enhanced-skull|1.10|
+|jammy|main|arm64|heroscribe-enhanced-skull|1.11|
 |jammy|main|armhf|hd-idle|1.21|
-|jammy|main|armhf|heroscribe-enhanced-skull|1.10|
+|jammy|main|armhf|heroscribe-enhanced-skull|1.11|
 |jessie|main|amd64|adguardhome|0.107.50|
 |jessie|main|amd64|delugecli|1.6.1|
 |jessie|main|amd64|eliterss|2.29.0|
