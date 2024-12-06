@@ -39,6 +39,25 @@ Description: Spin down idle hard disks
  manufacturers recommend a minimum idle time of 3-5 minutes, the default in
  hd-idle is 10 minutes.
 
+Package: heroscribe-enhanced-skull
+Version: 1.10
+Architecture: all
+Maintainer: Andoni del olmo <andoni.delolmo@gmail.com>
+Installed-Size: 18706
+Depends: default-jre-headless, ghostscript
+Homepage: https://github.com/adelolmo/heroscribe
+Priority: optional
+Section: java
+Filename: pool/main/h/heroscribe-enhanced-skull/heroscribe-enhanced-skull_1.10_all.deb
+Size: 16750208
+SHA256: 9da266f471524b32d634509913d7dc179d209a8428f6cdaf40563f6a7a69a7c1
+SHA1: eb270809e2691a475d63d08d48ab851f62491f4c
+MD5sum: 9561e0c8af0424046fce5de84b700cbe
+Description: Easily produce typographic quality HeroQuest© maps
+ Its main output format is EPS, the de-facto standard in the printing industry;
+ EPS files can be opened by almost any CG application (GNU Ghostscript is
+ recommended); maps can also be exported in PNG and PDF formats.
+
 Package: mergerfs
 Version: 2.40.2~debian-bookworm
 Architecture: arm64
