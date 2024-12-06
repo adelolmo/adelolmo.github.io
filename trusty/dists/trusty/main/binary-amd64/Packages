@@ -41,7 +41,7 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: heroscribe-enhanced-skull
-Version: 1.10
+Version: 1.11
 Architecture: all
 Maintainer: Andoni del olmo <andoni.delolmo@gmail.com>
 Installed-Size: 18706
@@ -49,11 +49,11 @@ Depends: default-jre-headless, ghostscript
 Homepage: https://github.com/adelolmo/heroscribe
 Priority: optional
 Section: java
-Filename: pool/main/h/heroscribe-enhanced-skull/heroscribe-enhanced-skull_1.10_all.deb
-Size: 16750208
-SHA256: 9da266f471524b32d634509913d7dc179d209a8428f6cdaf40563f6a7a69a7c1
-SHA1: eb270809e2691a475d63d08d48ab851f62491f4c
-MD5sum: 9561e0c8af0424046fce5de84b700cbe
+Filename: pool/main/h/heroscribe-enhanced-skull/heroscribe-enhanced-skull_1.11_all.deb
+Size: 16750380
+SHA256: d9c5dce8fcc915be7265fa2d173d642352af30db81624365c9514b9fd1af88a7
+SHA1: 305876e4ca421c405e2129b317910fd37b318ffa
+MD5sum: 50604d2a5ccc1905cb1469c074ba7e00
 Description: Easily produce typographic quality HeroQuest© maps
  Its main output format is EPS, the de-facto standard in the printing industry;
  EPS files can be opened by almost any CG application (GNU Ghostscript is
