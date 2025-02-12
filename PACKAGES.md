@@ -218,7 +218,7 @@
 |stretch|main|arm64|rest980|2.1.2~ado1|
 |stretch|main|arm64|snapraid-runner|1.1.1|
 |stretch|main|arm64|sonoshttpapi|1.6.9~ado1|
-|trixie|main|amd64|delauncher|2.3.3|
+|trixie|main|amd64|delauncher|2.3.4|
 |trixie|main|amd64|hd-idle|1.21|
 |trixie|main|amd64|mp3spmerge|1.0.1|
 |trixie|main|armhf|hd-idle|1.21|
