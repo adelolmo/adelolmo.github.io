@@ -22,7 +22,7 @@ Description: Network-wide ads & trackers blocking DNS server
  share a lot of common code.
 
 Package: delauncher
-Version: 2.3.3
+Version: 2.3.4
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 4
@@ -30,11 +30,11 @@ Depends: libgtk-3-0, libglib2.0-0, libgdk-pixbuf2.0-0, libnotify-bin
 Homepage: https://github.com/adelolmo/delauncher
 Priority: standard
 Section: extras
-Filename: pool/main/d/delauncher/delauncher_2.3.3_amd64.deb
-Size: 4873792
-SHA256: 8cef542d8e9afc6cbea61f9c01d276a4420b3fc7aeffbac6193e1a3ba7b7037e
-SHA1: 3778c9a595575e9319c4f31a348a0f4d9088b6cc
-MD5sum: 3837ce0c5551542c645e9f31f1695620
+Filename: pool/main/d/delauncher/delauncher_2.3.4_amd64.deb
+Size: 5406072
+SHA256: 05c701db5fd4a77fdd6b4e0fbc7928b0c7729dcfbcfde5bb6b33c346c6c8ad78
+SHA1: fa42e57a6d2cb9acbea63ef3b0d46345c716b85b
+MD5sum: d4911099c3666a646787b35daaa9e5a0
 Description: Send magnet and torrent links to a remote deluge server
 
 Package: delugecli
