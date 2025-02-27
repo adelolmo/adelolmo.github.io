@@ -41,17 +41,17 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: mp3spmerge
-Version: 1.0.1
-Architecture: all
+Version: 1.1.0
+Architecture: amd64
 Maintainer: Andoni de Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 
 Depends: ffmpeg, eyed3, jq, mp3val
 Priority: standard
 Section: extras
-Filename: pool/main/m/mp3spmerge/mp3spmerge_1.0.1_all.deb
-Size: 1992
-SHA256: cad5fb0e3193403c2fdd692f3902235c83db9f030b65e899acc461f7ac3ab2e4
-SHA1: 3c3cccc1c82c950ca9c181313233f983e37f24da
-MD5sum: 3a01e84dd02127990f335aef09d8722b
-Description: Merge Spotify mp3 chucks into a single mp3 file
+Filename: pool/main/m/mp3spmerge/mp3spmerge_1.1.0_amd64.deb
+Size: 1586372
+SHA256: 3873581c16227f2ae2a45c135f5f814736ad2d1acf841ccb0a8e2bc08c900490
+SHA1: a5b66244cd443c165640b1e35724ccf7f3a6e65c
+MD5sum: 4177247ad3b7f163302971e42c361497
+Description: Merge Spotify audio books mp3 chunks into a single mp3 file
 
