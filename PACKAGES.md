@@ -49,7 +49,7 @@
 |bullseye|main|amd64|hd-idle|1.21|
 |bullseye|main|amd64|heroscribe-enhanced-skull|1.12|
 |bullseye|main|amd64|mergerfs|2.40.2~debian-bullseye|
-|bullseye|main|amd64|mp3spmerge|1.0.1|
+|bullseye|main|amd64|mp3spmerge|1.1.0|
 |bullseye|main|amd64|noimdb|1.1.0|
 |bullseye|main|amd64|notify-mail|1.2.2|
 |bullseye|main|amd64|snapraid-runner|2.0.4|
