@@ -46,6 +46,7 @@
 |bullseye|main|amd64|delauncher|2.3.4|
 |bullseye|main|amd64|delugecli|1.6.1|
 |bullseye|main|amd64|eliterss|2.30.0|
+|bullseye|main|amd64|europanews|1.0.1|
 |bullseye|main|amd64|hd-idle|1.21|
 |bullseye|main|amd64|heroscribe-enhanced-skull|1.12|
 |bullseye|main|amd64|mergerfs|2.40.2~debian-bullseye|
