@@ -20,6 +20,7 @@
 |bookworm|main|amd64|adguardhome|0.107.50|
 |bookworm|main|amd64|delauncher|2.3.4|
 |bookworm|main|amd64|eliterss|2.32.0|
+|bookworm|main|amd64|europanews|1.0.1|
 |bookworm|main|amd64|hd-idle|1.21|
 |bookworm|main|amd64|heroscribe-enhanced-skull|1.12|
 |bookworm|main|amd64|mergerfs|2.40.2~debian-bookworm|
