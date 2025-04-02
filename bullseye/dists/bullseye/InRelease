@@ -6,7 +6,7 @@ Label: adelolmo
 Suite: stable
 Codename: bullseye
 Version: 11.0
-Date: Mon, 03 Mar 2025 17:40:48 UTC
+Date: Wed, 02 Apr 2025 18:54:45 UTC
 Architectures: i386 amd64 armhf arm64
 Components: main
 Description: adelolmo debian bullseye repository
@@ -14,8 +14,8 @@ MD5Sum:
  4e2d8907f9831b80f596da8caa2bd3b0 4429 main/binary-i386/Packages
  434f944b95059a8ee989ad57ca4fc917 2000 main/binary-i386/Packages.gz
  444a80b6bc11413d35f6d5baeb528afd 154 main/binary-i386/Release
- a45900fe0a11395473bb1279fa2e08b5 8562 main/binary-amd64/Packages
- a5c873980229e517092d9bcd47444324 3525 main/binary-amd64/Packages.gz
+ f0b275077a959c60be1101383241d03e 8562 main/binary-amd64/Packages
+ e3708ebf0fe52af4dadc40f149de9620 3523 main/binary-amd64/Packages.gz
  855e07f99ed783c492a2e16c4cf2663e 155 main/binary-amd64/Release
  9b06e6118faced6d36d39081e7fa21ac 7543 main/binary-armhf/Packages
  b65258c0dcdfb86b1b2f35e1bef26cf2 3196 main/binary-armhf/Packages.gz
@@ -27,8 +27,8 @@ SHA1:
  de8e4a0c9b12567c57ee7402546d048d0697ad4c 4429 main/binary-i386/Packages
  684e81ff38f58db8a45faa85dd177a6f8ab327a3 2000 main/binary-i386/Packages.gz
  1e36e264b2a7e8243790f4fccf3640cb3ba7f35b 154 main/binary-i386/Release
- 10e4260bcfe4af6b055b44c9c4c7e7c59c33bb65 8562 main/binary-amd64/Packages
- 47d3ac6e57850c7e7b67828b998db61328de875f 3525 main/binary-amd64/Packages.gz
+ e97930dd78f6d2dbc28a38ea444febfe957eba81 8562 main/binary-amd64/Packages
+ ad498243c70b2b750026b129e408a76f6e00cb2e 3523 main/binary-amd64/Packages.gz
  5a7311d9b438ef5db3f7d355bdd5f7d30a9c7076 155 main/binary-amd64/Release
  c4a72e5080ccbc96fa9aac8e4926ce6f6287309c 7543 main/binary-armhf/Packages
  ce293177f1dd52ddaf17cd01b733cb22c80c3225 3196 main/binary-armhf/Packages.gz
@@ -40,8 +40,8 @@ SHA256:
  7cdbe540424cefea6115c87c4c07807167fd42a528a684133f2bca7bafe6335c 4429 main/binary-i386/Packages
  e82cfc771ee4e0e1cad56d2ed988917ebabcf03b62707f130f10c7daaaf04400 2000 main/binary-i386/Packages.gz
  611a74babd20c2ca021f21cadfdda016f95b54c966299444d27e8b2e4f327756 154 main/binary-i386/Release
- 7d1de6eabc87e21977572bc3ee6d12fe38ee39b5fa6bd3366607e75a79e1df12 8562 main/binary-amd64/Packages
- c537c15a8db8a9833d9d8a7447b806c23a6560ea557bd0c1a3c4bd2f14aa72fe 3525 main/binary-amd64/Packages.gz
+ 25478a36ba492057961130194bef04e939a8e350a4ce2616590c9735b0df4cf4 8562 main/binary-amd64/Packages
+ a30da90d8bc17f05ad4caf0461ddfcab880de710b1310c69f33aa3deb1729c9a 3523 main/binary-amd64/Packages.gz
  56ce63f9f4f03d6ebe0e6699dc76471d50b5ce4f3288f3f73b5c854aaf4250d2 155 main/binary-amd64/Release
  2c5368d6da5890014314ae39888a74a1cd588d5b41a36b11b8cd88b4c9d41747 7543 main/binary-armhf/Packages
  fc77b12bd524e1929fd1433f49ff11d660f951270d4fc9dc05849cd4a901c0d0 3196 main/binary-armhf/Packages.gz
@@ -51,12 +51,12 @@ SHA256:
  1d04e45f7ee65d5a465d6bca348d68703de5dd4c9a843b565ff6a7796a19d759 155 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmfF6aIACgkQhhfXN9sG
-qB+3pAf/RzfRsvdaJYaBohOm0veuT3sqVeA0CM3eFWvaQsogDMUCKOAsorR6qN4k
-fY1xBUnugBtkot+ab3Ed1bnbRXR+aW1T0aevy12VpnI0Uilg27QOgSGGO/KNro7b
-j3qmUnNQNCEAo1nWzMzfjo5iDuwqDcpe72J2ogitM49GWqgkODvpB4aljwXDLxoe
-Drm1Zb96CnJRlY1NIiWNruyPRw4pGoy9CwufAV66/+8dQeJf06JMVGxy9vJrR3Tr
-0vgQeR9kCqONWHqY1XfXYBc4FHi3KnczbC6HgvVKaiIbEwoI+wuQYdG32s+mosFw
-PuMGx6R3LI9QSlrlmHcWnrsOU4U3LA==
-=JW/s
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmfth/kACgkQhhfXN9sG
+qB8BcQf/fbDRY5GbYMTk5Cs+08CGcNg8l9VoKmGRPwYCF56MZgVs92uzf+648dCs
+vf/BEI8p1u1QplxpvQZZpHqNNK6NwPoUJ4Z4r2EwNVtx1mPO8Cs6wRaaRY5v9ksl
+oC/p+tgqeukoiN1JiCgk2FVSItV+4gOA5H7NS6RgBfpCKqx7PTvVZyK/PPMPWyNG
+QVkEqTHAnod7Bfys5cX7x7RC5xX10MRr6xYQDTKgFszw655po3zGuB/DJp3aWRxG
+UIMCtIMVfnoBK2xroPSp5F3xtcOflPxbACepQnfQlCtzTMDdlMltsMsDPGUziwEH
+3WCRZEJaN8DR/uuuu5JfJ7SmyFxBIw==
+=MCXX
 -----END PGP SIGNATURE-----
