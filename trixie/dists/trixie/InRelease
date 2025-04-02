@@ -6,13 +6,13 @@ Label: adelolmo
 Suite: stable
 Codename: trixie
 Version: 13.0
-Date: Mon, 03 Mar 2025 17:40:59 UTC
+Date: Wed, 02 Apr 2025 18:55:01 UTC
 Architectures: amd64 armhf arm64
 Components: main
 Description: adelolmo debian trixie repository
 MD5Sum:
- 487b0ae6474f577cc852da313e9d88b0 2681 main/binary-amd64/Packages
- 8b47dba1e4ca080bb943547109992bd4 1284 main/binary-amd64/Packages.gz
+ 7869d9703d0734cbeb1f5c7505bdcf34 2681 main/binary-amd64/Packages
+ 366eaee69106fd81da67809817ef9d89 1283 main/binary-amd64/Packages.gz
  6f22fe6cfcbe148b7d05ee5760010df1 153 main/binary-amd64/Release
  48e4074a5338c8b60dc7b6d010f115c0 1626 main/binary-armhf/Packages
  101301a13a99c299113297c0cd4f70dc 909 main/binary-armhf/Packages.gz
@@ -21,8 +21,8 @@ MD5Sum:
  584e80c1f909d30c43aa9f9ef5dac166 908 main/binary-arm64/Packages.gz
  c927c5d615cd8e36f087756dd354d544 153 main/binary-arm64/Release
 SHA1:
- ba3e0e60728a9f0c6def022d0825604446f508c1 2681 main/binary-amd64/Packages
- 8c7010a76e627311caff644c8797de2f0f5aef70 1284 main/binary-amd64/Packages.gz
+ ea026ab2c91a563504b5299437c3d9a8db0651d2 2681 main/binary-amd64/Packages
+ 4b06ed7a905fa7928a84518ed685de7729f00efd 1283 main/binary-amd64/Packages.gz
  1f2cb2759505f0da39b4e87f561242c3fb9e6869 153 main/binary-amd64/Release
  53e3e30f041c74e06a0dc7e272ae4fe8ab37226b 1626 main/binary-armhf/Packages
  f26e2d4080b932ec8923855a3b4cbd9223b21c15 909 main/binary-armhf/Packages.gz
@@ -31,8 +31,8 @@ SHA1:
  490c8e983a72259e7251f57b3adb0c0d0363bc04 908 main/binary-arm64/Packages.gz
  5a8a83eb81a06060395e6a7027b9e19b7d83d4a4 153 main/binary-arm64/Release
 SHA256:
- 8b917bff2dbc06252766818463782b57c5033c24153aede83398e2d9df42f097 2681 main/binary-amd64/Packages
- c882ed6bb38a1783818a5f49e492180df4a78c10b41d5f37c0ac416d3fe8fba1 1284 main/binary-amd64/Packages.gz
+ d2f1953e4d2816bffe7789a2fb680faf7546bbc6aa79d44dcc4a693345c49692 2681 main/binary-amd64/Packages
+ 368ff188637cf9eaca75d35b0183f9a695aabe752f4b2dc35cd3102fe97fca45 1283 main/binary-amd64/Packages.gz
  d4925c9e3aa1df9742b95a81150e27f406e762b02c8ea0736e798fb33eea2439 153 main/binary-amd64/Release
  74577c336aca1df901ea1ecb38d14391ef52dedf2eae116d39a33d28cbd15aa4 1626 main/binary-armhf/Packages
  147498bcef171c1f58ce0744d88a21218d5435f8d2d99cc8bff8071acf2dda54 909 main/binary-armhf/Packages.gz
@@ -42,12 +42,12 @@ SHA256:
  aa6f998c51bce85bc77a41b1bc467668b84e3f2dada0fae8e3667ec0a5699da5 153 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmfF6awACgkQhhfXN9sG
-qB+QxQgAtnT+eTNavE6jbugY3mhJPaMGsaeTyvAcJ+3Cz+Fy/PNXTrus4Stqnv/z
-xNPA3cnJ3mBMuc3EdlRaTSSc8UnMnSFHGAD4oxHLY5GwWyhTL1Se97U2qW6h9qrU
-5m3Xra6XQKdwm1XI5VfX0QH9Rj/kYJ4OI6lJh/eOj1WkpVLbTpFZJLb9q+bCpfXs
-8UlMdKEzUSi4iuYicS2I+FH+5C5tlXWQJk1AMxeqFFYcjv78AgCs8wh/QsnUSbgb
-Rbuxm2M2kSD8lVkogYELMjPOiWm/xVTdOCAlhAJtsI0pKs7L6vmG8fN0gKC8LrYv
-UpUz0pkeTP2QyzfMmKoFuEucJEYQOQ==
-=vlXv
+iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmftiAUACgkQhhfXN9sG
+qB/zSgf/TFF+2Qe9cnAhihaLsoo+HehuTPoHa9WuDdIUahZ828Pzq9bswKun2k4I
+93w4RhKbvgCwfGbsZ3Fdqz9OUoFvYK4XdeX3NJEM8Qn8SniVYvd6tCQ1F7Iishjk
+QobYfN9vjRCxXMsBAp4DMDP/d9uZuHz0Ux64QmW94PnhqLjWuZatNut1oDONSSXr
+jzzUqRQJTK2UZfjWl998N9IdSksNzjSYR+NUev4H+ec6cFGtXa1NfT50hZjjlbRl
+/6nbBm4eia8UgeVBq18GDTCXUiPGxwz/48Irw8lH02NrOmahmW7qadRCOSC5aLyA
+ZFWIlNjQOF5h4sdMxJHqbMcovXmD0A==
+=BwPz
 -----END PGP SIGNATURE-----
