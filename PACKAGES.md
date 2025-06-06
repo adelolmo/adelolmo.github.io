@@ -236,6 +236,7 @@
 |trusty|main|amd64|delauncher|1.5.1|
 |trusty|main|amd64|hd-idle|1.21|
 |trusty|main|amd64|heroscribe-enhanced-skull|1.12|
+|trusty|main|amd64|teadngine|1.0.0|
 |trusty|main|i386|hd-idle|1.21|
 |trusty|main|i386|heroscribe-enhanced-skull|1.12|
 |trusty|main|arm64|hd-idle|1.21|
