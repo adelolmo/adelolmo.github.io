@@ -89,6 +89,7 @@
 |buster|main|amd64|mp3spmerge|1.0.1|
 |buster|main|amd64|noimdb|1.1.0|
 |buster|main|amd64|notify-mail|1.2.2|
+|buster|main|amd64|raton|1.0.0|
 |buster|main|amd64|rest980|2.1.2~ado1|
 |buster|main|amd64|snapraid-runner|1.1.1|
 |buster|main|amd64|sonoshttpapi|1.6.9~ado1|
@@ -107,6 +108,7 @@
 |buster|main|armhf|noimdb|1.1.0|
 |buster|main|armhf|notify-mail|1.2.2|
 |buster|main|armhf|pimotd|1.2.0|
+|buster|main|armhf|raton|1.0.0|
 |buster|main|armhf|rest980|2.1.2~ado1|
 |buster|main|armhf|rumbero|1.4.0|
 |buster|main|armhf|sane-web-client|1.4|
@@ -121,6 +123,7 @@
 |buster|main|arm64|mergerfs|2.40.2~debian-buster|
 |buster|main|arm64|mp3spmerge|1.0.1|
 |buster|main|arm64|noimdb|1.1.0|
+|buster|main|arm64|raton|1.0.0|
 |buster|main|arm64|rest980|2.1.2~ado1|
 |buster|main|arm64|snapraid-runner|1.1.1|
 |buster|main|arm64|sonoshttpapi|1.6.9~ado1|

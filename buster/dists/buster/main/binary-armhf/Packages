@@ -240,6 +240,21 @@ SHA1: 90ee3354a9b47b9c55d6ff4b1ad2d019eaabb80d
 MD5sum: 162040b9b22d155dd4e2fbb47402b064
 Description: Displays message of the day with actual system information.
 
+Package: raton
+Version: 1.0.0
+Architecture: all
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 37
+Depends: teadngine
+Priority: standard
+Section: games
+Filename: pool/main/r/raton/raton_1.0.0_all.deb
+Size: 4116
+SHA256: 8f0368a3287361ad1d5649bb4bc0de535dc607c70aded43f71d155556c1bb84c
+SHA1: 462e7128805fe4921ba58922d40189148ad0a4d7
+MD5sum: 159677c4f6b127d7cc887f1269c02cef
+Description: Hay un ratón en el restaurante the Giovanni
+
 Package: rest980
 Version: 2.1.2~ado1
 Architecture: all
