@@ -88,6 +88,21 @@ SHA1: 3b1899936229916e16cd51bacc7d4f308fe4f9ee
 MD5sum: 42be2406cf6b7bc9234a227d9c83d043
 Description: Organize your PSP games library and connect it with your PSP console
 
+Package: raton
+Version: 1.0.0
+Architecture: all
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 37
+Depends: teadngine
+Priority: standard
+Section: games
+Filename: pool/main/r/raton/raton_1.0.0_all.deb
+Size: 4116
+SHA256: 8f0368a3287361ad1d5649bb4bc0de535dc607c70aded43f71d155556c1bb84c
+SHA1: 462e7128805fe4921ba58922d40189148ad0a4d7
+MD5sum: 159677c4f6b127d7cc887f1269c02cef
+Description: Hay un ratón en el restaurante the Giovanni
+
 Package: teadngine
 Version: 1.0.0
 Architecture: amd64
