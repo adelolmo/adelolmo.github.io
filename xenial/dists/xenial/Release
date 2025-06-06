@@ -3,37 +3,37 @@ Label: adelolmo
 Suite: stable
 Codename: xenial
 Version: 16.04
-Date: Fri, 06 Jun 2025 14:54:57 UTC
+Date: Fri, 06 Jun 2025 14:57:16 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: adelolmo ubuntu xenial repository
 MD5Sum:
- d9b49f6f59ffd28f7dbba22e81c4a293 5353 main/binary-amd64/Packages
- 1b3ae0d3cb277aace19141923e7b9cef 2284 main/binary-amd64/Packages.gz
+ 435cf8ed95de4e57d9ca71fa9e0f73fb 5807 main/binary-amd64/Packages
+ b915143001f27bea7113a48c73f47ce8 2448 main/binary-amd64/Packages.gz
  43c084c4abd3b31f3730d805f20c7808 147 main/binary-amd64/Release
- 2b3e131ff83d0b1d6e21fafc36c9bb94 2460 main/binary-i386/Packages
- ccf541a594974baba997d1c38182fc54 1263 main/binary-i386/Packages.gz
+ 18d19458bc88a4f5a7ce851e947bfabe 2914 main/binary-i386/Packages
+ af5d206ac3c3281ec34d88fdbcc1a2bc 1444 main/binary-i386/Packages.gz
  71e00fa4fb03281ecd46064ee622d99b 153 main/binary-i386/Release
- a39dd108c856064996475a657b0968e3 1957 main/binary-arm64/Packages
- 25d264e7a62633501609374523187018 1057 main/binary-arm64/Packages.gz
+ 69d72cd49f21c2baf0f14e95a2759581 2411 main/binary-arm64/Packages
+ c6559649436ae4f59bb656b0bb10553d 1246 main/binary-arm64/Packages.gz
  b410c13eb110344a0ff0099896c23a65 154 main/binary-arm64/Release
 SHA1:
- 63bb9787e3c7dc2be84531550c512995040028f3 5353 main/binary-amd64/Packages
- d404da9c9afcfdf72ceec517b329b99bf81e2b78 2284 main/binary-amd64/Packages.gz
+ 12e76feb3e0b299f217ea31af91135a2e9070e41 5807 main/binary-amd64/Packages
+ 9d50a5d33134cb4abdcddbaf93bb5bc480b30dfb 2448 main/binary-amd64/Packages.gz
  b2aa60d9c7e42644a348afdbe02af5579682b95b 147 main/binary-amd64/Release
- 13275c097673dae1eb65955ec1c6f2f57598f834 2460 main/binary-i386/Packages
- d44d947ab4c1d123f79c10fe86102dba7af16090 1263 main/binary-i386/Packages.gz
+ 430e128c2aaf42518a80122cfc8bbe142609113e 2914 main/binary-i386/Packages
+ 6eb7251b6869f32f1c3d0aa887c2ab2a676fdcb4 1444 main/binary-i386/Packages.gz
  2fe6d1783d7c4e1ab911a876e1f26fb18812326c 153 main/binary-i386/Release
- 4a53881bb64ece731cdf0e6416033b5eed8253bb 1957 main/binary-arm64/Packages
- dc12678f3ca2352c0482b6f6893a80ac8dd72501 1057 main/binary-arm64/Packages.gz
+ 59dd7fdd8155595b6e841034e4758fa71e8f654a 2411 main/binary-arm64/Packages
+ 0d6a1954df81a19423deff6b4e4f5584458bbdb0 1246 main/binary-arm64/Packages.gz
  8d9ebbebb0d05755b7df8d23eb3b49093c6bc5f6 154 main/binary-arm64/Release
 SHA256:
- 3a427ef7ae9e9a31cd0d672c0c1a98c09b122a65f826786eac0084ef43d6a1ed 5353 main/binary-amd64/Packages
- 9b92d36c1790723cfaa720f8cba89807f8ce7a4cff82acd3ef340780948800af 2284 main/binary-amd64/Packages.gz
+ b5505e5d6f8774e926cc40451a833f1bb93035e40f2c6cbe409a98a05e2d36b5 5807 main/binary-amd64/Packages
+ ec042aff6b9b0f8212f1693b9ca9bb15cd0e3dfda47af4353f39c74976b634f0 2448 main/binary-amd64/Packages.gz
  7e5921d28867907feed43240b2d895a5d0f2232e3df31183686340154abd670d 147 main/binary-amd64/Release
- 6ba9f031b27a80944e31e7a9bfcca2d325f7e635bee6ad3b16e9ce57f6703daf 2460 main/binary-i386/Packages
- 25a4915af6d67bbcfd57f5619f7ecb7f2d58d5a25166705b5fe2fd50f837acf2 1263 main/binary-i386/Packages.gz
+ 1ef54d16873c4765b212026f54dfdf8afcff7ff014cce2f346a43b4baa0f9781 2914 main/binary-i386/Packages
+ 4d75d87a5dc2c389c3bb6a27e70f2058a00d696b07014c61fb00e4eed26826a0 1444 main/binary-i386/Packages.gz
  b85780c77395840bea782da10a9dd26aeffc969e3e06f8860ae32d4e1d464b7f 153 main/binary-i386/Release
- 5ab7481905735a7c88bc1ec1402fbbb1581255d1c3390809459000d3009e690d 1957 main/binary-arm64/Packages
- 9f5bdaaf2e37f5b22e8b8d9a2262c9b46575273a90aeafb5d8cbdf3ce780567a 1057 main/binary-arm64/Packages.gz
+ 14f1f02d15b0f5b709b652b390b27a404b9e67009a2dc64e90ff50d48a16dfc6 2411 main/binary-arm64/Packages
+ ed6e8038fee2ab3fcf7e498a3a478c6c64e11c49b1f04cccaf2ccc37eac1d5a5 1246 main/binary-arm64/Packages.gz
  b91f45f0d2aaf57b5555e26391b1a3169ee705962fe67d9badedd42b955a4df9 154 main/binary-arm64/Release
