@@ -74,17 +74,17 @@ MD5sum: 3a01e84dd02127990f335aef09d8722b
 Description: Merge Spotify mp3 chucks into a single mp3 file
 
 Package: raton
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 37
-Depends: teadngine
+Depends: teadngine (>= 1.0.1)
 Priority: standard
 Section: games
-Filename: pool/main/r/raton/raton_1.0.0_all.deb
-Size: 4116
-SHA256: 8f0368a3287361ad1d5649bb4bc0de535dc607c70aded43f71d155556c1bb84c
-SHA1: 462e7128805fe4921ba58922d40189148ad0a4d7
-MD5sum: 159677c4f6b127d7cc887f1269c02cef
+Filename: pool/main/r/raton/raton_1.0.1_all.deb
+Size: 4124
+SHA256: 09e0f61bfa0fe1284e1b19dbc03a2b8c65dc48783dbee53edaf0caee4c5e0250
+SHA1: d88346c56a12181a41276b69b0732ce1eee173d8
+MD5sum: eb2e1158c85cef2983afeb876e8f1e9c
 Description: Hay un ratón en el restaurante the Giovanni
 
