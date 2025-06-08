@@ -209,6 +209,7 @@
 |jessie|main|arm64|snapraid-runner|1.1.1|
 |jessie|main|arm64|sonoshttpapi|1.6.9~ado1|
 |noble|main|amd64|hd-idle|1.21|
+|noble|main|amd64|teadngine|1.0.2|
 |noble|main|i386|teadngine|1.0.2|
 |noble|main|armhf|hd-idle|1.21|
 |noble|main|arm64|hd-idle|1.21|
