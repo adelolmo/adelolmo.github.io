@@ -219,7 +219,7 @@
 |stretch|main|amd64|mp3spmerge|1.0.1|
 |stretch|main|amd64|noimdb|1.1.0|
 |stretch|main|amd64|notify-mail|1.2.2|
-|stretch|main|amd64|raton|1.0.0|
+|stretch|main|amd64|raton|1.0.1|
 |stretch|main|amd64|rest980|2.1.2~ado1|
 |stretch|main|amd64|snapraid-runner|1.1.1|
 |stretch|main|amd64|sonoshttpapi|1.6.9~ado1|
@@ -238,7 +238,7 @@
 |stretch|main|armhf|noimdb|1.1.0|
 |stretch|main|armhf|notify-mail|1.2.2|
 |stretch|main|armhf|pimotd|1.2.0|
-|stretch|main|armhf|raton|1.0.0|
+|stretch|main|armhf|raton|1.0.1|
 |stretch|main|armhf|rest980|2.1.2~ado1|
 |stretch|main|armhf|rumbero|1.4.0|
 |stretch|main|armhf|sane-web-client|1.4|
@@ -252,7 +252,7 @@
 |stretch|main|arm64|heroscribe-enhanced-skull|1.12|
 |stretch|main|arm64|mp3spmerge|1.0.1|
 |stretch|main|arm64|noimdb|1.1.0|
-|stretch|main|arm64|raton|1.0.0|
+|stretch|main|arm64|raton|1.0.1|
 |stretch|main|arm64|rest980|2.1.2~ado1|
 |stretch|main|arm64|snapraid-runner|1.1.1|
 |stretch|main|arm64|sonoshttpapi|1.6.9~ado1|
