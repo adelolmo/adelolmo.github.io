@@ -8,7 +8,7 @@
 |bionic|main|amd64|notify-mail|1.2.2|
 |bionic|main|amd64|psp-library|1.4.0|
 |bionic|main|amd64|raton|1.0.0|
-|bionic|main|amd64|teadngine|1.0.0|
+|bionic|main|amd64|teadngine|1.0.1|
 |bionic|main|amd64|tvshow-parse|1.15.0|
 |bionic|main|i386|hd-idle|1.21|
 |bionic|main|i386|heroscribe-enhanced-skull|1.12|
