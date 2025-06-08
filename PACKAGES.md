@@ -173,7 +173,7 @@
 |jessie|main|amd64|mp3spmerge|1.0.1|
 |jessie|main|amd64|noimdb|1.1.0|
 |jessie|main|amd64|notify-mail|1.2.2|
-|jessie|main|amd64|raton|1.0.0|
+|jessie|main|amd64|raton|1.0.1|
 |jessie|main|amd64|rest980|2.1.2~ado1|
 |jessie|main|amd64|snapraid-runner|1.1.1|
 |jessie|main|amd64|sonoshttpapi|1.6.9~ado1|
@@ -191,7 +191,7 @@
 |jessie|main|armhf|noimdb|1.1.0|
 |jessie|main|armhf|notify-mail|1.2.2|
 |jessie|main|armhf|pimotd|1.2.0|
-|jessie|main|armhf|raton|1.0.0|
+|jessie|main|armhf|raton|1.0.1|
 |jessie|main|armhf|rest980|2.1.2~ado1|
 |jessie|main|armhf|rumbero|1.4.0|
 |jessie|main|armhf|sane-web-client|1.4|
@@ -204,7 +204,7 @@
 |jessie|main|arm64|hd-idle|1.21|
 |jessie|main|arm64|mp3spmerge|1.0.1|
 |jessie|main|arm64|noimdb|1.1.0|
-|jessie|main|arm64|raton|1.0.0|
+|jessie|main|arm64|raton|1.0.1|
 |jessie|main|arm64|rest980|2.1.2~ado1|
 |jessie|main|arm64|snapraid-runner|1.1.1|
 |jessie|main|arm64|sonoshttpapi|1.6.9~ado1|
