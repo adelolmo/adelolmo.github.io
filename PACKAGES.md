@@ -31,7 +31,7 @@
 |bookworm|main|amd64|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|amd64|mp3spmerge|1.1.0|
 |bookworm|main|amd64|raton|1.0.0|
-|bookworm|main|amd64|teadngine|1.0.0|
+|bookworm|main|amd64|teadngine|1.0.1|
 |bookworm|main|amd64|tvshow-parse|1.19.0|
 |bookworm|main|armhf|eliterss|2.32.0|
 |bookworm|main|armhf|hd-idle|1.21|
