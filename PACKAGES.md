@@ -67,7 +67,7 @@
 |bullseye|main|amd64|raton|1.0.0|
 |bullseye|main|amd64|snapraid-runner|2.0.4|
 |bullseye|main|amd64|sonoshttpapi|1.6.9~ado1|
-|bullseye|main|amd64|teadngine|1.0.0|
+|bullseye|main|amd64|teadngine|1.0.1|
 |bullseye|main|amd64|tvshow-parse|1.20.0|
 |bullseye|main|armhf|adguardhome|0.107.29|
 |bullseye|main|armhf|delugecli|1.6.1|
