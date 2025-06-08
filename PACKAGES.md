@@ -50,7 +50,7 @@
 |bullseye|main|i386|heroscribe-enhanced-skull|1.12|
 |bullseye|main|i386|mp3spmerge|1.0.1|
 |bullseye|main|i386|noimdb|1.1.0|
-|bullseye|main|i386|raton|1.0.0|
+|bullseye|main|i386|raton|1.0.1|
 |bullseye|main|i386|snapraid-runner|2.0.4|
 |bullseye|main|i386|sonoshttpapi|1.6.9~ado1|
 |bullseye|main|amd64|adguardhome|0.107.50|
@@ -64,7 +64,7 @@
 |bullseye|main|amd64|mp3spmerge|1.1.0|
 |bullseye|main|amd64|noimdb|1.1.0|
 |bullseye|main|amd64|notify-mail|1.2.2|
-|bullseye|main|amd64|raton|1.0.0|
+|bullseye|main|amd64|raton|1.0.1|
 |bullseye|main|amd64|snapraid-runner|2.0.4|
 |bullseye|main|amd64|sonoshttpapi|1.6.9~ado1|
 |bullseye|main|amd64|teadngine|1.0.1|
@@ -78,7 +78,7 @@
 |bullseye|main|armhf|mp3spmerge|1.0.1|
 |bullseye|main|armhf|noimdb|1.1.0|
 |bullseye|main|armhf|notify-mail|1.2.2|
-|bullseye|main|armhf|raton|1.0.0|
+|bullseye|main|armhf|raton|1.0.1|
 |bullseye|main|armhf|rumbero|1.4.0|
 |bullseye|main|armhf|snapraid-runner|2.0.4|
 |bullseye|main|armhf|sonoshttpapi|1.6.9~ado1|
@@ -88,7 +88,7 @@
 |bullseye|main|arm64|mergerfs|2.40.2~debian-bullseye|
 |bullseye|main|arm64|mp3spmerge|1.0.1|
 |bullseye|main|arm64|noimdb|1.1.0|
-|bullseye|main|arm64|raton|1.0.0|
+|bullseye|main|arm64|raton|1.0.1|
 |bullseye|main|arm64|snapraid-runner|2.0.4|
 |bullseye|main|arm64|sonoshttpapi|1.6.9~ado1|
 |buster|main|amd64|adguardhome|0.107.50|
