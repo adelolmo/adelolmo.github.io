@@ -177,7 +177,7 @@
 |jessie|main|amd64|rest980|2.1.2~ado1|
 |jessie|main|amd64|snapraid-runner|1.1.1|
 |jessie|main|amd64|sonoshttpapi|1.6.9~ado1|
-|jessie|main|amd64|teadngine|1.0.0|
+|jessie|main|amd64|teadngine|1.0.1|
 |jessie|main|amd64|tvshow-parse|1.17.0|
 |jessie|main|armhf|adguardhome|0.107.29|
 |jessie|main|armhf|ap-clients|1.1.1|
