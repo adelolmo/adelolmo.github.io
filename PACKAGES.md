@@ -91,7 +91,7 @@
 |bullseye|main|arm64|raton|1.0.1|
 |bullseye|main|arm64|snapraid-runner|2.0.4|
 |bullseye|main|arm64|sonoshttpapi|1.6.9~ado1|
-|buster|main|amd64|adguardhome|0.107.50|
+|buster|main|amd64|adguardhome|0.107.62|
 |buster|main|amd64|delugecli|1.6.1|
 |buster|main|amd64|eliterss|2.32.0|
 |buster|main|amd64|hd-idle|1.21|
