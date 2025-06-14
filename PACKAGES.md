@@ -22,7 +22,7 @@
 |bookworm|main|i386|heroscribe-enhanced-skull|1.12|
 |bookworm|main|i386|mp3spmerge|1.0.1|
 |bookworm|main|i386|raton|1.0.1|
-|bookworm|main|amd64|adguardhome|0.107.50|
+|bookworm|main|amd64|adguardhome|0.107.62|
 |bookworm|main|amd64|delauncher|2.3.5|
 |bookworm|main|amd64|eliterss|2.32.0|
 |bookworm|main|amd64|europanews|1.0.1|
