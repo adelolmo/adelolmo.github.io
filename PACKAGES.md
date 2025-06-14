@@ -213,7 +213,7 @@
 |noble|main|i386|teadngine|1.0.2|
 |noble|main|armhf|hd-idle|1.21|
 |noble|main|arm64|hd-idle|1.21|
-|stretch|main|amd64|adguardhome|0.107.50|
+|stretch|main|amd64|adguardhome|0.107.62|
 |stretch|main|amd64|delugecli|1.6.1|
 |stretch|main|amd64|eliterss|2.29.0|
 |stretch|main|amd64|hd-idle|1.21|
