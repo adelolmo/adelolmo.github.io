@@ -166,7 +166,7 @@
 |jammy|main|armhf|hd-idle|1.21|
 |jammy|main|armhf|heroscribe-enhanced-skull|1.12|
 |jammy|main|armhf|raton|1.0.1|
-|jessie|main|amd64|adguardhome|0.107.50|
+|jessie|main|amd64|adguardhome|0.107.62|
 |jessie|main|amd64|delugecli|1.6.1|
 |jessie|main|amd64|eliterss|2.29.0|
 |jessie|main|amd64|hd-idle|1.21|
