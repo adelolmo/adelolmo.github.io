@@ -210,7 +210,7 @@
 |jessie|main|arm64|sonoshttpapi|1.6.9~ado1|
 |noble|main|amd64|hd-idle|1.21|
 |noble|main|amd64|raton|1.0.1|
-|noble|main|amd64|teadngine|1.0.2|
+|noble|main|amd64|teadngine|1.1.0|
 |noble|main|i386|raton|1.0.1|
 |noble|main|i386|teadngine|1.0.2|
 |noble|main|armhf|hd-idle|1.21|
