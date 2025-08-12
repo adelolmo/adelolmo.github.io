@@ -101,18 +101,18 @@ MD5sum: 93a533d7f67852c597fcafc9dcf6e7af
 Description: REST interface to control your iRobot Roomba 900 series 980 / i7 / i7+ via HTTP requests.
 
 Package: snapraid-runner
-Version: 1.1.1
+Version: 2.0.4
 Architecture: all
 Depends: snapraid, python3
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 35
+Installed-Size: 36
 Priority: standard
 Section: extras
-Filename: pool/main/s/snapraid-runner/snapraid-runner_1.1.1_all.deb
-Size: 4276
-SHA256: dc8a7c4941725047f7cdfe5d0e2b847edec8813c7f4b39548ad989bb22df325c
-SHA1: 2352e8d5e0bf07343bf2b2dd7204e39e69b525a4
-MD5sum: 9e500f79951608f76d502c3328348788
+Filename: pool/main/s/snapraid-runner/snapraid-runner_2.0.4_all.deb
+Size: 4544
+SHA256: 2574512bce5e5914b6efd0ff1d275600724392aa67ff3542d169c7b174467e38
+SHA1: 30adeaf2bc7b7d43a76378732e7c9220eaaf84a3
+MD5sum: f4645dfd4cbb2e189b3b0af3010f50a4
 Description: Automate SnapRAID sync
 
 Package: sonoshttpapi
