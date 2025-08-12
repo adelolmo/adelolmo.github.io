@@ -102,7 +102,7 @@
 |buster|main|amd64|notify-mail|1.2.2|
 |buster|main|amd64|raton|1.0.1|
 |buster|main|amd64|rest980|2.1.2~ado1|
-|buster|main|amd64|snapraid-runner|1.1.1|
+|buster|main|amd64|snapraid-runner|2.0.4|
 |buster|main|amd64|sonoshttpapi|1.6.9~ado1|
 |buster|main|amd64|teadngine|1.0.1|
 |buster|main|amd64|tvshow-parse|1.17.0|
@@ -125,7 +125,7 @@
 |buster|main|armhf|sane-web-client|1.4|
 |buster|main|armhf|scanpi|1.6.0|
 |buster|main|armhf|snapraid|11.3-1|
-|buster|main|armhf|snapraid-runner|1.1.1|
+|buster|main|armhf|snapraid-runner|2.0.4|
 |buster|main|armhf|sonoshttpapi|1.6.9~ado1|
 |buster|main|armhf|tvshow-parse|1.17.0|
 |buster|main|arm64|eliterss|2.32.0|
@@ -136,7 +136,7 @@
 |buster|main|arm64|noimdb|1.1.0|
 |buster|main|arm64|raton|1.0.1|
 |buster|main|arm64|rest980|2.1.2~ado1|
-|buster|main|arm64|snapraid-runner|1.1.1|
+|buster|main|arm64|snapraid-runner|2.0.4|
 |buster|main|arm64|sonoshttpapi|1.6.9~ado1|
 |focal|main|amd64|delauncher|1.5.1|
 |focal|main|amd64|hd-idle|1.21|
