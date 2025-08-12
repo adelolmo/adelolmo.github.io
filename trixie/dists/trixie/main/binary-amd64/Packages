@@ -69,3 +69,18 @@ SHA1: a5b66244cd443c165640b1e35724ccf7f3a6e65c
 MD5sum: 4177247ad3b7f163302971e42c361497
 Description: Merge Spotify audio books mp3 chunks into a single mp3 file
 
+Package: snapraid-runner
+Version: 2.0.4
+Architecture: all
+Depends: snapraid, python3
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 36
+Priority: standard
+Section: extras
+Filename: pool/main/s/snapraid-runner/snapraid-runner_2.0.4_all.deb
+Size: 4544
+SHA256: 2574512bce5e5914b6efd0ff1d275600724392aa67ff3542d169c7b174467e38
+SHA1: 30adeaf2bc7b7d43a76378732e7c9220eaaf84a3
+MD5sum: f4645dfd4cbb2e189b3b0af3010f50a4
+Description: Automate SnapRAID sync
+

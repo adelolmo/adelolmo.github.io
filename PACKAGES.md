@@ -266,10 +266,13 @@
 |trixie|main|amd64|europanews|1.0.1|
 |trixie|main|amd64|hd-idle|1.21|
 |trixie|main|amd64|mp3spmerge|1.1.0|
+|trixie|main|amd64|snapraid-runner|2.0.4|
 |trixie|main|armhf|hd-idle|1.21|
 |trixie|main|armhf|mp3spmerge|1.0.1|
+|trixie|main|armhf|snapraid-runner|2.0.4|
 |trixie|main|arm64|hd-idle|1.21|
 |trixie|main|arm64|mp3spmerge|1.0.1|
+|trixie|main|arm64|snapraid-runner|2.0.4|
 |trusty|main|amd64|delauncher|1.5.1|
 |trusty|main|amd64|hd-idle|1.21|
 |trusty|main|amd64|heroscribe-enhanced-skull|1.12|
