@@ -33,6 +33,7 @@
 |bookworm|main|amd64|raton|1.0.1|
 |bookworm|main|amd64|teadngine|1.0.1|
 |bookworm|main|amd64|tvshow-parse|1.19.0|
+|bookworm|main|armhf|adguardhome|0.107.62|
 |bookworm|main|armhf|eliterss|2.32.0|
 |bookworm|main|armhf|hd-idle|1.21|
 |bookworm|main|armhf|heroscribe-enhanced-skull|1.12|
