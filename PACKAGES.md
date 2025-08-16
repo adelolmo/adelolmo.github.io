@@ -273,6 +273,7 @@
 |trixie|main|amd64|europanews|1.0.1|
 |trixie|main|amd64|hd-idle|1.21|
 |trixie|main|amd64|mp3spmerge|1.1.0|
+|trixie|main|amd64|notify-mail|1.2.2|
 |trixie|main|amd64|snapraid-runner|2.0.4|
 |trixie|main|armhf|hd-idle|1.21|
 |trixie|main|armhf|mp3spmerge|1.0.1|
