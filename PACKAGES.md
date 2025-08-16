@@ -40,6 +40,7 @@
 |bookworm|main|armhf|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|armhf|mp3spmerge|1.0.1|
 |bookworm|main|armhf|raton|1.0.1|
+|bookworm|main|arm64|adguardhome|0.107.62|
 |bookworm|main|arm64|eliterss|2.32.0|
 |bookworm|main|arm64|hd-idle|1.21|
 |bookworm|main|arm64|heroscribe-enhanced-skull|1.12|
