@@ -283,6 +283,7 @@
 |trixie|main|amd64|noimdb|1.1.0|
 |trixie|main|amd64|notify-mail|1.2.2|
 |trixie|main|amd64|snapraid-runner|2.0.4|
+|trixie|main|armhf|delugecli|1.6.1|
 |trixie|main|armhf|hd-idle|1.21|
 |trixie|main|armhf|mp3spmerge|1.0.1|
 |trixie|main|armhf|noimdb|1.1.0|
