@@ -21,6 +21,7 @@
 |bookworm|main|i386|hd-idle|1.21|
 |bookworm|main|i386|heroscribe-enhanced-skull|1.12|
 |bookworm|main|i386|mp3spmerge|1.0.1|
+|bookworm|main|i386|noimdb|1.1.0|
 |bookworm|main|i386|raton|1.0.1|
 |bookworm|main|i386|snapraid-runner|2.0.4|
 |bookworm|main|amd64|adguardhome|0.107.62|
@@ -31,6 +32,7 @@
 |bookworm|main|amd64|heroscribe-enhanced-skull|1.12|
 |bookworm|main|amd64|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|amd64|mp3spmerge|1.1.0|
+|bookworm|main|amd64|noimdb|1.1.0|
 |bookworm|main|amd64|notify-mail|1.2.2|
 |bookworm|main|amd64|raton|1.0.1|
 |bookworm|main|amd64|snapraid-runner|2.0.4|
@@ -42,6 +44,7 @@
 |bookworm|main|armhf|heroscribe-enhanced-skull|1.12|
 |bookworm|main|armhf|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|armhf|mp3spmerge|1.0.1|
+|bookworm|main|armhf|noimdb|1.1.0|
 |bookworm|main|armhf|raton|1.0.1|
 |bookworm|main|armhf|snapraid-runner|2.0.4|
 |bookworm|main|arm64|adguardhome|0.107.62|
@@ -50,6 +53,7 @@
 |bookworm|main|arm64|heroscribe-enhanced-skull|1.12|
 |bookworm|main|arm64|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|arm64|mp3spmerge|1.0.1|
+|bookworm|main|arm64|noimdb|1.1.0|
 |bookworm|main|arm64|raton|1.0.1|
 |bookworm|main|arm64|snapraid-runner|2.0.4|
 |bullseye|main|i386|eliterss|2.30.0|

@@ -73,6 +73,21 @@ SHA1: 3c3cccc1c82c950ca9c181313233f983e37f24da
 MD5sum: 3a01e84dd02127990f335aef09d8722b
 Description: Merge Spotify mp3 chucks into a single mp3 file
 
+Package: noimdb
+Version: 1.1.0
+Architecture: all
+Depends: default-jre-headless
+Installed-Size: 6264
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Priority: normal
+Section: java
+Filename: pool/main/n/noimdb/noimdb_1.1.0_all.deb
+Size: 5728988
+SHA256: 88610823a6df179a7f6b3eb5e4691e0a24a67e9a775bf804dbc5d74dcac7dbc3
+SHA1: 13ad4b93bbc715df1ef72dc8c5d15f64ae79ed98
+MD5sum: 7c74f006ee4e0ca6c6aa7d6beb2cbf7d
+Description: Find movie titles
+
 Package: raton
 Version: 1.0.1
 Architecture: all
