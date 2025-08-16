@@ -26,6 +26,7 @@
 |bookworm|main|i386|snapraid-runner|2.0.4|
 |bookworm|main|amd64|adguardhome|0.107.62|
 |bookworm|main|amd64|delauncher|2.3.5|
+|bookworm|main|amd64|delugecli|1.6.1|
 |bookworm|main|amd64|eliterss|2.32.0|
 |bookworm|main|amd64|europanews|1.0.1|
 |bookworm|main|amd64|hd-idle|1.21|
