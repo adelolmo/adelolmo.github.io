@@ -31,6 +31,7 @@
 |bookworm|main|amd64|heroscribe-enhanced-skull|1.12|
 |bookworm|main|amd64|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|amd64|mp3spmerge|1.1.0|
+|bookworm|main|amd64|notify-mail|1.2.2|
 |bookworm|main|amd64|raton|1.0.1|
 |bookworm|main|amd64|snapraid-runner|2.0.4|
 |bookworm|main|amd64|teadngine|1.0.1|
