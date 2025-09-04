@@ -52,7 +52,7 @@
 |bookworm|main|armhf|raton|1.0.1|
 |bookworm|main|armhf|snapraid-runner|2.0.4|
 |bookworm|main|armhf|sonoshttpapi|1.6.9~ado1|
-|bookworm|main|arm64|adguardhome|0.107.62|
+|bookworm|main|arm64|adguardhome|0.107.65|
 |bookworm|main|arm64|eliterss|2.32.0|
 |bookworm|main|arm64|hd-idle|1.21|
 |bookworm|main|arm64|heroscribe-enhanced-skull|1.12|
