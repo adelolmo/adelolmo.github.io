@@ -25,7 +25,7 @@
 |bookworm|main|i386|raton|1.0.1|
 |bookworm|main|i386|snapraid-runner|2.0.4|
 |bookworm|main|i386|sonoshttpapi|1.6.9~ado1|
-|bookworm|main|amd64|adguardhome|0.107.62|
+|bookworm|main|amd64|adguardhome|0.107.65|
 |bookworm|main|amd64|delauncher|2.3.5|
 |bookworm|main|amd64|delugecli|1.6.1|
 |bookworm|main|amd64|eliterss|2.32.0|
