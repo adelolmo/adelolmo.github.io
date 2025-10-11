@@ -6,10 +6,12 @@ List of current [packages](PACKAGES.md) in the repositories.
 
 > [!IMPORTANT]
 > If you are prompt with this message:
-> Warning: https://adelolmo.github.io/trixie/dists/trixie/InRelease: Policy will reject signature within a year, see --audit for details
-
-> Please download the signature key again:> 
-> sudo curl -sS -fsSLo /usr/share/keyrings/adelolmo-archive-keyring.gpg https://adelolmo.github.io/andoni.delolmo@gmail.com.gpg
+> 
+> `Warning: https://adelolmo.github.io/trixie/dists/trixie/InRelease: Policy will reject signature within a year, see --audit for details`
+> 
+> Please download the signature key again:
+> 
+> `sudo curl -sS -fsSLo /usr/share/keyrings/adelolmo-archive-keyring.gpg https://adelolmo.github.io/andoni.delolmo@gmail.com.gpg`
 
 
 ## Ubuntu
