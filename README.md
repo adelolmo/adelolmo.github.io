@@ -9,6 +9,10 @@ List of current [packages](PACKAGES.md) in the repositories.
 >
 > Missing key A96649ED50AFAD8C6499F28E7DDEC187FA252895, which is needed to verify signature
 >
+> or
+>
+> Failed to fetch https://adelolmo.github.io/bookworm/dists/bookworm/InRelease  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 7DDEC187FA252895
+>
 > Please download the new signature key:
 >
 > sudo curl -sS -fsSLo /usr/share/keyrings/adelolmo-archive-keyring.gpg https://adelolmo.github.io/andoni.delolmo@gmail.com.gpg
