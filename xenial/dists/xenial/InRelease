@@ -1,19 +1,19 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 Origin: Andoni del Olmo
 Label: adelolmo
 Suite: stable
 Codename: xenial
 Version: 16.04
-Date: Sun, 08 Jun 2025 15:03:58 UTC
+Date: Sat, 11 Oct 2025 13:57:13 UTC
 Architectures: amd64 i386 arm64
 Components: main
 Description: adelolmo ubuntu xenial repository
 MD5Sum:
  4bbfcea4253b283edbd81cc0f62671e5 5818 main/binary-amd64/Packages
  8ac95d11976dce6b14362d7c7f66c251 2461 main/binary-amd64/Packages.gz
- 43c084c4abd3b31f3730d805f20c7808 147 main/binary-amd64/Release
+ 828610a1d6c0547fc558c707e835d649 154 main/binary-amd64/Release
  a95b13531cc14a2dfa2c10b5971c3ace 2925 main/binary-i386/Packages
  dd81c7932e1c25f27e99dcdf992ab0cf 1450 main/binary-i386/Packages.gz
  71e00fa4fb03281ecd46064ee622d99b 153 main/binary-i386/Release
@@ -23,7 +23,7 @@ MD5Sum:
 SHA1:
  0f469593ae96c056d31d2fe99dd443441dcaf137 5818 main/binary-amd64/Packages
  9632c7c54fbc740bd21f7d7743b73cbe386703ec 2461 main/binary-amd64/Packages.gz
- b2aa60d9c7e42644a348afdbe02af5579682b95b 147 main/binary-amd64/Release
+ 0e8d7f4dd26ca9e86a63a7397df6d29db56b5ceb 154 main/binary-amd64/Release
  eb3c94de2e5d29ac53e60edb399cce3193ee6492 2925 main/binary-i386/Packages
  a300affbd04693abeb325b98896fa678c6da19a0 1450 main/binary-i386/Packages.gz
  2fe6d1783d7c4e1ab911a876e1f26fb18812326c 153 main/binary-i386/Release
@@ -33,7 +33,7 @@ SHA1:
 SHA256:
  be409c98c072dce190de264a94eca1743e86839ac4c5649de8979b69a12f55e7 5818 main/binary-amd64/Packages
  3cd5690af981423c421a95b0b853efadb8ba3b91d9ffe476ac473c4d40fb8fed 2461 main/binary-amd64/Packages.gz
- 7e5921d28867907feed43240b2d895a5d0f2232e3df31183686340154abd670d 147 main/binary-amd64/Release
+ 222289b4a1b53981c560c81cf7c6399716fe7e801d6d1d4e183d32f65b8247a0 154 main/binary-amd64/Release
  15a5befc444a377f6c620e9463ec52052aca45ce7cfc88e7952644b203467f00 2925 main/binary-i386/Packages
  589093abd822575bf98114b43696643df7e44df3250f62eebcd0969ee223fcc4 1450 main/binary-i386/Packages.gz
  b85780c77395840bea782da10a9dd26aeffc969e3e06f8860ae32d4e1d464b7f 153 main/binary-i386/Release
@@ -42,12 +42,12 @@ SHA256:
  b91f45f0d2aaf57b5555e26391b1a3169ee705962fe67d9badedd42b955a4df9 154 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmhFpl4ACgkQhhfXN9sG
-qB9qbwf+J2bF4o7c71iLjziAo7cHvKz/aVG5drlJnmZLO1iy25C2SQtts7EBG+CR
-YUEHmJoEzXO0l3vev7lj3Du7zCInvTYxc4lPcIAgb0s0WFjikcxz9qWkMzDwmSec
-+UR4AzUiO7L+aWcLEjQ0k8ZtfFapkbMLjcIcP1WX2rY0EiyKgS+5txC7MfU3EO6X
-HQYmA02CM3+6PROyFbXJEdJ5g6KqjNFjUEvKeAYFxNfRJtc9stw3nLXcJUuDL7ej
-GMseLrf97a3WVMJzV78zu5eVfh2LTVJQmArSW3fAT9zJDmRGxI4dh7DpmndPX+rl
-vVjRV+wrwdzjJ0NfCsrJX5nvzBrTdw==
-=0dNl
+iQEzBAEBCAAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmjqYjkACgkQhhfXN9sG
+qB/oWgf/Xv7huQLb+xH6YHy0UAD09NELbFNXVADYj9fwY7gt+fMm+owAGPf5hVYw
+UMqoOV26xuTBlfb7zjEnzMRrUArNFC2RAkClVoWepthP5QiamWM7M9aEB7vKdLNn
+9u5Z9i4pUs+mGhtEbwrOrslHstYJ0OT30v+8jSrUWitq0i50wICYPr91bxTds+Oo
+fGIGU/g2ryK2Vmp1yEixjwZwNmxFWPjkP+8ILNoy/EbE5liMV+UV1AU/HgJT79Jd
+iXtJeuZitTfI/j3T7Ay+xVNa6oVAAvwngLak5/+TkN3S9DnAUTI5LeXRNloHu/yW
+ildC5lIg3A7x6fUTWLqbQZ9MSvB+AA==
+=CQnc
 -----END PGP SIGNATURE-----

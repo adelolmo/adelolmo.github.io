@@ -6,12 +6,12 @@ List of current [packages](PACKAGES.md) in the repositories.
 
 > [!IMPORTANT]
 > If you are prompt with this message:
-> 
-> `Warning: https://adelolmo.github.io/trixie/dists/trixie/InRelease: Policy will reject signature within a year, see --audit for details`
-> 
-> Please download the signature key again:
-> 
-> `sudo curl -sS -fsSLo /usr/share/keyrings/adelolmo-archive-keyring.gpg https://adelolmo.github.io/andoni.delolmo@gmail.com.gpg`
+>
+> Missing key A96649ED50AFAD8C6499F28E7DDEC187FA252895, which is needed to verify signature
+>
+> Please download the new signature key:
+>
+> sudo curl -sS -fsSLo /usr/share/keyrings/adelolmo-archive-keyring.gpg https://adelolmo.github.io/andoni.delolmo@gmail.com.gpg
 
 
 ## Ubuntu
