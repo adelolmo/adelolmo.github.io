@@ -11,7 +11,7 @@ List of current [packages](PACKAGES.md) in the repositories.
 >
 > or
 >
-> Failed to fetch https://adelolmo.github.io/bookworm/dists/bookworm/InRelease  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 7DDEC187FA252895
+> The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 7DDEC187FA252895
 >
 > Please download the new signature key:
 >
