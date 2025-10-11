@@ -6,7 +6,7 @@ Label: adelolmo
 Suite: stable
 Codename: trixie
 Version: 13.0
-Date: Sat, 11 Oct 2025 08:55:13 UTC
+Date: Sat, 11 Oct 2025 09:06:00 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo debian trixie repository
@@ -23,6 +23,19 @@ MD5Sum:
  f399662029197a539164589bf458f6cb 3113 main/binary-arm64/Packages
  9eafc8ca63d1d982bad73694e71366c5 1468 main/binary-arm64/Packages.gz
  c927c5d615cd8e36f087756dd354d544 153 main/binary-arm64/Release
+SHA1:
+ cbc2c59101d81570d213974ce432095b3a58d891 5079 main/binary-amd64/Packages
+ 9c945e1011618d1ecffdb1a85c9e560bd8bf85f0 2105 main/binary-amd64/Packages.gz
+ 1f2cb2759505f0da39b4e87f561242c3fb9e6869 153 main/binary-amd64/Release
+ 16def4da890f64a8be5f7a3f68e6f083a228dd77 1973 main/binary-i386/Packages
+ bfd15b4edefdc09bdaeccb29abe9618fb55a8afa 961 main/binary-i386/Packages.gz
+ d9bbe24635b664601937a8b237703c2aa10dc4b1 152 main/binary-i386/Release
+ 975428639d38cd245ce53fe5790376754044ec73 3532 main/binary-armhf/Packages
+ 67410e0e56b7060c5415e329f5d1a7a9289f86dc 1598 main/binary-armhf/Packages.gz
+ 67228ec02f10b551c85a07b5dcf37cd18226d06d 153 main/binary-armhf/Release
+ b0abc3451a3d5ffbc07509255fc25cbf56d99bf9 3113 main/binary-arm64/Packages
+ 3d44189b2da078ff6ddc87b9658daca813b7e82f 1468 main/binary-arm64/Packages.gz
+ 5a8a83eb81a06060395e6a7027b9e19b7d83d4a4 153 main/binary-arm64/Release
 SHA256:
  be7298199fb6ad84d3e42eecb6dba6740c871adb817d7527eae395a3b86b4202 5079 main/binary-amd64/Packages
  852d19c607db7bc30c9a39c9918ab2f6e39c84a2052c3d118890bcf45c10b482 2105 main/binary-amd64/Packages.gz
@@ -38,12 +51,12 @@ SHA256:
  aa6f998c51bce85bc77a41b1bc467668b84e3f2dada0fae8e3667ec0a5699da5 153 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmjqG3EACgkQhhfXN9sG
-qB82xgf/SQhDRZF+vnu1lrJ2YDm0SgBWNoPcvK6+GDQmmaI3e6p27Tt6l5hNKbM8
-jLz7/pN/NTGs6jZOdTRCFpimHiEGR8oLedMiMU0Tb5IhD7PP8PP/IGLFVcB4xxsb
-sljkSg3mc2wP+5o7dwv4b1AN+P6gEr2uuDxviA+s57q/QDV8kuP1TLtlLXo0EV0W
-ec/aQ8FzPUUGJp/D0w3WvrSuJz1EzJJn/V6n/QxeXQpZOvCwDak8yklIZnjKK1P+
-v1CGHSShdOoOcgza/aSi8yW7q2a7+71Qynaud3qyRx9G7vJYIC22Q5KFVIjSgJ7W
-ZUZClQw6kn+pQGpVMGKC4w+6PQFDDg==
-=6mOc
+iQEzBAEBCAAdFiEE0rCmRsEYvPXInbSOhhfXN9sGqB8FAmjqHf0ACgkQhhfXN9sG
+qB98Nwf/SGXmretTXsTTPUZuoGmeywQhTbiYVMOam6Nb6W+DjCvvf9FepCfF1Udj
+bXi1ILbf/6ODntb1krlidvDnC4TFicp/VsVNDfeR2J4QUtZ7A4W/zhJc6/8CNic3
+NRsrtDGFokBT8nLARoH+tS0FGQci2cenvvt7WYUejLnKLZerbnFul8NVYVSsd/u9
+OGyfjU4LlxVPEKBMxYp2m3SfRC9+0cUPumLEcZCcr7MNegb1xFx7+3zEkGmOKaz0
+9neoyTemPXWZKuOLEKBnBnV5TDJCvQbLlN/Tmi7bJC9OUhodfEZ6HAwH/3tjMLU9
+10BOkxWSOBCF+r0OcSCODHQrqN3rEg==
+=f5Pk
 -----END PGP SIGNATURE-----
