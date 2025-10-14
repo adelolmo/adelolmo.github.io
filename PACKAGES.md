@@ -288,6 +288,11 @@
 |trixie|main|amd64|notify-mail|1.2.2|
 |trixie|main|amd64|snapraid-runner|2.0.4|
 |trixie|main|amd64|sonoshttpapi|1.6.9~ado1|
+|trixie|main|amd64|turtl|0.7.2.6-pre-sync-fix-trixie~ado1|
+|trixie|main|i386|mp3spmerge|1.0.1|
+|trixie|main|i386|noimdb|1.1.0|
+|trixie|main|i386|snapraid-runner|2.0.4|
+|trixie|main|i386|sonoshttpapi|1.6.9~ado1|
 |trixie|main|armhf|delugecli|1.6.1|
 |trixie|main|armhf|hd-idle|1.21|
 |trixie|main|armhf|mp3spmerge|1.0.1|
