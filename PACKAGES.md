@@ -210,7 +210,7 @@
 |jessie|main|armhf|pimotd|1.2.0|
 |jessie|main|armhf|raton|1.0.1|
 |jessie|main|armhf|rest980|2.1.2~ado1|
-|jessie|main|armhf|rumbero|1.4.0|
+|jessie|main|armhf|rumbero|1.13.1|
 |jessie|main|armhf|sane-web-client|1.4|
 |jessie|main|armhf|scanpi|1.6.0|
 |jessie|main|armhf|snapraid|11.3-1|
