@@ -21,6 +21,22 @@ Description: Network-wide ads & trackers blocking DNS server
  It's based on software we use for our public AdGuard DNS servers -- both
  share a lot of common code.
 
+Package: createap
+Version: 0.4.6~ado4
+Architecture: all
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 84
+Depends: util-linux, procps, hostapd, iproute2, iw, dnsmasq, iptables
+Homepage: https://github.com/adelolmo/create_ap
+Priority: optional
+Section: net
+Filename: pool/main/c/createap/createap_0.4.6~ado4_all.deb
+Size: 18152
+SHA256: 695f7cdd2d6ea55ec6269850bb250ae250d7154dc89254b1331f5de2f42aeba3
+SHA1: fe0c5c728a6944b329e9439cee28d58e7997b912
+MD5sum: c78a0f9e9ae04ac3ee9c71f3d4bd5cc8
+Description: Create a NATed or Bridged WiFi Access Point.
+
 Package: delauncher
 Version: 2.3.5
 Architecture: amd64

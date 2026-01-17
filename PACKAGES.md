@@ -17,6 +17,7 @@
 |bionic|main|arm64|hd-idle|1.21|
 |bionic|main|arm64|heroscribe-enhanced-skull|1.12|
 |bionic|main|arm64|raton|1.0.1|
+|bookworm|main|i386|createap|0.4.6~ado4|
 |bookworm|main|i386|eliterss|2.32.0|
 |bookworm|main|i386|hd-idle|1.21|
 |bookworm|main|i386|heroscribe-enhanced-skull|1.12|
@@ -26,6 +27,7 @@
 |bookworm|main|i386|snapraid-runner|2.0.5|
 |bookworm|main|i386|sonoshttpapi|1.6.9~ado1|
 |bookworm|main|amd64|adguardhome|0.107.65|
+|bookworm|main|amd64|createap|0.4.6~ado4|
 |bookworm|main|amd64|delauncher|2.3.5|
 |bookworm|main|amd64|delugecli|1.6.1|
 |bookworm|main|amd64|eliterss|2.32.0|
@@ -42,6 +44,7 @@
 |bookworm|main|amd64|teadngine|1.0.1|
 |bookworm|main|amd64|tvshow-parse|1.19.0|
 |bookworm|main|armhf|adguardhome|0.107.65|
+|bookworm|main|armhf|createap|0.4.6~ado4|
 |bookworm|main|armhf|delugecli|1.6.1|
 |bookworm|main|armhf|eliterss|2.32.0|
 |bookworm|main|armhf|hd-idle|1.21|
@@ -53,6 +56,7 @@
 |bookworm|main|armhf|snapraid-runner|2.0.5|
 |bookworm|main|armhf|sonoshttpapi|1.6.9~ado1|
 |bookworm|main|arm64|adguardhome|0.107.65|
+|bookworm|main|arm64|createap|0.4.6~ado4|
 |bookworm|main|arm64|eliterss|2.32.0|
 |bookworm|main|arm64|hd-idle|1.21|
 |bookworm|main|arm64|heroscribe-enhanced-skull|1.12|
