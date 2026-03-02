@@ -41,7 +41,7 @@
 |bookworm|main|amd64|raton|1.0.1|
 |bookworm|main|amd64|snapraid-runner|2.0.5|
 |bookworm|main|amd64|sonoshttpapi|1.6.9~ado1|
-|bookworm|main|amd64|teadngine|1.0.1|
+|bookworm|main|amd64|teadngine|1.1.1|
 |bookworm|main|amd64|tvshow-parse|1.19.0|
 |bookworm|main|armhf|adguardhome|0.107.65|
 |bookworm|main|armhf|createap|0.4.6~ado4|
