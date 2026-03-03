@@ -88,7 +88,7 @@
 |bullseye|main|amd64|raton|1.0.1|
 |bullseye|main|amd64|snapraid-runner|2.0.4|
 |bullseye|main|amd64|sonoshttpapi|1.6.9~ado1|
-|bullseye|main|amd64|teadngine|1.1.1|
+|bullseye|main|amd64|teadngine|1.2.1|
 |bullseye|main|amd64|tvshow-parse|1.20.0|
 |bullseye|main|armhf|adguardhome|0.107.29|
 |bullseye|main|armhf|delugecli|1.6.1|
@@ -125,7 +125,7 @@
 |buster|main|amd64|rest980|2.1.2~ado1|
 |buster|main|amd64|snapraid-runner|2.0.4|
 |buster|main|amd64|sonoshttpapi|1.6.9~ado1|
-|buster|main|amd64|teadngine|1.1.1|
+|buster|main|amd64|teadngine|1.2.1|
 |buster|main|amd64|tvshow-parse|1.17.0|
 |buster|main|armhf|adguardhome|0.107.29|
 |buster|main|armhf|ap-clients|1.1.1|
@@ -198,7 +198,7 @@
 |jessie|main|amd64|rest980|2.1.2~ado1|
 |jessie|main|amd64|snapraid-runner|2.0.4|
 |jessie|main|amd64|sonoshttpapi|1.6.9~ado1|
-|jessie|main|amd64|teadngine|1.1.1|
+|jessie|main|amd64|teadngine|1.2.1|
 |jessie|main|amd64|tvshow-parse|1.17.0|
 |jessie|main|armhf|adguardhome|0.107.29|
 |jessie|main|armhf|ap-clients|1.1.1|
@@ -250,7 +250,7 @@
 |stretch|main|amd64|rest980|2.1.2~ado1|
 |stretch|main|amd64|snapraid-runner|2.0.4|
 |stretch|main|amd64|sonoshttpapi|1.6.9~ado1|
-|stretch|main|amd64|teadngine|1.1.1|
+|stretch|main|amd64|teadngine|1.2.1|
 |stretch|main|amd64|tvshow-parse|1.17.0|
 |stretch|main|armhf|adguardhome|0.107.29|
 |stretch|main|armhf|ap-clients|1.1.1|
