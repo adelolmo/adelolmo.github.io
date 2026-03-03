@@ -293,6 +293,7 @@
 |trixie|main|amd64|notify-mail|1.2.2|
 |trixie|main|amd64|snapraid-runner|2.0.4|
 |trixie|main|amd64|sonoshttpapi|1.6.9~ado1|
+|trixie|main|amd64|teadngine|1.2.1|
 |trixie|main|amd64|turtl|0.7.2.6-pre-sync-fix-trixie~ado1|
 |trixie|main|i386|heroscribe-enhanced-skull|1.12|
 |trixie|main|i386|mp3spmerge|1.0.1|

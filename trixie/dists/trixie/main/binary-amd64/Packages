@@ -163,6 +163,21 @@ SHA1: 545b0383809d79632f29f05b4324471fe5bdc80a
 MD5sum: 8a2bec6953f21144c9b83c64f2f1f370
 Description: A simple http based API for controlling your Sonos system.
 
+Package: teadngine
+Version: 1.2.1
+Architecture: amd64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Homepage: https://github.com/adelolmo/teadngine
+Installed-Size: 
+Priority: standard
+Section: games
+Filename: pool/main/t/teadngine/teadngine_1.2.1_amd64.deb
+Size: 5339572
+SHA256: 6de437a71923e82eaf4f674d8df7b45fe79c02fa117aa36d6140195baee42018
+SHA1: 90399a531d3ff8c6e45ca5a9c4432090e83dccdf
+MD5sum: 3b8b17be01844442f506330c155669b3
+Description: Text based Adventure Engine
+
 Package: turtl
 Version: 0.7.2.6-pre-sync-fix-trixie~ado1
 License: GPLv3
