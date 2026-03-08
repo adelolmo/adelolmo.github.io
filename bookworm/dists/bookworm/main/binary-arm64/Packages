@@ -161,6 +161,21 @@ SHA1: d88346c56a12181a41276b69b0732ce1eee173d8
 MD5sum: eb2e1158c85cef2983afeb876e8f1e9c
 Description: Hay un ratón en el restaurante the Giovanni
 
+Package: snapraid-runner
+Version: 2.0.5
+Architecture: all
+Depends: snapraid, python3
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 12
+Priority: standard
+Section: extras
+Filename: pool/main/s/snapraid-runner/snapraid-runner_2.0.5_all.deb
+Size: 4548
+SHA256: ff5948730f908249d4cc257143f3a31fa5d8eca2fd82f2d69d6cc19e7bdaec26
+SHA1: d8ac31907aa3696cc2d92e0ed9bb0fb14e6c7d47
+MD5sum: 8fd4a6ce14ed7711f0a04c6291512aef
+Description: Automate SnapRAID sync
+
 Package: sonoshttpapi
 Version: 1.6.9~ado1
 Architecture: all
