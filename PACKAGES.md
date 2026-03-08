@@ -24,7 +24,6 @@
 |bookworm|main|i386|mp3spmerge|1.0.1|
 |bookworm|main|i386|noimdb|1.1.0|
 |bookworm|main|i386|raton|1.0.1|
-|bookworm|main|i386|snapraid-runner|2.0.5|
 |bookworm|main|i386|sonoshttpapi|1.6.9~ado1|
 |bookworm|main|amd64|adguardhome|0.107.65|
 |bookworm|main|amd64|createap|0.4.6~ado4|
@@ -39,7 +38,6 @@
 |bookworm|main|amd64|noimdb|1.1.0|
 |bookworm|main|amd64|notify-mail|1.2.2|
 |bookworm|main|amd64|raton|1.0.1|
-|bookworm|main|amd64|snapraid-runner|2.0.5|
 |bookworm|main|amd64|sonoshttpapi|1.6.9~ado1|
 |bookworm|main|amd64|teadngine|1.2.1|
 |bookworm|main|amd64|tvshow-parse|1.19.0|
@@ -53,7 +51,6 @@
 |bookworm|main|armhf|mp3spmerge|1.0.1|
 |bookworm|main|armhf|noimdb|1.1.0|
 |bookworm|main|armhf|raton|1.0.1|
-|bookworm|main|armhf|snapraid-runner|2.0.5|
 |bookworm|main|armhf|sonoshttpapi|1.6.9~ado1|
 |bookworm|main|arm64|adguardhome|0.107.65|
 |bookworm|main|arm64|createap|0.4.6~ado4|
@@ -64,7 +61,6 @@
 |bookworm|main|arm64|mp3spmerge|1.0.1|
 |bookworm|main|arm64|noimdb|1.1.0|
 |bookworm|main|arm64|raton|1.0.1|
-|bookworm|main|arm64|snapraid-runner|2.0.5|
 |bookworm|main|arm64|sonoshttpapi|1.6.9~ado1|
 |bullseye|main|i386|eliterss|2.30.0|
 |bullseye|main|i386|hd-idle|1.21|
