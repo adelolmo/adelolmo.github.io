@@ -132,21 +132,6 @@ SHA1: 10e53d9ab81dc987b6a25e63879b47fb44550165
 MD5sum: b9cae9c05816659757f9697e703f223e
 Description: Send mail notifications
 
-Package: snapraid-runner
-Version: 2.0.5
-Architecture: all
-Depends: snapraid, python3
-Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 12
-Priority: standard
-Section: extras
-Filename: pool/main/s/snapraid-runner/snapraid-runner_2.0.5_all.deb
-Size: 4548
-SHA256: ff5948730f908249d4cc257143f3a31fa5d8eca2fd82f2d69d6cc19e7bdaec26
-SHA1: d8ac31907aa3696cc2d92e0ed9bb0fb14e6c7d47
-MD5sum: 8fd4a6ce14ed7711f0a04c6291512aef
-Description: Automate SnapRAID sync
-
 Package: sonoshttpapi
 Version: 1.6.9~ado1
 Architecture: all
