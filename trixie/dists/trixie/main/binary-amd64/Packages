@@ -103,18 +103,17 @@ MD5sum: 4177247ad3b7f163302971e42c361497
 Description: Merge Spotify audio books mp3 chunks into a single mp3 file
 
 Package: noimdb
-Version: 1.1.0
-Architecture: all
-Depends: default-jre-headless
-Installed-Size: 6264
+Version: 1.2.0
+Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Priority: normal
-Section: java
-Filename: pool/main/n/noimdb/noimdb_1.1.0_all.deb
-Size: 5728988
-SHA256: 88610823a6df179a7f6b3eb5e4691e0a24a67e9a775bf804dbc5d74dcac7dbc3
-SHA1: 13ad4b93bbc715df1ef72dc8c5d15f64ae79ed98
-MD5sum: 7c74f006ee4e0ca6c6aa7d6beb2cbf7d
+Installed-Size: 
+Priority: standard
+Section: extras
+Filename: pool/main/n/noimdb/noimdb_1.2.0_amd64.deb
+Size: 5903096
+SHA256: ff64a142c1686d80f6f854bcdae2743dc2271b62b0165d68e22e7ea6b77f5e49
+SHA1: 07ba26a8515aaa932b862e01137d7c6592679d6d
+MD5sum: 48d5e1164652c34dc85dda541ec9f17a
 Description: Find movie titles
 
 Package: notify-mail
