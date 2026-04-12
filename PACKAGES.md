@@ -5,6 +5,7 @@
 |bionic|main|amd64|delauncher|1.5.1|
 |bionic|main|amd64|hd-idle|1.21|
 |bionic|main|amd64|heroscribe-enhanced-skull|1.12|
+|bionic|main|amd64|nebulado-common|1.0.0|
 |bionic|main|amd64|notify-mail|1.2.2|
 |bionic|main|amd64|psp-library|1.4.0|
 |bionic|main|amd64|raton|1.0.1|
