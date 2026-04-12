@@ -43,6 +43,21 @@ Description: Easily produce typographic quality HeroQuest© maps
  EPS files can be opened by almost any CG application (GNU Ghostscript is
  recommended); maps can also be exported in PNG and PDF formats.
 
+Package: nebulado-client
+Version: 1.0.0
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 0
+Depends: nebulado-common
+Priority: standard
+Section: extras
+Filename: pool/main/n/nebulado-client/nebulado-client_1.0.0_armhf.deb
+Size: 1444
+SHA256: 559ecdc484cb5e93f6b33d4fbe14ac6ff17df835743007a952fd970297616e05
+SHA1: 8fa7fa8afa2e1bd5bb7223cfdb90dd77d3dea68a
+MD5sum: fd60aaaf11b8db50a63451ad4120b6fe
+Description: Nebula VPN orchestrator (client daemon)
+
 Package: nebulado-common
 Version: 1.0.0
 Architecture: armhf
