@@ -169,6 +169,7 @@
 |focal|main|amd64|delauncher|1.5.1|
 |focal|main|amd64|hd-idle|1.21|
 |focal|main|amd64|heroscribe-enhanced-skull|1.12|
+|focal|main|amd64|nebulado-common|1.0.0|
 |focal|main|amd64|raton|1.0.1|
 |focal|main|amd64|teadngine|1.2.1|
 |focal|main|i386|hd-idle|1.21|
