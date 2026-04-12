@@ -325,6 +325,7 @@
 |trixie|main|armhf|noimdb|1.1.0|
 |trixie|main|armhf|snapraid-runner|2.0.5|
 |trixie|main|armhf|sonoshttpapi|1.6.9~ado1|
+|trixie|main|arm64|adguardhome|0.107.65|
 |trixie|main|arm64|hd-idle|1.21|
 |trixie|main|arm64|heroscribe-enhanced-skull|1.12|
 |trixie|main|arm64|mp3spmerge|1.0.1|
