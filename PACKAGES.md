@@ -175,6 +175,7 @@
 |focal|main|arm64|raton|1.0.1|
 |focal|main|armhf|hd-idle|1.21|
 |focal|main|armhf|heroscribe-enhanced-skull|1.12|
+|focal|main|armhf|nebulado-common|1.0.0|
 |focal|main|armhf|raton|1.0.1|
 |jammy|main|amd64|hd-idle|1.21|
 |jammy|main|amd64|heroscribe-enhanced-skull|1.12|
