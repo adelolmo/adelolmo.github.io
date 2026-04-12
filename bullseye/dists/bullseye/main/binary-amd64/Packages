@@ -159,6 +159,21 @@ SHA1: a5b66244cd443c165640b1e35724ccf7f3a6e65c
 MD5sum: 4177247ad3b7f163302971e42c361497
 Description: Merge Spotify audio books mp3 chunks into a single mp3 file
 
+Package: nebulado-common
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 0
+Depends: nebula
+Priority: standard
+Section: extras
+Filename: pool/main/n/nebulado-common/nebulado-common_1.0.0_amd64.deb
+Size: 6335212
+SHA256: dbfadeba9881ac5e345a4364598a26531b0ffe00769a9a8ad8591dddaa120ba2
+SHA1: 468fb023dd1be7a0c08f52e02f3ff024c2f6bb9d
+MD5sum: cc204d4b9a85ff93a0d960a70310f8cf
+Description: Nebula VPN orchestrator (common files)
+
 Package: noimdb
 Version: 1.1.0
 Architecture: all
@@ -236,18 +251,18 @@ MD5sum: 8a2bec6953f21144c9b83c64f2f1f370
 Description: A simple http based API for controlling your Sonos system.
 
 Package: teadngine
-Version: 1.1.1
+Version: 1.2.1
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Homepage: https://github.com/adelolmo/teadngine
 Installed-Size: 
 Priority: standard
 Section: games
-Filename: pool/main/t/teadngine/teadngine_1.1.1_amd64.deb
-Size: 5336912
-SHA256: 62f2decacccb98c7298d3ee538b8acc279b4f88dd266254d3ca7b4a1424911e9
-SHA1: 844f024fe2d6636564f8e56744c4d699bdd9b73b
-MD5sum: 21a17887a9fa6a0b3c14d36282c085e2
+Filename: pool/main/t/teadngine/teadngine_1.2.1_amd64.deb
+Size: 5339572
+SHA256: 6de437a71923e82eaf4f674d8df7b45fe79c02fa117aa36d6140195baee42018
+SHA1: 90399a531d3ff8c6e45ca5a9c4432090e83dccdf
+MD5sum: 3b8b17be01844442f506330c155669b3
 Description: Text based Adventure Engine
 
 Package: tvshow-parse
