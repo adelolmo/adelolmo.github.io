@@ -98,6 +98,7 @@
 |bullseye|main|armhf|heroscribe-enhanced-skull|1.12|
 |bullseye|main|armhf|mergerfs|2.40.2~debian-bullseye|
 |bullseye|main|armhf|mp3spmerge|1.0.1|
+|bullseye|main|armhf|nebulado-client|1.0.0|
 |bullseye|main|armhf|nebulado-common|1.0.0|
 |bullseye|main|armhf|noimdb|1.1.0|
 |bullseye|main|armhf|notify-mail|1.2.2|
