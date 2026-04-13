@@ -331,7 +331,7 @@
 |trixie|main|armhf|heroscribe-enhanced-skull|1.12|
 |trixie|main|armhf|mp3spmerge|1.0.1|
 |trixie|main|armhf|nebulado-client|1.0.0|
-|trixie|main|armhf|nebulado-common|1.0.0|
+|trixie|main|armhf|nebulado-common|1.0.1|
 |trixie|main|armhf|nebulado-server|1.0.0|
 |trixie|main|armhf|noimdb|1.1.0|
 |trixie|main|armhf|snapraid-runner|2.0.5|
