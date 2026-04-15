@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: trixie
 Version: 13.0
-Date: Wed, 15 Apr 2026 17:27:05 UTC
+Date: Wed, 15 Apr 2026 17:27:08 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo debian trixie repository
@@ -17,8 +17,8 @@ MD5Sum:
  35f219607b1c18c6901b76649df9c244 5802 main/binary-armhf/Packages
  54dc5eb7a3cc03c9155a5b80acfadc61 2344 main/binary-armhf/Packages.gz
  f1cba85ec555f76858b874f855c0ce59 153 main/binary-armhf/Release
- 1f9c273b262a5167292265515a4596e1 6339 main/binary-arm64/Packages
- e4f801f1b375b2380cb64d3358f125f7 2602 main/binary-arm64/Packages.gz
+ 35972a18774f782fc13cf04c050185bc 6339 main/binary-arm64/Packages
+ a9d53333ec51606c30c4c72d010c59af 2612 main/binary-arm64/Packages.gz
  c927c5d615cd8e36f087756dd354d544 153 main/binary-arm64/Release
 SHA1:
  28fb3c5ded3ef74d43a1c6df68e52d261833b467 8373 main/binary-amd64/Packages
@@ -30,8 +30,8 @@ SHA1:
  99b91cd4a5b0818626d83b0b9bcf162e1871efef 5802 main/binary-armhf/Packages
  44e4210796a8a6ec82acecda374db1989e8bcecf 2344 main/binary-armhf/Packages.gz
  67228ec02f10b551c85a07b5dcf37cd18226d06d 153 main/binary-armhf/Release
- 4b56f1fa584097dd8e7f76cf0322aec41e936c97 6339 main/binary-arm64/Packages
- bde464d541df470fe1a465c16919e2a11442a9a3 2602 main/binary-arm64/Packages.gz
+ d05c8e5309ab5f2805faae1861d30f233cb20ea8 6339 main/binary-arm64/Packages
+ 39215400a966402671df9e320ebc195d75d0548d 2612 main/binary-arm64/Packages.gz
  5a8a83eb81a06060395e6a7027b9e19b7d83d4a4 153 main/binary-arm64/Release
 SHA256:
  e56585041d0280e6a09b7b24e2b62f62050272305b962c95e5c32d7c273764d5 8373 main/binary-amd64/Packages
@@ -43,6 +43,6 @@ SHA256:
  8b22259cf99c33227c158f07afaa258924e8de39235766f7108a898e7a60b011 5802 main/binary-armhf/Packages
  ddf0a94ab66ab4a9c7ef7e771c969a6cd8ff65d1515bba33cb35c56c9f798fec 2344 main/binary-armhf/Packages.gz
  78cc07f5c727653cbe322b50c58a797b3d16e6ec3afb47c8563b8ac956e7548b 153 main/binary-armhf/Release
- 95b138683960d681c621ca92f75d4ef0723c65caf207c9426d3eff65cbd8c72a 6339 main/binary-arm64/Packages
- f8b25884040a3498a70e181ab227c84c0e0a442ea2cb9fc2ca4d5fd5c9396e54 2602 main/binary-arm64/Packages.gz
+ 1e3b6696e8168acf57d1a2503eb14fc585176110fcf2ff575bb131974007f688 6339 main/binary-arm64/Packages
+ bbd713f7bbe6c766d3498fc242f47620946321def719bba7c53b3a58fa8a7fd2 2612 main/binary-arm64/Packages.gz
  aa6f998c51bce85bc77a41b1bc467668b84e3f2dada0fae8e3667ec0a5699da5 153 main/binary-arm64/Release
