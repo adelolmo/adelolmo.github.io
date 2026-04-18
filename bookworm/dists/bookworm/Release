@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: bookworm
 Version: 12.0
-Date: Sat, 18 Apr 2026 12:42:59 UTC
+Date: Sat, 18 Apr 2026 12:43:02 UTC
 Architectures: i386 amd64 armhf arm64
 Components: main
 Description: adelolmo debian bookworm repository
@@ -17,8 +17,8 @@ MD5Sum:
  b6cd26d08c0148b5ef1845595dfb822a 9062 main/binary-armhf/Packages
  5a509bbe2b7ebd1f6b7055ab96af74c9 3666 main/binary-armhf/Packages.gz
  7735157ddd3eaf7aebfab6ea08eba08d 155 main/binary-armhf/Release
- 3fed763d4b8a5671c8bdd4c070d16a65 8644 main/binary-arm64/Packages
- a394b7f8662cf147115011dfb98e4b05 3527 main/binary-arm64/Packages.gz
+ 8b48a219f696be6dd12bb4ee509cd93f 8644 main/binary-arm64/Packages
+ 1c31d3d534aaeb5c854b3c79a0805168 3536 main/binary-arm64/Packages.gz
  084f155abdcb11fcb416d7f0b38e37ae 155 main/binary-arm64/Release
 SHA1:
  d618baca0234c7a58c06ddb45400e52953d527f5 5466 main/binary-i386/Packages
@@ -30,8 +30,8 @@ SHA1:
  0fd48a8fb3967e34b4bbc12af0c2e563eec33c39 9062 main/binary-armhf/Packages
  3bebd996bfdd0f00d9789ade45e49a829232fbda 3666 main/binary-armhf/Packages.gz
  0d35188395f05136af449a6e776ece29ba44c2d0 155 main/binary-armhf/Release
- 4b2e98ae1dc316b274805cb22617a1530a593789 8644 main/binary-arm64/Packages
- feb18e59d2c1e12417d835466b2acd1dc629b8ce 3527 main/binary-arm64/Packages.gz
+ 573986e7f262fe416d5d60b88aa91aced879d6a8 8644 main/binary-arm64/Packages
+ 09bb100bec6536f06762da09a3a9c0d46353348c 3536 main/binary-arm64/Packages.gz
  5e8a887adf650e1751828eb05afa247be6b6b6b3 155 main/binary-arm64/Release
 SHA256:
  d4d16a19628223769e58d8945eff2e81654b66e1474240f83295834684726215 5466 main/binary-i386/Packages
@@ -43,6 +43,6 @@ SHA256:
  ec38da4655fcbf2d3b798864452859d53141547170ec11cdc67c2d2089880cb2 9062 main/binary-armhf/Packages
  5d11b1b462a030848cdfea8a127621283a3402d0423a6d37bf365bb6c5ac2e0b 3666 main/binary-armhf/Packages.gz
  0737b5d48cd4553cd7c78fc915a764c0d273b7980a5e5d2e51f82ed9b9d2916c 155 main/binary-armhf/Release
- 0d4bc95a7c2ca1c7bed3199d1cd95d00ce1d1194982b66b6c3748fc6de46a2e3 8644 main/binary-arm64/Packages
- 73264e9cc3fb3b92ca734e353b435adeddc56463d43a9ab83a5ee49458ae79a5 3527 main/binary-arm64/Packages.gz
+ 7b7b7df2a28d0aafe47400cd024c1b693351b142742009f39a0d297f477e823c 8644 main/binary-arm64/Packages
+ 2f9dcec431a4b1408f29443465055622dc30611ef573dd19329221a7f7e53b53 3536 main/binary-arm64/Packages.gz
  15ab82533bcc27cd463a6d78307bd824297ff113075821be04afe8b63117bec3 155 main/binary-arm64/Release
