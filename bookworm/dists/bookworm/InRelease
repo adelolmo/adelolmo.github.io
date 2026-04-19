@@ -6,7 +6,7 @@ Label: adelolmo
 Suite: stable
 Codename: bookworm
 Version: 12.0
-Date: Sun, 19 Apr 2026 13:49:58 UTC
+Date: Sun, 19 Apr 2026 14:25:13 UTC
 Architectures: i386 amd64 armhf arm64
 Components: main
 Description: adelolmo debian bookworm repository
@@ -14,8 +14,8 @@ MD5Sum:
  d8d16adeac623c014bad8edafcbfb85f 5466 main/binary-i386/Packages
  eda4484574170fc625e6833af99ebf2b 2390 main/binary-i386/Packages.gz
  c3a07bebf77e2c12e72b84cb9be9d1c9 154 main/binary-i386/Release
- 96fec56ff5495676778c7e74340655e6 11510 main/binary-amd64/Packages
- 0dfe85f53083ab60d0455fbadbfb1d93 4430 main/binary-amd64/Packages.gz
+ ff95a698fbbd9ac1de772df6bf14146a 11510 main/binary-amd64/Packages
+ 38dc34133ea3ed3816737117ea6fc5eb 4434 main/binary-amd64/Packages.gz
  82907be21f0d596eb33219b2c349e35f 155 main/binary-amd64/Release
  205603f4ee9899f83b0eefc5d13127ce 9062 main/binary-armhf/Packages
  3e8b7d49c08572f113a692c1068401b6 3662 main/binary-armhf/Packages.gz
@@ -27,8 +27,8 @@ SHA1:
  d618baca0234c7a58c06ddb45400e52953d527f5 5466 main/binary-i386/Packages
  d2575fb0ebcb458c5bb09aad79671395e21c7abf 2390 main/binary-i386/Packages.gz
  f1a64df083a8eacb476bd66ddacf243f96ea6e9f 154 main/binary-i386/Release
- dd93c8437409d3fffab1fd5ff2c2f25b41fed0c5 11510 main/binary-amd64/Packages
- 42c3d0200e70e2ff7aa178adc5279bb7210167e7 4430 main/binary-amd64/Packages.gz
+ a4f82c1fd4e6a2fff6616b73e396280652891215 11510 main/binary-amd64/Packages
+ 705bb91d834644e79d8e8efe3a892113620ca7e8 4434 main/binary-amd64/Packages.gz
  0bf31254c9b75769b225406d9b484da8a9ef6665 155 main/binary-amd64/Release
  433a57db452bbc206fc8416dd345746ca3f8f28c 9062 main/binary-armhf/Packages
  0a905c92374f02fa17bc140cf1f945093407b531 3662 main/binary-armhf/Packages.gz
@@ -40,8 +40,8 @@ SHA256:
  d4d16a19628223769e58d8945eff2e81654b66e1474240f83295834684726215 5466 main/binary-i386/Packages
  119c5bf3801c570920e7bf756e625fc8df9c6a69162ec4ba2ac874b6df0cf73e 2390 main/binary-i386/Packages.gz
  fbd2e2b1effaa29f46713010cc7f56f01b0f288077c14ca59db4038572a554ea 154 main/binary-i386/Release
- facbf7f36793cf5e3f0eb55783d2ac40dcd2cd32cb6dace26b0076c839f065b1 11510 main/binary-amd64/Packages
- e30a0e1b5a41f5722867cc3b27756148bd8b71e4775440f6ae97711d2ba16f7d 4430 main/binary-amd64/Packages.gz
+ 7ac2208fcb3ff43e214a2e844b96bc8138197b7e41e8dd7a40b522520d9e1625 11510 main/binary-amd64/Packages
+ bde461ccea019df824d8ad534fe754c7066f243cb4ced1b06300e13058c694e5 4434 main/binary-amd64/Packages.gz
  23b8fc92c259b8f3cf426f7e1a050e2b46b38598d92c3262fac78e1de6a15ce9 155 main/binary-amd64/Release
  38648d0396fb120782899ee347bbaa45168a58a7693c68ded613de246d9e398f 9062 main/binary-armhf/Packages
  4e62b8c16c550afb8d3cda03d152794fea5547ec29e0e373ccca6b9b3943ae21 3662 main/binary-armhf/Packages.gz
@@ -51,8 +51,8 @@ SHA256:
  15ab82533bcc27cd463a6d78307bd824297ff113075821be04afe8b63117bec3 155 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaeTdhwAKCRB93sGH+iUo
-lQUBAQDlx/uERvln9hJqCqij/aRpDOG9CNM3faw1t4Rc53RvlAD/SBSjCtzf3lED
-bVdoHVfFOAHVYm6p4SgQUu2B9X34KQk=
-=NpIE
+iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaeTlyQAKCRB93sGH+iUo
+lVVKAP46UFbNdOmfV1gHbHfKTWY9eGux/foCHKUzCyFekiWkuwD+LPa45jBan1q6
+4LqdcWk+uvmkUVsQe9ELv+e+X2ETZAA=
+=fbm5
 -----END PGP SIGNATURE-----
