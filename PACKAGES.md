@@ -38,7 +38,7 @@
 |bookworm|main|amd64|heroscribe-enhanced-skull|1.12|
 |bookworm|main|amd64|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|amd64|mp3spmerge|1.1.0|
-|bookworm|main|amd64|nebulado-client|1.3.8|
+|bookworm|main|amd64|nebulado-client|1.3.9|
 |bookworm|main|amd64|nebulado-common|1.3.9|
 |bookworm|main|amd64|nebulado-server|1.3.8|
 |bookworm|main|amd64|noimdb|1.2.1|
