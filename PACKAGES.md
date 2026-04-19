@@ -259,7 +259,7 @@
 |jessie|main|arm64|sonoshttpapi|1.6.9~ado1|
 |noble|main|amd64|hd-idle|1.21|
 |noble|main|amd64|nebulado-client|1.4.0|
-|noble|main|amd64|nebulado-common|1.4.0|
+|noble|main|amd64|nebulado-common|1.4.1|
 |noble|main|amd64|nebulado-server|1.4.0|
 |noble|main|amd64|raton|1.0.5|
 |noble|main|amd64|teadngine|1.1.0|
