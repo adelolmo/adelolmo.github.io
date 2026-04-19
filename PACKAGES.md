@@ -196,7 +196,7 @@
 |jammy|main|amd64|hd-idle|1.21|
 |jammy|main|amd64|heroscribe-enhanced-skull|1.12|
 |jammy|main|amd64|nebulado-client|1.4.1|
-|jammy|main|amd64|nebulado-common|1.4.1|
+|jammy|main|amd64|nebulado-common|1.4.2|
 |jammy|main|amd64|nebulado-server|1.4.1|
 |jammy|main|amd64|raton|1.0.1|
 |jammy|main|amd64|teadngine|1.2.1|
