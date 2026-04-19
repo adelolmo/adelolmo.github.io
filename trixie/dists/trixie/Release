@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: trixie
 Version: 13.0
-Date: Sun, 19 Apr 2026 09:36:02 UTC
+Date: Sun, 19 Apr 2026 09:36:05 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo debian trixie repository
@@ -14,8 +14,8 @@ MD5Sum:
  608f588ec481c875a2266917579f80e2 2790 main/binary-i386/Packages
  fed9c814c672dc48026ce5105c3cb352 1313 main/binary-i386/Packages.gz
  0ec0df74513004fd7ce56ffa500bb772 152 main/binary-i386/Release
- b9418ffb155d988ca543ca02d068b5e3 5802 main/binary-armhf/Packages
- 03101dc3ae11af0e790d6ab72f77e2e5 2344 main/binary-armhf/Packages.gz
+ 33bc8ec003bf646615b331c6b450b38b 5802 main/binary-armhf/Packages
+ 69b2c4607682d157de9c89731eb6a626 2349 main/binary-armhf/Packages.gz
  f1cba85ec555f76858b874f855c0ce59 153 main/binary-armhf/Release
  96ec9e19d05b761d01732d1bc2019d2a 6339 main/binary-arm64/Packages
  3d59b72865f5df57ae184204d9936c96 2606 main/binary-arm64/Packages.gz
@@ -27,8 +27,8 @@ SHA1:
  391db6a8fcbd69a3bbb6d95990571a4aac022b67 2790 main/binary-i386/Packages
  c7a8f00d87891a6ccced620f9592ad6bcb7bdb7a 1313 main/binary-i386/Packages.gz
  d9bbe24635b664601937a8b237703c2aa10dc4b1 152 main/binary-i386/Release
- b3347d392e449415fd831aa2f75fa038e73f68ff 5802 main/binary-armhf/Packages
- 1ffcde3f2d758d7d97942b8bd5bc0159107cad29 2344 main/binary-armhf/Packages.gz
+ 9a1286db999ee0cbeed18511cec4a8fd6f20c976 5802 main/binary-armhf/Packages
+ 1d203bd24396de2bfe0735a1fb6d0af8d6f630a8 2349 main/binary-armhf/Packages.gz
  67228ec02f10b551c85a07b5dcf37cd18226d06d 153 main/binary-armhf/Release
  53eb67483862022a4d9328f944748140847f1065 6339 main/binary-arm64/Packages
  7c741d0a69d938b3ba8a4d5d9988a8f63191fe2d 2606 main/binary-arm64/Packages.gz
@@ -40,8 +40,8 @@ SHA256:
  fa4a0af9e4478fcb51826570cfa3c4527c980d1be17eeb278f5d622c14419b52 2790 main/binary-i386/Packages
  81eb033a7f51d7aa1aee11648e4dcd9599274713b8f057c4330fdda07e76ec81 1313 main/binary-i386/Packages.gz
  2ec4b5784c63bb4b6b4b846a9e3e6f4387d99c057d982a6d4f875f4cd7c83e7f 152 main/binary-i386/Release
- 2a616277eb196ac64e12fdbbae0a894640b370451691fe77072222c50fcd54f5 5802 main/binary-armhf/Packages
- ec998e4e1de4c789d39ccceb32400809397fc1256119cdbf36246c782faf2bdf 2344 main/binary-armhf/Packages.gz
+ aed1fc0da0adb96f1c9d7ea5c8f9bb0ef6690ca4b9a272deb0045a5a3cbf9a2b 5802 main/binary-armhf/Packages
+ eb8bade957105fcc38a6b5f1f062568807d86b71bbfa97d58973c0cd9fb780d4 2349 main/binary-armhf/Packages.gz
  78cc07f5c727653cbe322b50c58a797b3d16e6ec3afb47c8563b8ac956e7548b 153 main/binary-armhf/Release
  e36404bbc8b35d2fcfbd5f339044e02895553ab915a3b8c932b860c6c69312f6 6339 main/binary-arm64/Packages
  ede5aa848e59a6fa8e99d50fe1cff3de545b6c6f367f7ccc20cbf0b2f80fcdac 2606 main/binary-arm64/Packages.gz
