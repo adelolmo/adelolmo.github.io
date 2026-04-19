@@ -261,6 +261,7 @@
 |noble|main|armhf|raton|1.0.5|
 |noble|main|arm64|hd-idle|1.21|
 |noble|main|arm64|raton|1.0.5|
+|resolute|main|amd64|nebulado-common|1.3.7|
 |stretch|main|amd64|adguardhome|0.107.62|
 |stretch|main|amd64|delugecli|1.6.1|
 |stretch|main|amd64|eliterss|2.29.0|
