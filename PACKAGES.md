@@ -279,7 +279,7 @@
 |resolute|main|amd64|nebulado-common|1.3.13|
 |resolute|main|amd64|nebulado-server|1.3.13|
 |resolute|main|armhf|nebulado-client|1.3.12|
-|resolute|main|armhf|nebulado-common|1.3.12|
+|resolute|main|armhf|nebulado-common|1.3.13|
 |resolute|main|armhf|nebulado-server|1.3.12|
 |resolute|main|arm64|nebulado-client|1.3.12|
 |resolute|main|arm64|nebulado-common|1.3.12|
