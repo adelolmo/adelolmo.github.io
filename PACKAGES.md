@@ -275,7 +275,7 @@
 |noble|main|arm64|nebulado-common|1.3.10|
 |noble|main|arm64|nebulado-server|1.3.10|
 |noble|main|arm64|raton|1.0.5|
-|resolute|main|amd64|nebulado-client|1.3.10|
+|resolute|main|amd64|nebulado-client|1.3.11|
 |resolute|main|amd64|nebulado-common|1.3.11|
 |resolute|main|amd64|nebulado-server|1.3.10|
 |resolute|main|armhf|nebulado-client|1.3.10|
