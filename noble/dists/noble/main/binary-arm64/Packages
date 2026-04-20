@@ -25,18 +25,18 @@ Description: Spin down idle hard disks
  hd-idle is 10 minutes.
 
 Package: nebulado-client
-Version: 1.7.2
+Version: 1.7.3
 Architecture: arm64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.7.2_arm64.deb
+Filename: pool/main/n/nebulado-client/nebulado-client_1.7.3_arm64.deb
 Size: 1448
-SHA256: 6b475f35278c61f0382482e11d2ce5d522dc25ecebd2c6a696bc9c5db55ed286
-SHA1: 86514e9f66da03a7d045da61894eb8dbc7f22a08
-MD5sum: 6aaf136ee1bfe6d871746cb0fec10935
+SHA256: 20f3fa5d22d53f2be82bb46cceb82d6403caeb8f6e37f4fa98a1335a3b963314
+SHA1: fd57162451637350ddd8c840c500c833adfe87d5
+MD5sum: 129b4d957a1b98395fa98883345bf11a
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
