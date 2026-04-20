@@ -195,7 +195,7 @@
 |focal|main|armhf|raton|1.0.1|
 |jammy|main|amd64|hd-idle|1.21|
 |jammy|main|amd64|heroscribe-enhanced-skull|1.12|
-|jammy|main|amd64|nebulado-client|1.7.0|
+|jammy|main|amd64|nebulado-client|1.7.1|
 |jammy|main|amd64|nebulado-common|1.7.1|
 |jammy|main|amd64|nebulado-server|1.7.0|
 |jammy|main|amd64|raton|1.0.1|
