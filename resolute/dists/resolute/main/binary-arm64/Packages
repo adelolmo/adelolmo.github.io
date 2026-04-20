@@ -1,16 +1,16 @@
 Package: nebulado-client
-Version: 1.7.4
+Version: 1.8.0
 Architecture: arm64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.7.4_arm64.deb
+Filename: pool/main/n/nebulado-client/nebulado-client_1.8.0_arm64.deb
 Size: 1444
-SHA256: 52620b8848bc983ef369dacccd7038e1d29fb6b9b8f6d2abfca1b60bbd226fa7
-SHA1: 6976e686c5bd4fa8443beb00c96ecd62122e4401
-MD5sum: f7b4f7b959245ddf2966ba7d05c7a388
+SHA256: 7e9fbd9ae0b7c7aeff8e5f0b4c048d24ea8a66ddaa92b0dfda51dcc34e3ea731
+SHA1: 422e399bcd1388e005dbb8ef420cbe88a14ff023
+MD5sum: fabd94654e4e4d0e91dafd24af6aa52d
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
