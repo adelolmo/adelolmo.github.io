@@ -6,7 +6,7 @@ Label: adelolmo
 Suite: stable
 Codename: jammy
 Version: 22.04
-Date: Tue, 21 Apr 2026 09:44:19 UTC
+Date: Tue, 21 Apr 2026 09:44:22 UTC
 Architectures: amd64 i386 arm64 armhf
 Components: main
 Description: adelolmo ubuntu jammy repository
@@ -17,8 +17,8 @@ MD5Sum:
  976cb4b69bad17cab5f4573736f86b71 2420 main/binary-i386/Packages
  79e454b757bd8fcf62bcd55de04d5613 1255 main/binary-i386/Packages.gz
  19c449a2374d2b3fa68f65deb48c5a3a 152 main/binary-i386/Release
- d9a60e8b49e6526fca9ef86624994fd1 3875 main/binary-arm64/Packages
- ebdc1a481434d1425236bbeccf852b08 1684 main/binary-arm64/Packages.gz
+ 82f4e32b53ed9376a3f2151496eaa714 3875 main/binary-arm64/Packages
+ d80101fbddff15d4e38294bfaac34c51 1682 main/binary-arm64/Packages.gz
  74b50f1a6b84d37193deb988938908ec 153 main/binary-arm64/Release
  d3b81f6d9213c641a6a1a9fcb366783d 3875 main/binary-armhf/Packages
  cd59f8a5bd6d24794c176473f844a72d 1679 main/binary-armhf/Packages.gz
@@ -30,8 +30,8 @@ SHA1:
  793681c023ec8e154e27a8c2a65b395faf0a6307 2420 main/binary-i386/Packages
  89d9c47162bb7267b41b58c075ff71857aaba845 1255 main/binary-i386/Packages.gz
  8650a5666ba8b2b9593159534889966a388431f0 152 main/binary-i386/Release
- 602b67ac1fb5956c5bf03f0ce96f1b192314d260 3875 main/binary-arm64/Packages
- 620965aee8599d3f5241e51f20c257ad69053034 1684 main/binary-arm64/Packages.gz
+ 2ed2c32348c22aa73e6d9257ecbbe387a7e5aecd 3875 main/binary-arm64/Packages
+ 93337c163eaa02a9875babe34c55860b7a13eb05 1682 main/binary-arm64/Packages.gz
  ee2398c7b5fc91894fc31d7cfd1264ac777c5870 153 main/binary-arm64/Release
  a859dfcf9c2bc62ce040de545b3565871ba05257 3875 main/binary-armhf/Packages
  bb45ee7926f3e1f6bef9cf093e2a1ab073295ed1 1679 main/binary-armhf/Packages.gz
@@ -43,16 +43,16 @@ SHA256:
  470664d664d1afa985b0c838b56504aaab2fedc828175e10d3ce8c5c40f23fb5 2420 main/binary-i386/Packages
  4b022b4dc815c1399ca186ae562f60b9f975a56a6e87d12e430cf173fc25cc8d 1255 main/binary-i386/Packages.gz
  f347c65e7c57a30bb059878508480982cda2d2106a3e87dfbbfbcd0cbf64ee41 152 main/binary-i386/Release
- 83d58a26038e97a1057c4f31aa53d8d3e203749ffb450b4785a90565035be994 3875 main/binary-arm64/Packages
- 1d181c2524560a9528205028dcce0e34f370fdb89f7bd3adb3d04906dd77cd9e 1684 main/binary-arm64/Packages.gz
+ ed198320e79bb7977a87af2f7f74f4c0508d8a561d1fa777585c92b4e80ed13e 3875 main/binary-arm64/Packages
+ 1e3aefd52e5609490c29641aa1afca412536ccb14a7a0fc9b9f3c430b62bf59e 1682 main/binary-arm64/Packages.gz
  f3385c508436fae9745aca0e8d1a1b23b1f2abbe7c79de9f6af2b134deba2057 153 main/binary-arm64/Release
  060947098f6e7bc5995043b144c7130b2cfd4e733c03231d3a7b298a492c8f63 3875 main/binary-armhf/Packages
  af3570e6b003e4614bc9c3e2b5297aee1ded60ab81c0ed598674477b43773aa5 1679 main/binary-armhf/Packages.gz
  daa2a6bef0df6e6c41ada598d9e80bd3b998f5ba14e8d4c9b299d4ad83a20967 153 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaedG8wAKCRB93sGH+iUo
-lQpAAQCg5Eexzkf+eA0WO+qxzral0PGfpVk3aeEGenXTyEPn0QEA4rPOVogLzRHE
-bWyt+JBJiAS0+q7CRvyQcrdaVfhWjgA=
-=EDo4
+iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaedG9gAKCRB93sGH+iUo
+lVnhAQDEIvdixm9LWMqLlGje/QObE4Ja1mSNPW5BcCd29bR6CgD5AbsTxhHP7BQd
+IafADnjLNLG5tXoH+ssqb/jantcWuQA=
+=Q67n
 -----END PGP SIGNATURE-----
