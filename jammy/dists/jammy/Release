@@ -3,13 +3,13 @@ Label: adelolmo
 Suite: stable
 Codename: jammy
 Version: 22.04
-Date: Tue, 21 Apr 2026 17:11:00 UTC
+Date: Tue, 21 Apr 2026 17:11:03 UTC
 Architectures: amd64 i386 arm64 armhf
 Components: main
 Description: adelolmo ubuntu jammy repository
 MD5Sum:
- 6a95653d9f26eb9616182b6add0f4808 4358 main/binary-amd64/Packages
- 5d69eab9e02515ff8c051069c0025c0e 1841 main/binary-amd64/Packages.gz
+ be817b2685e5aacbdf4c5d1571d32722 4358 main/binary-amd64/Packages
+ 597683457a7ef261098e0be29adc35d9 1833 main/binary-amd64/Packages.gz
  0ffcc46ff726cee0dc9b229895221fbd 153 main/binary-amd64/Release
  976cb4b69bad17cab5f4573736f86b71 2420 main/binary-i386/Packages
  79e454b757bd8fcf62bcd55de04d5613 1255 main/binary-i386/Packages.gz
@@ -21,8 +21,8 @@ MD5Sum:
  cd59f8a5bd6d24794c176473f844a72d 1679 main/binary-armhf/Packages.gz
  75c004dfb99fe3d61cfb92125d752b04 153 main/binary-armhf/Release
 SHA1:
- dac7b4e2709e8f571d552c1da4abb07b25ed6a2a 4358 main/binary-amd64/Packages
- 707f03b0cfe41eb32d46470ad8144da511ea9200 1841 main/binary-amd64/Packages.gz
+ 9f30acca704a40965dfca7efaef80a40b37eb797 4358 main/binary-amd64/Packages
+ bb2deec688dbd05695cb47b317b222024a10f2c6 1833 main/binary-amd64/Packages.gz
  5c02cafa48d1f19a55e8b097a0c3a4a7f3cbe2ef 153 main/binary-amd64/Release
  793681c023ec8e154e27a8c2a65b395faf0a6307 2420 main/binary-i386/Packages
  89d9c47162bb7267b41b58c075ff71857aaba845 1255 main/binary-i386/Packages.gz
@@ -34,8 +34,8 @@ SHA1:
  bb45ee7926f3e1f6bef9cf093e2a1ab073295ed1 1679 main/binary-armhf/Packages.gz
  9d44a1d04ed9f8cd142dd0d309044b00bf3532df 153 main/binary-armhf/Release
 SHA256:
- 3ced596233b4cf408438cb0bc1d6e7a9a7476f08900dfc16300c3e5ad6d06e54 4358 main/binary-amd64/Packages
- aea5e25b642807a89e108a3276a921fa43f1e3c46ebdf0cf5d771d6d6ef47727 1841 main/binary-amd64/Packages.gz
+ c038bb344758b8de1e3163c06cc73ac4eaf558156a852a69b14eba0bd00f0da1 4358 main/binary-amd64/Packages
+ 445bd2f6a3aa2016a114cca336486e1b5bb4ad8966aa7a7359f23f1738bed220 1833 main/binary-amd64/Packages.gz
  3609084c12eea41f3e69a62062fd0a55101638f959d0c520f73c0d87bdcbb42f 153 main/binary-amd64/Release
  470664d664d1afa985b0c838b56504aaab2fedc828175e10d3ce8c5c40f23fb5 2420 main/binary-i386/Packages
  4b022b4dc815c1399ca186ae562f60b9f975a56a6e87d12e430cf173fc25cc8d 1255 main/binary-i386/Packages.gz
