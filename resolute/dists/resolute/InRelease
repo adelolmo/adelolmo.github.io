@@ -6,7 +6,7 @@ Label: adelolmo
 Suite: stable
 Codename: resolute
 Version: 26.04
-Date: Tue, 21 Apr 2026 08:31:09 UTC
+Date: Tue, 21 Apr 2026 08:31:15 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo ubuntu resolute repository
@@ -20,8 +20,8 @@ MD5Sum:
  db68bac963664ec72d12ddf66fdd7064 1453 main/binary-armhf/Packages
  0355365a1779f3b7fb328d4bc2746794 600 main/binary-armhf/Packages.gz
  a8a653eefcf4208b338924f4b7fac4c4 156 main/binary-armhf/Release
- 2f354b7f212b1e016704b9561bc5e299 1453 main/binary-arm64/Packages
- 87ddb313e28639be0150a275fdc66bd5 607 main/binary-arm64/Packages.gz
+ a2311e64c1837e4ee43b39606a9cf743 1453 main/binary-arm64/Packages
+ bf81a93e7e86e362e880b3d466d08140 603 main/binary-arm64/Packages.gz
  8fbf6403a28a5c2e107a334d8390124b 156 main/binary-arm64/Release
 SHA1:
  540b06ffcecc03886e6ba90ccbfeed5a52b4445f 1453 main/binary-amd64/Packages
@@ -33,8 +33,8 @@ SHA1:
  bda299cdd76b348165f0ddfc38a061c9eb42781a 1453 main/binary-armhf/Packages
  7a2feac2c4801c3ddb6be681f81d2294dcf84d41 600 main/binary-armhf/Packages.gz
  29c4a1ed50c173d8d79c8f9a919425834eb2de5d 156 main/binary-armhf/Release
- ac5b8124f819917b2887efc3644da7d0c6197969 1453 main/binary-arm64/Packages
- 58c3099ab578daba9eac1e3e883e01c9acb85c29 607 main/binary-arm64/Packages.gz
+ 95df6787c11488c98384f3296795b79d4346a484 1453 main/binary-arm64/Packages
+ 4afe73c76bba5f7e78d3ed214e2cec46cf5b1ae9 603 main/binary-arm64/Packages.gz
  0e18964c5d5890291eac724ea5352fb47b6a5faf 156 main/binary-arm64/Release
 SHA256:
  93a0568d2cde25b99e13ea7379fc12a10589a376249de46f30baefccb1be653d 1453 main/binary-amd64/Packages
@@ -46,13 +46,13 @@ SHA256:
  f91590f19525c5d357f6df1f228ae2a5cf94c82cd43bd5b03db92fb5d824846c 1453 main/binary-armhf/Packages
  ced4abb96bf1fc6269225fe7b56ef2d1c3c1f5c04988020af4daf8929e3a0b68 600 main/binary-armhf/Packages.gz
  8869b2b5f81be458337f42d79a3a1a2ebbf3b54a921ad6136bacafa08973305c 156 main/binary-armhf/Release
- 2cc4d6bc8315d104289617ccb0d9269ace2999455dcb4d482c6fe436fbd905da 1453 main/binary-arm64/Packages
- 4cc8328d205acbb49d6db653bc94b1cc713ceefec33491e7e139af65fc335077 607 main/binary-arm64/Packages.gz
+ 10e06251652f208b53d0c4e6ceb51ba0d3f3ef20e643d945fe5fc06bcb29279e 1453 main/binary-arm64/Packages
+ e98c94916806c6770ba08302d66913425b2460544de4b4dac19097d7758cba29 603 main/binary-arm64/Packages.gz
  7777ac78e2a6ab5e78fdf72438c248ace9aff95a26f21bea6b658cad00a1f24b 156 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaec1zgAKCRB93sGH+iUo
-lU/bAQCcLkgyd1LBsg4UGY1cBKTbcsfKaWzW89M/t5PsEZww7gD/VifRTNGPkDw9
-YbPZyYK8zf4/oRtydiLOYXekymUzuwY=
-=oBFm
+iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaec10wAKCRB93sGH+iUo
+lQ7lAP9re+2zUEVt+w6X+RUwI4NZrOKwrcNqtAuV+Vk6bW+GegD+On2zx3slG7ru
+Q5gXpn01ftfi240xPFgxzgi9tF2KNgg=
+=FNws
 -----END PGP SIGNATURE-----
