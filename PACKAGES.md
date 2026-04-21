@@ -278,7 +278,7 @@
 |resolute|main|amd64|nebulado-client|1.9.0|
 |resolute|main|amd64|nebulado-common|1.9.0|
 |resolute|main|amd64|nebulado-server|1.9.0|
-|resolute|main|armhf|nebulado-client|1.8.2|
+|resolute|main|armhf|nebulado-client|1.9.0|
 |resolute|main|armhf|nebulado-common|1.9.0|
 |resolute|main|armhf|nebulado-server|1.8.2|
 |resolute|main|arm64|nebulado-client|1.8.2|
