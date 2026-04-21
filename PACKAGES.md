@@ -336,7 +336,7 @@
 |trixie|main|amd64|heroscribe-enhanced-skull|1.12|
 |trixie|main|amd64|mp3spmerge|1.1.0|
 |trixie|main|amd64|nebulado-client|1.8.2|
-|trixie|main|amd64|nebulado-common|1.8.2|
+|trixie|main|amd64|nebulado-common|1.9.0|
 |trixie|main|amd64|nebulado-server|1.8.2|
 |trixie|main|amd64|noimdb|1.2.1|
 |trixie|main|amd64|notify-mail|1.2.2|
