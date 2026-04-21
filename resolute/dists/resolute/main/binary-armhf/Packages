@@ -1,16 +1,16 @@
 Package: nebulado-client
-Version: 1.9.2
+Version: 1.9.3
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.9.2_armhf.deb
+Filename: pool/main/n/nebulado-client/nebulado-client_1.9.3_armhf.deb
 Size: 1444
-SHA256: 89cd57c6097096ce2ab33cc12c8cc2ca204ede9917c0718ebe58f34a968cb174
-SHA1: 57576ce83a368c8b868b9f6a5435519752c03635
-MD5sum: 00718468dd699ca3daea73c25657d3d5
+SHA256: ff20cbb0e7cced33aa7bcdef807987fcbf6e21f7a42f69d1c2abd394e23c1bb2
+SHA1: 1f535822e5342fadd61096753f18e0707f653ae6
+MD5sum: 3c30be60cc3fd9dd32131d513132f9b2
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
