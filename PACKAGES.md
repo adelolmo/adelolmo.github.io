@@ -272,7 +272,7 @@
 |noble|main|armhf|raton|1.0.5|
 |noble|main|arm64|hd-idle|1.21|
 |noble|main|arm64|nebulado-client|1.8.2|
-|noble|main|arm64|nebulado-common|1.8.2|
+|noble|main|arm64|nebulado-common|1.9.0|
 |noble|main|arm64|nebulado-server|1.8.2|
 |noble|main|arm64|raton|1.0.5|
 |resolute|main|amd64|nebulado-client|1.9.0|
