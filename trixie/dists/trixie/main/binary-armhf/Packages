@@ -73,49 +73,34 @@ MD5sum: 3a01e84dd02127990f335aef09d8722b
 Description: Merge Spotify mp3 chucks into a single mp3 file
 
 Package: nebulado-client
-Version: 1.9.5
+Version: 1.9.6
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.9.5_armhf.deb
+Filename: pool/main/n/nebulado-client/nebulado-client_1.9.6_armhf.deb
 Size: 1444
-SHA256: e1c1dcd2d7ca1188232d027cedef30496c8ac77843b55982a5a3b19b9d0b05e6
-SHA1: 5bbe2e10a0fe0456bfc3a8d7732f6a0464aab3fa
-MD5sum: 2addd05dc1d27b3384ceb3c6e2b6e987
+SHA256: d6aec0dd1243997ee2de6323614085e19c1feecbd91e4e468e48eb050f5ef518
+SHA1: 3447cf471e0d9f5efeccb4321b062c35628c74ca
+MD5sum: 6b84bfb43642f006dc3a074f13e8dc96
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
-Version: 1.9.5
+Version: 1.9.6
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebula
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-common/nebulado-common_1.9.5_armhf.deb
-Size: 5901116
-SHA256: a3d8ac118360bf12dd2acb7f7b6808132c600ed570d5d1f8f3d86705841f21e7
-SHA1: c1f51c3b828e3b9b79389753024a1b67fd9e72f1
-MD5sum: e53fc484b9a3043912be782df6cd652e
+Filename: pool/main/n/nebulado-common/nebulado-common_1.9.6_armhf.deb
+Size: 5903268
+SHA256: e79997103d687224e147004e2cfc5e71ae54f7efc2fc4187841194d254241db5
+SHA1: b5e6d08e64a3051c91ac4e2e9483d0256207973e
+MD5sum: 069d18d9ca42b6a8262ddcaac4cf73db
 Description: Nebula VPN orchestrator (common files)
-
-Package: nebulado-server
-Version: 1.9.5
-Architecture: armhf
-Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 0
-Depends: nebulado-common
-Priority: standard
-Section: extras
-Filename: pool/main/n/nebulado-server/nebulado-server_1.9.5_armhf.deb
-Size: 1508
-SHA256: 5e657890c3ceba07300639c1e8480d09be08a2bd4f54e2d13e9bfd71ae412526
-SHA1: 133b1893d58a156b9e5f5b73039d5341637d3d3a
-MD5sum: f99080dca29928b4e5bbe57753de50e7
-Description: Nebula VPN orchestrator (server)
 
 Package: noimdb
 Version: 1.1.0
