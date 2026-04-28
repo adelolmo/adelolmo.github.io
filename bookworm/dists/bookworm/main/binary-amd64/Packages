@@ -176,48 +176,48 @@ MD5sum: 4177247ad3b7f163302971e42c361497
 Description: Merge Spotify audio books mp3 chunks into a single mp3 file
 
 Package: nebulado-client
-Version: 1.9.5
+Version: 1.9.6
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.9.5_amd64.deb
-Size: 1448
-SHA256: a38e1d74960a25ff95c8d7d57a33169f2cb4b1aa63189b75b1f15746e4c26785
-SHA1: 86eaca8ca268f5ed285418e928ec022a17c5c7db
-MD5sum: 33e7af9656305eacd57c884ddfe504ee
+Filename: pool/main/n/nebulado-client/nebulado-client_1.9.6_amd64.deb
+Size: 1444
+SHA256: ed87ce33db3768f41718c2be35f96d77db75de1ea0ae053b2e144ca5a51732fe
+SHA1: 0464726bc361ad3d7f6ad89f99546b9942cabb37
+MD5sum: e0b8800e219b86fce2ef0f928d0827f2
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
-Version: 1.9.5
+Version: 1.10.0
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebula
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-common/nebulado-common_1.9.5_amd64.deb
-Size: 6500900
-SHA256: 3da15912fbd05a6f4d644b159f65d11fa1f66c6e4edf2313a97f9dda104d88ae
-SHA1: fb6a326c65754a866a76146dba29e7e4824aef5e
-MD5sum: c7f00654f519db2f89147c9ce89d1404
+Filename: pool/main/n/nebulado-common/nebulado-common_1.10.0_amd64.deb
+Size: 6597020
+SHA256: 404f7e527d14b369a3ba7c44253b99e9f1b4d704c13a4bf702dc5d3a9a407d03
+SHA1: a9ff92a84a987aa7f54e813eaf4e43cfda6412e0
+MD5sum: 802e6aac8285538dcff6782d75a93b3f
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-server
-Version: 1.9.5
+Version: 1.9.6
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-server/nebulado-server_1.9.5_amd64.deb
-Size: 1512
-SHA256: 6db89bfb5730c1932d8bd4c943b5001c2041b60ad7026a49dcef2e711ce7c482
-SHA1: 8829f9f6c3beada114f77703a12565e9596b6a8b
-MD5sum: b8474fb527a67fe3d1e12c56085e0082
+Filename: pool/main/n/nebulado-server/nebulado-server_1.9.6_amd64.deb
+Size: 1508
+SHA256: 95335afa3862a120afdd14c13bfe515bf2f8b55d012413c2dab9f21f4ab9eceb
+SHA1: ff49fa1f06bf1f0bb7716c962d70bd9d05d6ea75
+MD5sum: 51450b0db0e6aaaaa570a4edefaaa1dd
 Description: Nebula VPN orchestrator (server)
 
 Package: noimdb
