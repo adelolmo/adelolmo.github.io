@@ -6,13 +6,13 @@ Label: adelolmo
 Suite: stable
 Codename: resolute
 Version: 26.04
-Date: Wed, 29 Apr 2026 19:13:05 UTC
+Date: Wed, 29 Apr 2026 19:13:08 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo ubuntu resolute repository
 MD5Sum:
- 94663f61fedda6af2471f84845c62415 1477 main/binary-amd64/Packages
- dcaa0b5e207c8e0a04c021f98c8ffbcd 623 main/binary-amd64/Packages.gz
+ 0b0eff2b8aa0c6c81dfd20b09310ce26 1477 main/binary-amd64/Packages
+ e673c1817ce84a6b781f844c4b209600 616 main/binary-amd64/Packages.gz
  1d78667a83d98b8b6989104a362b6105 156 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
@@ -24,8 +24,8 @@ MD5Sum:
  f94b8b1fce729af653d88d793fe74e8e 618 main/binary-arm64/Packages.gz
  8fbf6403a28a5c2e107a334d8390124b 156 main/binary-arm64/Release
 SHA1:
- 1daf1236abbb6fdaf718c125562634872eb7e535 1477 main/binary-amd64/Packages
- d03c447eadf7ad697453d17e8f5fc1c1151bfc08 623 main/binary-amd64/Packages.gz
+ e734424172ca72c74c8c28d60bc0fcd1626f706c 1477 main/binary-amd64/Packages
+ 4d061c736fa36bd510c21a6483eeff36e0608955 616 main/binary-amd64/Packages.gz
  bd5c07f627bfdbf023b8f84f1a6494fe29e68812 156 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
@@ -37,8 +37,8 @@ SHA1:
  ebc9aaaae0b0438b8359ea68aeb9990523936389 618 main/binary-arm64/Packages.gz
  0e18964c5d5890291eac724ea5352fb47b6a5faf 156 main/binary-arm64/Release
 SHA256:
- c3fc96e7d3795859d37b691fce779339d832df3fee89f97f5b0c8421047726e8 1477 main/binary-amd64/Packages
- 7247863a76c577d417c8068002e8c7967331048d392fd51c5d0f8716f776b1ff 623 main/binary-amd64/Packages.gz
+ 28b67b1b894aff9eead5b8cdf3002a3ebed4bbea0f4df8facb1dcb87a104c9dd 1477 main/binary-amd64/Packages
+ 12d5fdb53969e38eb096f10ad04b422d8b465bddd0d29063c3cf2a042ead07fd 616 main/binary-amd64/Packages.gz
  d77deb1655b5762c60984ad7932bbf5ee384d897fbf8471cfac830d016b8ad49 156 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
@@ -51,8 +51,8 @@ SHA256:
  7777ac78e2a6ab5e78fdf72438c248ace9aff95a26f21bea6b658cad00a1f24b 156 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCafJYQQAKCRB93sGH+iUo
-leR/AQCCaSO7jszz72MGF6CzcR7LFrs1uI9NeFgywalbYZnsHgEA0XhaTJwSlecO
-7x72w1hP5IJmq6Zad0mxPlkOAHLxNw4=
-=a4au
+iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCafJYRAAKCRB93sGH+iUo
+lfs1AP41Z7LjMfgOyKkZv/EaD7GDw1FfHu3HdKR3KTRD4cHQmAD/bs1RC5qdVP1U
+1QjNANuR4q2goTck8nk4kNcKHm7SXg4=
+=IwWc
 -----END PGP SIGNATURE-----
