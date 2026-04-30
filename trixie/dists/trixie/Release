@@ -3,13 +3,13 @@ Label: adelolmo
 Suite: stable
 Codename: trixie
 Version: 13.0
-Date: Thu, 30 Apr 2026 06:53:18 UTC
+Date: Thu, 30 Apr 2026 06:53:21 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo debian trixie repository
 MD5Sum:
- 1ad80a4d30b876b6798e76bf2745247a 8397 main/binary-amd64/Packages
- 69c9a4fc572b63f7a92d8e6bb33ed67b 3249 main/binary-amd64/Packages.gz
+ cb0173e323958a4fdf2700967cc682a4 8397 main/binary-amd64/Packages
+ 858f68e9b7a6873bd65cbdc3fac39fd2 3241 main/binary-amd64/Packages.gz
  6f22fe6cfcbe148b7d05ee5760010df1 153 main/binary-amd64/Release
  608f588ec481c875a2266917579f80e2 2790 main/binary-i386/Packages
  fed9c814c672dc48026ce5105c3cb352 1313 main/binary-i386/Packages.gz
@@ -21,8 +21,8 @@ MD5Sum:
  85b6cec1eb8a319ce7cfb4a98ce8117c 2626 main/binary-arm64/Packages.gz
  c927c5d615cd8e36f087756dd354d544 153 main/binary-arm64/Release
 SHA1:
- 43130ee351bb9e7fe8a60d96d3ca46962fdd090e 8397 main/binary-amd64/Packages
- c7f3d6b3303cc66248398d20202b18609dad994c 3249 main/binary-amd64/Packages.gz
+ 23a888687dc789c405830be03be4880d9ede66fa 8397 main/binary-amd64/Packages
+ 938b2a5cd507d09ed5a61e6310e5b5d2391a58e8 3241 main/binary-amd64/Packages.gz
  1f2cb2759505f0da39b4e87f561242c3fb9e6869 153 main/binary-amd64/Release
  391db6a8fcbd69a3bbb6d95990571a4aac022b67 2790 main/binary-i386/Packages
  c7a8f00d87891a6ccced620f9592ad6bcb7bdb7a 1313 main/binary-i386/Packages.gz
@@ -34,8 +34,8 @@ SHA1:
  d4f4142ae71ac7039321bb118953da4a7b92527c 2626 main/binary-arm64/Packages.gz
  5a8a83eb81a06060395e6a7027b9e19b7d83d4a4 153 main/binary-arm64/Release
 SHA256:
- 78f96fa90bce9ce4c1e6c8a5a790742ce38a02b416ee8ba65c1973474df19666 8397 main/binary-amd64/Packages
- d1445771a3a931329199ca2541207015ad84abdeb0ee9e35f34de3284699c673 3249 main/binary-amd64/Packages.gz
+ eb567dabd6ce31f47dfc09b2eb019d401cbd3d1a835ef355f2b39a6df4c0ebfc 8397 main/binary-amd64/Packages
+ 195676f988a33e9af5097a2697ce06c46890bc9433676da69b518284e7af2ab8 3241 main/binary-amd64/Packages.gz
  d4925c9e3aa1df9742b95a81150e27f406e762b02c8ea0736e798fb33eea2439 153 main/binary-amd64/Release
  fa4a0af9e4478fcb51826570cfa3c4527c980d1be17eeb278f5d622c14419b52 2790 main/binary-i386/Packages
  81eb033a7f51d7aa1aee11648e4dcd9599274713b8f057c4330fdda07e76ec81 1313 main/binary-i386/Packages.gz
