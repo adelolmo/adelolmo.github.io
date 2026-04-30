@@ -44,7 +44,7 @@ Description: Easily produce typographic quality HeroQuest© maps
  recommended); maps can also be exported in PNG and PDF formats.
 
 Package: nebulado-client
-Version: 1.12.4
+Version: 1.12.5
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
@@ -52,11 +52,11 @@ Depends: nebulado-common
 Recommends: resolvconf
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.12.4_amd64.deb
+Filename: pool/main/n/nebulado-client/nebulado-client_1.12.5_amd64.deb
 Size: 1460
-SHA256: 6eb681e87f9b881da7f2170c978c12ce9b8dc3a607018f4fec356755fea18dd2
-SHA1: b06ddf9b53bb0b752247786cce552001698b39b3
-MD5sum: 8918afd66191e509978b8d94bd736dea
+SHA256: 3ba118e0b1155bf6e6115ade199670357408cf999300acac0591d184d7f42055
+SHA1: 3d545332d7ac3df9638ba6a86ad8895231f52455
+MD5sum: 7b66e188338df2d9756b4d10aed01bd6
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
