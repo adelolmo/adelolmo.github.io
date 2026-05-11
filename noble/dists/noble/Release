@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: noble
 Version: 24.04
-Date: Mon, 11 May 2026 18:59:57 UTC
+Date: Mon, 11 May 2026 19:00:00 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo ubuntu noble repository
@@ -14,8 +14,8 @@ MD5Sum:
  7d14c43c36256733b799b7e4b1d611ec 945 main/binary-i386/Packages
  bef823ac7983e6237cfaf35c24690166 549 main/binary-i386/Packages.gz
  d0efa61cfa8cbd2583f8e135335249d7 152 main/binary-i386/Release
- f04decb893c12bba8343eb23f1c04089 3063 main/binary-armhf/Packages
- 62ad1d6f8371683bcb6d043d0f53d4fa 1328 main/binary-armhf/Packages.gz
+ d61c31038c8f079fa786f5d7b268c488 3063 main/binary-armhf/Packages
+ 5d74509ba5aef490b9efe08e1b318e2a 1323 main/binary-armhf/Packages.gz
  773896a3b6add456e9754b1fbdcc70a3 153 main/binary-armhf/Release
  09155697415540c2080b110408fe6305 3063 main/binary-arm64/Packages
  0957f88a8a59de8bad489c5df11a4f6f 1323 main/binary-arm64/Packages.gz
@@ -27,8 +27,8 @@ SHA1:
  dbe5311c1e45f48ebe87fdefa612f83cf617ad96 945 main/binary-i386/Packages
  2a1b5e43f83e967cc412f365f8232ccc13e5942b 549 main/binary-i386/Packages.gz
  0b245b6b7514411fc172728431806c2a5b4b46de 152 main/binary-i386/Release
- b9ec10ce4c9a46776f5fc2dec7e348458c1daf45 3063 main/binary-armhf/Packages
- 809b52c9016f01e5db95ed52362e850e194b9ceb 1328 main/binary-armhf/Packages.gz
+ 558e5222836cb936186a0ef3f4049f43aed1d9b8 3063 main/binary-armhf/Packages
+ ddf1fbd6c2031ac2b1c8ff487af7a053c7d25044 1323 main/binary-armhf/Packages.gz
  d90f98958d47d8fd51d792e779916bc77a76d6d8 153 main/binary-armhf/Release
  5f4c1c15e8b0d4af3353e5e8575d8b834b404298 3063 main/binary-arm64/Packages
  172fb61cca5af6c45f769f9dfe2e8ba6732d7971 1323 main/binary-arm64/Packages.gz
@@ -40,8 +40,8 @@ SHA256:
  c09e3bf5127f8d4b811dfa6b666f242c8bc52b28fe4785c4538b83d4da0737c5 945 main/binary-i386/Packages
  e2ba7b51758d792c9811bf3f18a20458bbf3fbb540bee696d6a5d9f16a339a2f 549 main/binary-i386/Packages.gz
  b9c53520aad7bb664ed577ecb9e228eb7a18f99dfa0222e326622dba9537651d 152 main/binary-i386/Release
- 0de7f500d4227010cd2b2d344f36c51ddfd7f0675bec4cf52795ffee608848b3 3063 main/binary-armhf/Packages
- 5d7952da8b7b05abe7be3450777eee2d821714d0f32094952b4d1aabe52b8566 1328 main/binary-armhf/Packages.gz
+ 590e7ab1a226ab7c34792d77337f53225d58c53be2ee81daebc3f8167dcd0274 3063 main/binary-armhf/Packages
+ eb65a33da76297bd91ad94a37d14fb3e24c585c892776d923257388c112c6163 1323 main/binary-armhf/Packages.gz
  7ed6265a7813c82568e96da49af8e2058d573c8ae357b6ac2d6dc69626ecc5ba 153 main/binary-armhf/Release
  71abbd4d90827d97a789e7d1f2dce101dca4acd32132c5e4cc1dc3b1b65bf440 3063 main/binary-arm64/Packages
  42a6ca61a424b73e6e87626d56d46455543ca629c61a6cd9375c27dac7d6ec96 1323 main/binary-arm64/Packages.gz
