@@ -6,7 +6,7 @@ Label: adelolmo
 Suite: stable
 Codename: jammy
 Version: 22.04
-Date: Tue, 12 May 2026 07:04:23 UTC
+Date: Tue, 12 May 2026 07:04:25 UTC
 Architectures: amd64 i386 arm64 armhf
 Components: main
 Description: adelolmo ubuntu jammy repository
@@ -20,8 +20,8 @@ MD5Sum:
  fef7d4f412349315f40342f9e6095144 3881 main/binary-arm64/Packages
  d26f3c0ad239e52fff89a10227dde97f 1677 main/binary-arm64/Packages.gz
  74b50f1a6b84d37193deb988938908ec 153 main/binary-arm64/Release
- 9420cfd8a847e8051f6963b9237eaeb8 3881 main/binary-armhf/Packages
- 36d80b0f3930e1f11cf0788305b1ec91 1680 main/binary-armhf/Packages.gz
+ ea901e6d180cd2b7eecb6bad95e229ed 3883 main/binary-armhf/Packages
+ 239fe18ab91c3601a8beb542e2177c84 1685 main/binary-armhf/Packages.gz
  75c004dfb99fe3d61cfb92125d752b04 153 main/binary-armhf/Release
 SHA1:
  b6e15e9d2003e09513facdfc6b4bca54aa19ce50 4370 main/binary-amd64/Packages
@@ -33,8 +33,8 @@ SHA1:
  9567ec8f9cb9adce536f691743838d64274595c3 3881 main/binary-arm64/Packages
  a76ff57d110dbf45c5d8a7c8a050ce0f5bb81aa2 1677 main/binary-arm64/Packages.gz
  ee2398c7b5fc91894fc31d7cfd1264ac777c5870 153 main/binary-arm64/Release
- 8557ebe97ba1e3eb1cb2fdc835c15a60d577ede2 3881 main/binary-armhf/Packages
- 7b740f9e1529f757d85f71bd2228d519680a8d32 1680 main/binary-armhf/Packages.gz
+ 72adcfb316bbd3a77368269b6185c853ea6bba73 3883 main/binary-armhf/Packages
+ ed9a9563d46eceaf6104e69df27d314975218a75 1685 main/binary-armhf/Packages.gz
  9d44a1d04ed9f8cd142dd0d309044b00bf3532df 153 main/binary-armhf/Release
 SHA256:
  c2a45e62220b1f49e5a8ec41b3ff2ff3d02973cc9281936bfc199a54510d4391 4370 main/binary-amd64/Packages
@@ -46,13 +46,13 @@ SHA256:
  a07add0b7bdc532d7ea6eb1ea01fb74e08c3ef2528485a1b284c8c9da4a7a53e 3881 main/binary-arm64/Packages
  17d337c72f221a815827b8fe37cd6518392737a4e79b6cf6598f0b8020cf7cb5 1677 main/binary-arm64/Packages.gz
  f3385c508436fae9745aca0e8d1a1b23b1f2abbe7c79de9f6af2b134deba2057 153 main/binary-arm64/Release
- 9b21e953cab0434768a927b1ae28c1d97799f6223d118e9a354527ffa07c81b1 3881 main/binary-armhf/Packages
- 34af751317d3f7d35c76929d0faf8054032a65b9555222627fde46b77441bcff 1680 main/binary-armhf/Packages.gz
+ 5ed563baa565d76f79da1522e44cbfa8958d56da2b4d686d297f5743444732f2 3883 main/binary-armhf/Packages
+ 44be3b207e8f25d666d0624929efc80417e315fe18452f4b1085a87c1175a490 1685 main/binary-armhf/Packages.gz
  daa2a6bef0df6e6c41ada598d9e80bd3b998f5ba14e8d4c9b299d4ad83a20967 153 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCagLQ9wAKCRB93sGH+iUo
-lXUxAQDaRwENy4qbKtggGmUtoqGylCVqpl0jroVB+7CAFfUYLAD9H79RVbvPnL55
-YbgZdL9NivIoY+cAeUz6hcmBvoXc1Q8=
-=bI6O
+iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCagLQ+gAKCRB93sGH+iUo
+lSkdAQDPY5EJpjcv1D23of1IgFc5exRSBPPnXiYNG3+qupuUTQD8DxJLnmbjjSba
+NGvk4wvZur1f6wiCJz2P3QYhF4mG3gE=
+=Arjo
 -----END PGP SIGNATURE-----
