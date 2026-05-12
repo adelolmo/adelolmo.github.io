@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: resolute
 Version: 26.04
-Date: Tue, 12 May 2026 16:55:25 UTC
+Date: Tue, 12 May 2026 16:55:31 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo ubuntu resolute repository
@@ -14,8 +14,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
  67d362d214952f55e526c3f37b6c2bb8 155 main/binary-i386/Release
- ec9a6c3858f8e249b58f829198126c5b 1465 main/binary-armhf/Packages
- 6e1932094e44be6f94298b0d910b7d52 607 main/binary-armhf/Packages.gz
+ 79a297b9aa8a5f3a4213bd96f23bbbce 1465 main/binary-armhf/Packages
+ 5fb57abaff61aa412aa56cde67f63ecb 607 main/binary-armhf/Packages.gz
  a8a653eefcf4208b338924f4b7fac4c4 156 main/binary-armhf/Release
  8e44a63d531ff40deb79d2b695bbbb50 1465 main/binary-arm64/Packages
  7f31cc955f3cdacebff02be9c5fc1e40 598 main/binary-arm64/Packages.gz
@@ -27,8 +27,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
  2103a84a3013fa9d14b983d76681ff2f662d0fe5 155 main/binary-i386/Release
- ccf8dfc1306c8194a260341493f2a86a97688cf4 1465 main/binary-armhf/Packages
- 159fa47d680d8e2815c6a4c274b083fc07499d2f 607 main/binary-armhf/Packages.gz
+ c25e8e40b24ef94a25e6fc4fc504ed2482a93557 1465 main/binary-armhf/Packages
+ 30387be23666d25157904a79771383cf7666a9db 607 main/binary-armhf/Packages.gz
  29c4a1ed50c173d8d79c8f9a919425834eb2de5d 156 main/binary-armhf/Release
  5b6de95d96d5306a2d29124ebeeb757da91335c1 1465 main/binary-arm64/Packages
  e3432ab647c08b7e10108aea7de269e62bf3c446 598 main/binary-arm64/Packages.gz
@@ -40,8 +40,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
  06b8e564bae222e163c7a929b3a5cf172dd8632b2e071488895f162fff4f54de 155 main/binary-i386/Release
- 2a2e5e070ef62633429e46e743f62571671e31b829dc2159b91c5772f982c442 1465 main/binary-armhf/Packages
- 83843ef19fb4defb228b943b17e373ddd4cc83b151cadbe36edb2245d715b7ac 607 main/binary-armhf/Packages.gz
+ 1db9e534256ef89f1552dc4a2828f523669cc2d6d8fcade619eda96545e7bd85 1465 main/binary-armhf/Packages
+ 368a1d4f8ae101703eb5aa01967bec147e61b1953c8acd274a9f610c40e41adc 607 main/binary-armhf/Packages.gz
  8869b2b5f81be458337f42d79a3a1a2ebbf3b54a921ad6136bacafa08973305c 156 main/binary-armhf/Release
  43f1eaa5391f6898162b2c4b92e35db21d72959afdbaeae8e54dcfe91e3bb8bb 1465 main/binary-arm64/Packages
  1352ff16db7470b7e9f8a8e3e64319ff5a5ace100e5600f62d68521cb68908d0 598 main/binary-arm64/Packages.gz
