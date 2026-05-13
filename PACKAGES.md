@@ -58,7 +58,7 @@
 |bookworm|main|armhf|mp3spmerge|1.0.1|
 |bookworm|main|armhf|nebulado-client|1.14.24|
 |bookworm|main|armhf|nebulado-common|1.14.24|
-|bookworm|main|armhf|nebulado-server|1.14.23|
+|bookworm|main|armhf|nebulado-server|1.14.24|
 |bookworm|main|armhf|noimdb|1.1.0|
 |bookworm|main|armhf|raton|1.0.1|
 |bookworm|main|armhf|snapraid-runner|2.0.5|
