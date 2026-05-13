@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: noble
 Version: 24.04
-Date: Wed, 13 May 2026 18:19:22 UTC
+Date: Wed, 13 May 2026 18:19:24 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo ubuntu noble repository
@@ -17,8 +17,8 @@ MD5Sum:
  3d71db19584821401dfda93b8c369ea8 3069 main/binary-armhf/Packages
  5f3733f16b2ad0357d72084d153a3fd3 1326 main/binary-armhf/Packages.gz
  773896a3b6add456e9754b1fbdcc70a3 153 main/binary-armhf/Release
- 117b4ecd53a233e2319c3ae0c9136106 3069 main/binary-arm64/Packages
- 41447b52996cb831c99a25d70e222b38 1325 main/binary-arm64/Packages.gz
+ 3d7b33b1d76fae25745bc742e237c866 3069 main/binary-arm64/Packages
+ 40786208b62898b97ee6c6827866443d 1329 main/binary-arm64/Packages.gz
  0fc4c45cca8281ef06403d7d50034e70 153 main/binary-arm64/Release
 SHA1:
  5e6e3e2cbc2382cba51d48fb027ad7563633aa23 3552 main/binary-amd64/Packages
@@ -30,8 +30,8 @@ SHA1:
  4eeb6837ee2ad3a46394ff2381ae856683f5a898 3069 main/binary-armhf/Packages
  0aa13517e1f7137f18c4461b888c53b6abaf30cb 1326 main/binary-armhf/Packages.gz
  d90f98958d47d8fd51d792e779916bc77a76d6d8 153 main/binary-armhf/Release
- 4b8b87db0af7ec816bf388c2ad6150cbeee33b4a 3069 main/binary-arm64/Packages
- 840c3ca8152f6ffc2fb647ac9c21fc955568eead 1325 main/binary-arm64/Packages.gz
+ 6b1735481c1f54b8a987f91d463a0bf3dd291828 3069 main/binary-arm64/Packages
+ 44c096ba7a4175a4115af0e0cb404ff0657ad89e 1329 main/binary-arm64/Packages.gz
  4ac8f34cec062353f6e6f6aa21bd2873b06dca1d 153 main/binary-arm64/Release
 SHA256:
  421df3dc5f83390e42e188ab52e63f4c7db92ddf4fd673637e0567b01c194e50 3552 main/binary-amd64/Packages
@@ -43,6 +43,6 @@ SHA256:
  f537a7e5bddb8d66f6f05d47de0be808a15afe9cc3443c6f872b9afaa6ded3f3 3069 main/binary-armhf/Packages
  09fc33fda729d3fc5bde63a24deb63f649f939863b4b8fb0fd576e28ec73b254 1326 main/binary-armhf/Packages.gz
  7ed6265a7813c82568e96da49af8e2058d573c8ae357b6ac2d6dc69626ecc5ba 153 main/binary-armhf/Release
- a38d8999701478c79f912631cbce09dc2604d4565ec0e0134432f842a3e46aba 3069 main/binary-arm64/Packages
- c432fc1cd393d67f754cf0a11180f340aab43a3cd33ac1619a52a9aeff967ff3 1325 main/binary-arm64/Packages.gz
+ be7c87049e9201c213b411c74c5ae5e20838e78312c46ae9731492cea5ae77ac 3069 main/binary-arm64/Packages
+ 46f75d335f2764462371c2c740ca140c70a14aec56086c7a341d57370d133083 1329 main/binary-arm64/Packages.gz
  e858213930de9662c3d34b6e737b92ef6ef84ff3c23aee89ee95e124e191f3ea 153 main/binary-arm64/Release
