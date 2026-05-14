@@ -283,7 +283,7 @@
 |resolute|main|armhf|nebulado-server|1.14.32|
 |resolute|main|arm64|nebulado-client|1.14.32|
 |resolute|main|arm64|nebulado-common|1.14.32|
-|resolute|main|arm64|nebulado-server|1.14.31|
+|resolute|main|arm64|nebulado-server|1.14.32|
 |stretch|main|amd64|adguardhome|0.107.62|
 |stretch|main|amd64|delugecli|1.6.1|
 |stretch|main|amd64|eliterss|2.29.0|
