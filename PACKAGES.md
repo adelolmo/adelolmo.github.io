@@ -363,7 +363,7 @@
 |trixie|main|arm64|hd-idle|1.21|
 |trixie|main|arm64|heroscribe-enhanced-skull|1.12|
 |trixie|main|arm64|mp3spmerge|1.0.1|
-|trixie|main|arm64|nebulado-client|1.14.32|
+|trixie|main|arm64|nebulado-client|1.14.33|
 |trixie|main|arm64|nebulado-common|1.14.33|
 |trixie|main|arm64|nebulado-server|1.14.32|
 |trixie|main|arm64|noimdb|1.1.0|
