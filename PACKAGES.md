@@ -280,7 +280,7 @@
 |noble|main|armhf|raton|1.0.5|
 |noble|main|arm64|hd-idle|1.21|
 |noble|main|arm64|nebulado-client|1.15.2|
-|noble|main|arm64|nebulado-common|1.15.2|
+|noble|main|arm64|nebulado-common|1.15.3|
 |noble|main|arm64|nebulado-gnome|1.15.2|
 |noble|main|arm64|nebulado-server|1.15.2|
 |noble|main|arm64|raton|1.0.5|
