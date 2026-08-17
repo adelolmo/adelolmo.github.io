@@ -75,7 +75,7 @@
 |bookworm|main|arm64|nebulado-client|1.15.3|
 |bookworm|main|arm64|nebulado-common|1.15.3|
 |bookworm|main|arm64|nebulado-gnome|1.15.2|
-|bookworm|main|arm64|nebulado-server|1.15.2|
+|bookworm|main|arm64|nebulado-server|1.15.3|
 |bookworm|main|arm64|noimdb|1.1.0|
 |bookworm|main|arm64|raton|1.0.1|
 |bookworm|main|arm64|snapraid-runner|2.0.5|
