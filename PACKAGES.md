@@ -287,7 +287,7 @@
 |resolute|main|amd64|nebulado-client|1.15.2|
 |resolute|main|amd64|nebulado-common|1.15.2|
 |resolute|main|amd64|nebulado-gnome|1.15.1|
-|resolute|main|amd64|nebulado-server|1.15.1|
+|resolute|main|amd64|nebulado-server|1.15.2|
 |resolute|main|armhf|nebulado-client|1.15.1|
 |resolute|main|armhf|nebulado-common|1.15.1|
 |resolute|main|armhf|nebulado-gnome|1.15.1|
