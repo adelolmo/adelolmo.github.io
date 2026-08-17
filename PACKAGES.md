@@ -356,7 +356,7 @@
 |trixie|main|armhf|mp3spmerge|1.0.1|
 |trixie|main|armhf|nebulado-client|1.15.0|
 |trixie|main|armhf|nebulado-common|1.15.0|
-|trixie|main|armhf|nebulado-server|1.14.32|
+|trixie|main|armhf|nebulado-server|1.15.0|
 |trixie|main|armhf|noimdb|1.1.0|
 |trixie|main|armhf|snapraid-runner|2.0.5|
 |trixie|main|armhf|sonoshttpapi|1.6.9~ado1|
