@@ -367,7 +367,7 @@
 |trixie|main|arm64|mp3spmerge|1.0.1|
 |trixie|main|arm64|nebulado-client|1.15.0|
 |trixie|main|arm64|nebulado-common|1.15.0|
-|trixie|main|arm64|nebulado-server|1.14.33|
+|trixie|main|arm64|nebulado-server|1.15.0|
 |trixie|main|arm64|noimdb|1.1.0|
 |trixie|main|arm64|snapraid-runner|2.0.5|
 |trixie|main|arm64|sonoshttpapi|1.6.9~ado1|
