@@ -293,7 +293,7 @@
 |resolute|main|armhf|nebulado-gnome|1.15.11|
 |resolute|main|armhf|nebulado-server|1.15.11|
 |resolute|main|arm64|nebulado-client|1.15.7|
-|resolute|main|arm64|nebulado-common|1.15.7|
+|resolute|main|arm64|nebulado-common|1.15.11|
 |resolute|main|arm64|nebulado-gnome|1.15.7|
 |resolute|main|arm64|nebulado-server|1.15.7|
 |stretch|main|amd64|adguardhome|0.107.62|
