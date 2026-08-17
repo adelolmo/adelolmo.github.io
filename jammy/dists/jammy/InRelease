@@ -6,13 +6,13 @@ Label: adelolmo
 Suite: stable
 Codename: jammy
 Version: 22.04
-Date: Mon, 17 Aug 2026 14:12:47 UTC
+Date: Mon, 17 Aug 2026 14:12:50 UTC
 Architectures: amd64 i386 arm64 armhf
 Components: main
 Description: adelolmo ubuntu jammy repository
 MD5Sum:
- 1247f7d2d622ff1202854059ec97ba52 5081 main/binary-amd64/Packages
- 42741ac37070d173fbc8f6230ddb5018 2096 main/binary-amd64/Packages.gz
+ 00e670e42fe344a1c9e9cbb91f6ac7ac 5081 main/binary-amd64/Packages
+ 046078ca858e2238e8ae37f650e81080 2091 main/binary-amd64/Packages.gz
  0ffcc46ff726cee0dc9b229895221fbd 153 main/binary-amd64/Release
  976cb4b69bad17cab5f4573736f86b71 2420 main/binary-i386/Packages
  79e454b757bd8fcf62bcd55de04d5613 1255 main/binary-i386/Packages.gz
@@ -24,8 +24,8 @@ MD5Sum:
  526dc2acc474efaade39b774fbf08763 1941 main/binary-armhf/Packages.gz
  75c004dfb99fe3d61cfb92125d752b04 153 main/binary-armhf/Release
 SHA1:
- a6d42f9e9d3ea021a830913d4f0892c5d61d7106 5081 main/binary-amd64/Packages
- 549d62fb56b4b43e31a5405219ec1f4726f37366 2096 main/binary-amd64/Packages.gz
+ 3b8e9cac9ec324850ade1de992a9046e5ff9d244 5081 main/binary-amd64/Packages
+ acccacbb63ad9b3849825d02f9435b10df31121b 2091 main/binary-amd64/Packages.gz
  5c02cafa48d1f19a55e8b097a0c3a4a7f3cbe2ef 153 main/binary-amd64/Release
  793681c023ec8e154e27a8c2a65b395faf0a6307 2420 main/binary-i386/Packages
  89d9c47162bb7267b41b58c075ff71857aaba845 1255 main/binary-i386/Packages.gz
@@ -37,8 +37,8 @@ SHA1:
  0cdc97627f590f2fc7784683501bd5d5b94e4d26 1941 main/binary-armhf/Packages.gz
  9d44a1d04ed9f8cd142dd0d309044b00bf3532df 153 main/binary-armhf/Release
 SHA256:
- beffa31660238178121c9f8138e5a8fda4fb6a0f4528d22fe146faf48e9d0160 5081 main/binary-amd64/Packages
- ee6985be5ce9103373dfd6b1349d828f1e3f254b8922c82619337634aba96dbf 2096 main/binary-amd64/Packages.gz
+ 0280b61605b8be5e12869d7659a5cf9bf5571cf8fc1d364407f55beecae196b9 5081 main/binary-amd64/Packages
+ 78226f3cda1afce63c7cdcbbd5d0d3ae33c920507dff49186a7bd26a7e99989f 2091 main/binary-amd64/Packages.gz
  3609084c12eea41f3e69a62062fd0a55101638f959d0c520f73c0d87bdcbb42f 153 main/binary-amd64/Release
  470664d664d1afa985b0c838b56504aaab2fedc828175e10d3ce8c5c40f23fb5 2420 main/binary-i386/Packages
  4b022b4dc815c1399ca186ae562f60b9f975a56a6e87d12e430cf173fc25cc8d 1255 main/binary-i386/Packages.gz
@@ -51,8 +51,8 @@ SHA256:
  daa2a6bef0df6e6c41ada598d9e80bd3b998f5ba14e8d4c9b299d4ad83a20967 153 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaoMW4AAKCRB93sGH+iUo
-lT2BAQDhQCHyphgCSGG0bY5mi+Q6jHrj/VPXX96TpP2YbQJ3hgEAxqQrxJy9Mw1k
-vvbvELCRNjgZm3WO2G8Db6yjlRTfew4=
-=Dwbl
+iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaoMW4wAKCRB93sGH+iUo
+lSTmAP4ijrBL+qsozAOnx+0frnW7gLZNhEchoAlFsqEvvCvGJgD9G4iIdNr2z2wx
+8ISXPFt47ZzoiNg9qviM5FOTeNBeWAM=
+=i6gf
 -----END PGP SIGNATURE-----
