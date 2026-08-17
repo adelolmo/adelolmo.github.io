@@ -292,7 +292,7 @@
 |resolute|main|armhf|nebulado-common|1.15.1|
 |resolute|main|armhf|nebulado-gnome|1.15.1|
 |resolute|main|armhf|nebulado-server|1.15.1|
-|resolute|main|arm64|nebulado-client|1.15.0|
+|resolute|main|arm64|nebulado-client|1.15.1|
 |resolute|main|arm64|nebulado-common|1.15.1|
 |resolute|main|arm64|nebulado-gnome|1.15.0|
 |resolute|main|arm64|nebulado-server|1.15.0|
