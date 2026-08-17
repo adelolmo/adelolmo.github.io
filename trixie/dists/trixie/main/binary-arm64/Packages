@@ -97,18 +97,18 @@ MD5sum: 1cf7af1c4bbb6add2b5d2d8cd360d173
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
-Version: 1.15.0
+Version: 1.15.1
 Architecture: arm64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebula
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-common/nebulado-common_1.15.0_arm64.deb
-Size: 5985484
-SHA256: 0ef032145b7d7f86bdf7d3ebc673b7b5f7ca2b69414c092173deebc78d384a6c
-SHA1: f1b080c4845035340d74acf68dd99fda6643a657
-MD5sum: 710b6c3cf452785c273799aced906185
+Filename: pool/main/n/nebulado-common/nebulado-common_1.15.1_arm64.deb
+Size: 5985688
+SHA256: bf262e74290c15294c5c11d430ef3c925ca4122c6867aa93c78b68ffec1922ca
+SHA1: 16140a2dcde554b7ff999aa5c3bbe43859aefd48
+MD5sum: 2ef70a897c9393519439e8c72ad9ad91
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-gnome
