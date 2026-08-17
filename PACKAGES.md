@@ -39,7 +39,7 @@
 |bookworm|main|amd64|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|amd64|mp3spmerge|1.1.0|
 |bookworm|main|amd64|nebulado-client|1.14.32|
-|bookworm|main|amd64|nebulado-common|1.14.32|
+|bookworm|main|amd64|nebulado-common|1.15.0|
 |bookworm|main|amd64|nebulado-server|1.14.32|
 |bookworm|main|amd64|noimdb|1.2.1|
 |bookworm|main|amd64|notify-mail|1.2.2|
