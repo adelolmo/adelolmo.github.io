@@ -266,7 +266,7 @@
 |noble|main|amd64|hd-idle|1.21|
 |noble|main|amd64|nebulado-client|1.15.12|
 |noble|main|amd64|nebulado-common|1.15.12|
-|noble|main|amd64|nebulado-gnome|1.15.11|
+|noble|main|amd64|nebulado-gnome|1.15.12|
 |noble|main|amd64|nebulado-server|1.15.12|
 |noble|main|amd64|raton|1.0.5|
 |noble|main|amd64|teadngine|1.1.0|
