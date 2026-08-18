@@ -72,7 +72,7 @@
 |bookworm|main|arm64|heroscribe-enhanced-skull|1.12|
 |bookworm|main|arm64|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|arm64|mp3spmerge|1.0.1|
-|bookworm|main|arm64|nebulado-client|1.15.11|
+|bookworm|main|arm64|nebulado-client|1.15.12|
 |bookworm|main|arm64|nebulado-common|1.15.12|
 |bookworm|main|arm64|nebulado-gnome|1.15.11|
 |bookworm|main|arm64|nebulado-server|1.15.11|
