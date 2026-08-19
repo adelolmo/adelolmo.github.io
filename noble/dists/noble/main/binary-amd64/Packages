@@ -55,18 +55,18 @@ MD5sum: 7dae928b0bd307b4b4cff1aba0bfbc76
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-gnome
-Version: 1.16.0
+Version: 1.17.0
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appindicator, hicolor-icon-theme
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.16.0_amd64.deb
-Size: 3202072
-SHA256: 54d1c1f34f90f717b2550f926f22bb3adf4c34c686c6abd40c32f8e90d13407c
-SHA1: fc69f66573578e16b60686ce0a66715dfc8e4691
-MD5sum: bb32e3e2c1508d6a8cd867f5611a439a
+Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.17.0_amd64.deb
+Size: 3202172
+SHA256: 2c971ae4169c71f9c059e7db55d01bde7b65b73d40c91ef08a053c6c200be6e6
+SHA1: ae86a8a67f878ca29fdc3abd5cb3a033c017aaac
+MD5sum: ed7b5bf44298dbd1a11e2cac51f787ab
 Description: Nebula VPN orchestrator (GNOME tray icon)
  System tray icon for GNOME showing VPN status and allowing
  toggle on/off via dropdown menu. Communicates with the
