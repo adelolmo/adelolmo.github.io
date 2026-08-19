@@ -3,13 +3,13 @@ Label: adelolmo
 Suite: stable
 Codename: resolute
 Version: 26.04
-Date: Wed, 19 Aug 2026 19:56:23 UTC
+Date: Wed, 19 Aug 2026 19:56:26 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo ubuntu resolute repository
 MD5Sum:
- 57b26ba409478ca8206ede43a83d2a5e 2196 main/binary-amd64/Packages
- 41126a87101f91319aaee7cfb48a80fd 890 main/binary-amd64/Packages.gz
+ 268e6213b1fc5eabc88c589988866993 2196 main/binary-amd64/Packages
+ e65d16281a0912a6fef7c02a2002b72d 887 main/binary-amd64/Packages.gz
  1d78667a83d98b8b6989104a362b6105 156 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
@@ -21,8 +21,8 @@ MD5Sum:
  d36dc25b8d94e73e4399bd9359569769 882 main/binary-arm64/Packages.gz
  8fbf6403a28a5c2e107a334d8390124b 156 main/binary-arm64/Release
 SHA1:
- fe7008294f0a1ac8783d6f8fea2afcd802132cff 2196 main/binary-amd64/Packages
- dbd5dfcd9bc2c800fd6510cc74b38face3e3861b 890 main/binary-amd64/Packages.gz
+ a780f52b88174c1bda03c2ea6695746ec555c7c5 2196 main/binary-amd64/Packages
+ d550f912c09b9d3496bf8d8007ce61ef0abf975b 887 main/binary-amd64/Packages.gz
  bd5c07f627bfdbf023b8f84f1a6494fe29e68812 156 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
@@ -34,8 +34,8 @@ SHA1:
  925c51ef858757bb17162143e4cd107045f55933 882 main/binary-arm64/Packages.gz
  0e18964c5d5890291eac724ea5352fb47b6a5faf 156 main/binary-arm64/Release
 SHA256:
- 0a7c35551990ee6190974230d4cc6a00c694ff9fa38bfa44acbbcd5771b4141e 2196 main/binary-amd64/Packages
- ab79333b3487ef4a39d3efca0a3ebc3be504bebba72aa7e5f47e7cd46f4ab735 890 main/binary-amd64/Packages.gz
+ d1fa9b4f57705897e4e2544078df8e649a21631fa2edba11f8750cc1d8a569d2 2196 main/binary-amd64/Packages
+ 42cd5547de0308ec21fe26ae4ab7508e59cee255431fe856b087fc0d8a71bb49 887 main/binary-amd64/Packages.gz
  d77deb1655b5762c60984ad7932bbf5ee384d897fbf8471cfac830d016b8ad49 156 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
