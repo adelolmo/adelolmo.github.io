@@ -350,7 +350,7 @@
 |trixie|main|amd64|nebulado-client|1.16.0|
 |trixie|main|amd64|nebulado-common|1.16.0|
 |trixie|main|amd64|nebulado-gnome|1.15.14|
-|trixie|main|amd64|nebulado-server|1.15.14|
+|trixie|main|amd64|nebulado-server|1.16.0|
 |trixie|main|amd64|noimdb|1.2.1|
 |trixie|main|amd64|notify-mail|1.2.2|
 |trixie|main|amd64|snapraid-runner|2.0.5|
