@@ -6,7 +6,7 @@ Label: adelolmo
 Suite: stable
 Codename: noble
 Version: 24.04
-Date: Wed, 19 Aug 2026 18:29:26 UTC
+Date: Wed, 19 Aug 2026 18:29:31 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo ubuntu noble repository
@@ -17,8 +17,8 @@ MD5Sum:
  7d14c43c36256733b799b7e4b1d611ec 945 main/binary-i386/Packages
  bef823ac7983e6237cfaf35c24690166 549 main/binary-i386/Packages.gz
  d0efa61cfa8cbd2583f8e135335249d7 152 main/binary-i386/Release
- 7def2f77ae5e2cc081f0a46335cc1674 3808 main/binary-armhf/Packages
- 22c267d44918844c3ed44bd898415c11 1609 main/binary-armhf/Packages.gz
+ 2c7d92b03ad4ddfc7094c249dba1867f 3806 main/binary-armhf/Packages
+ bb137b6fd6ac8e595f44032282684b4d 1617 main/binary-armhf/Packages.gz
  773896a3b6add456e9754b1fbdcc70a3 153 main/binary-armhf/Release
  745bca4e2e6978a8f46e60eee730ab40 3808 main/binary-arm64/Packages
  ddbed50d3bda136282137f2c089d8443 1602 main/binary-arm64/Packages.gz
@@ -30,8 +30,8 @@ SHA1:
  dbe5311c1e45f48ebe87fdefa612f83cf617ad96 945 main/binary-i386/Packages
  2a1b5e43f83e967cc412f365f8232ccc13e5942b 549 main/binary-i386/Packages.gz
  0b245b6b7514411fc172728431806c2a5b4b46de 152 main/binary-i386/Release
- 1da74e6ecfe50c222fcb6d3848b827f13cd12606 3808 main/binary-armhf/Packages
- e740a3263bc40ce15df844b4ca4ac10651b6782a 1609 main/binary-armhf/Packages.gz
+ 20cc7c4cf069790a998ca385dbeab32b6d5223ab 3806 main/binary-armhf/Packages
+ 6bdcb5378871927f677cc6b8399484cd3989965e 1617 main/binary-armhf/Packages.gz
  d90f98958d47d8fd51d792e779916bc77a76d6d8 153 main/binary-armhf/Release
  9a00bcc7732933f3a58b1faa0421d01a06521c27 3808 main/binary-arm64/Packages
  375b1e99519871f469f140ad7190008f5291f358 1602 main/binary-arm64/Packages.gz
@@ -43,16 +43,16 @@ SHA256:
  c09e3bf5127f8d4b811dfa6b666f242c8bc52b28fe4785c4538b83d4da0737c5 945 main/binary-i386/Packages
  e2ba7b51758d792c9811bf3f18a20458bbf3fbb540bee696d6a5d9f16a339a2f 549 main/binary-i386/Packages.gz
  b9c53520aad7bb664ed577ecb9e228eb7a18f99dfa0222e326622dba9537651d 152 main/binary-i386/Release
- 73a1c311179407fde47f7cc68fd05ad0f12e9bc99fbc6561d03ec98d23f9dce0 3808 main/binary-armhf/Packages
- 76effdbc333645e911a293a9d73de37628c5ba4570d5246aa9292e1db64a594d 1609 main/binary-armhf/Packages.gz
+ ae57a7e401ec6fb19dfc4cf991c89985e2365a6a0561b596080e91baedf06b29 3806 main/binary-armhf/Packages
+ 9dd540b439e3293a0c026b1f4383e9a9ecf24e94c4ccdf87f68f3975baf6fe33 1617 main/binary-armhf/Packages.gz
  7ed6265a7813c82568e96da49af8e2058d573c8ae357b6ac2d6dc69626ecc5ba 153 main/binary-armhf/Release
  e8f1aa7b7b0b34931e6bbabc260ba8bfeec948c2fb76c3b23593320130ee9f82 3808 main/binary-arm64/Packages
  e405e2257b170b7b4b5f81772239004f399f8aba344965e2e274161bcbdba1fc 1602 main/binary-arm64/Packages.gz
  e858213930de9662c3d34b6e737b92ef6ef84ff3c23aee89ee95e124e191f3ea 153 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaoX2BwAKCRB93sGH+iUo
-ldMkAP9PpCcrp6SPEmJH6LpW3s2vbv8jau4GFzs7fauGTiXClgEArRF2pxtpB3OQ
-LgtULbGLzw9MkgohZdhMOyp9pIcdvgA=
-=cd3j
+iHUEARYIAB0WIQSpZkntUK+tjGSZ8o593sGH+iUolQUCaoX2CwAKCRB93sGH+iUo
+lUFJAP0fI5oJEFjOSUR5JHoVdfGRbYbcINJh+yjizXNsX8XPfAD/RCbmchi1e04i
+iclFMMIgEQyLOJz8Jk8asGh2MTsIiQM=
+=CuxO
 -----END PGP SIGNATURE-----
