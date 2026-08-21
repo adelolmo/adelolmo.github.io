@@ -295,7 +295,7 @@
 |resolute|main|arm64|nebulado-client|1.18.7|
 |resolute|main|arm64|nebulado-common|1.18.7|
 |resolute|main|arm64|nebulado-gnome|1.18.6|
-|resolute|main|arm64|nebulado-server|1.18.6|
+|resolute|main|arm64|nebulado-server|1.18.7|
 |stretch|main|amd64|adguardhome|0.107.62|
 |stretch|main|amd64|delugecli|1.6.1|
 |stretch|main|amd64|eliterss|2.29.0|
