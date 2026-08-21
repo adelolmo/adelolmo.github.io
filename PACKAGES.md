@@ -40,7 +40,7 @@
 |bookworm|main|amd64|mp3spmerge|1.1.0|
 |bookworm|main|amd64|nebulado-client|1.18.7|
 |bookworm|main|amd64|nebulado-common|1.18.7|
-|bookworm|main|amd64|nebulado-gnome|1.18.6|
+|bookworm|main|amd64|nebulado-gnome|1.18.7|
 |bookworm|main|amd64|nebulado-server|1.18.7|
 |bookworm|main|amd64|noimdb|1.2.1|
 |bookworm|main|amd64|notify-mail|1.2.2|
