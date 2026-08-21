@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: resolute
 Version: 26.04
-Date: Fri, 21 Aug 2026 09:28:06 UTC
+Date: Fri, 21 Aug 2026 09:28:10 UTC
 Architectures: amd64 i386 armhf arm64
 Components: main
 Description: adelolmo ubuntu resolute repository
@@ -17,8 +17,8 @@ MD5Sum:
  71feca2a0f87b4f074ed9d30b5611749 2214 main/binary-armhf/Packages
  cb867de70ffffbf15df548f6f4a3451a 898 main/binary-armhf/Packages.gz
  a8a653eefcf4208b338924f4b7fac4c4 156 main/binary-armhf/Release
- 90df2b5965c9b061c4261c5d58813bd1 2214 main/binary-arm64/Packages
- eb0347d1eda08f598499c3b994bac972 899 main/binary-arm64/Packages.gz
+ 822e92677b80a3c2447e85432bfbb994 2214 main/binary-arm64/Packages
+ 7ce3145c091ff6eee04437200845e79c 905 main/binary-arm64/Packages.gz
  8fbf6403a28a5c2e107a334d8390124b 156 main/binary-arm64/Release
 SHA1:
  a0314f2898a1009be738468e5933ad95a278bc1f 2214 main/binary-amd64/Packages
@@ -30,8 +30,8 @@ SHA1:
  ccd9a24acc70c8d31e9aea933f22542933bf5776 2214 main/binary-armhf/Packages
  a12b48f3e5d7779458bdede8f4adbf3c3c6e3137 898 main/binary-armhf/Packages.gz
  29c4a1ed50c173d8d79c8f9a919425834eb2de5d 156 main/binary-armhf/Release
- 32a8870418746338c887da95d9030808b633907e 2214 main/binary-arm64/Packages
- 578f3fedd3c95f06d212b21d3c037f02c2389447 899 main/binary-arm64/Packages.gz
+ e69792d37bde4d133228290fece488a05e1aa561 2214 main/binary-arm64/Packages
+ 48ca64d5e160a88e40fdddcdf10b8fa9e91b5a6a 905 main/binary-arm64/Packages.gz
  0e18964c5d5890291eac724ea5352fb47b6a5faf 156 main/binary-arm64/Release
 SHA256:
  9f0db1423b7497dfa1d9d8831c3a76ef02634dae87505cfcd38b3864e7dd9da0 2214 main/binary-amd64/Packages
@@ -43,6 +43,6 @@ SHA256:
  b76b67aa4cb3a2b228b8a857892a6fcb34befe9dd7d22c1b16ab2425e8fa9257 2214 main/binary-armhf/Packages
  d1f6566d619ce07c11cec35b1d44ebae0b6e21d551098103aff18b496bc55526 898 main/binary-armhf/Packages.gz
  8869b2b5f81be458337f42d79a3a1a2ebbf3b54a921ad6136bacafa08973305c 156 main/binary-armhf/Release
- ec8c3bf908ebc75ffba6ea014ec7f0bfb72f60723d08c35bdf3c61b738b144fd 2214 main/binary-arm64/Packages
- d92953cd776aa59d9ba04a97fe8441161311903af2abafc05d28e705740379bc 899 main/binary-arm64/Packages.gz
+ 845230cb50d78b6943540aa883ac851ab97f7bc79c4e3969d28d73f8c0f4a959 2214 main/binary-arm64/Packages
+ bd037282b5add652087a9b739526b7fe295367b36272a3615fc9d68e4f6eb129 905 main/binary-arm64/Packages.gz
  7777ac78e2a6ab5e78fdf72438c248ace9aff95a26f21bea6b658cad00a1f24b 156 main/binary-arm64/Release
