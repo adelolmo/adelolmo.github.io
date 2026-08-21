@@ -74,7 +74,7 @@
 |bookworm|main|arm64|mp3spmerge|1.0.1|
 |bookworm|main|arm64|nebulado-client|1.18.8|
 |bookworm|main|arm64|nebulado-common|1.18.8|
-|bookworm|main|arm64|nebulado-gnome|1.18.7|
+|bookworm|main|arm64|nebulado-gnome|1.18.8|
 |bookworm|main|arm64|nebulado-server|1.18.8|
 |bookworm|main|arm64|noimdb|1.1.0|
 |bookworm|main|arm64|raton|1.0.1|
