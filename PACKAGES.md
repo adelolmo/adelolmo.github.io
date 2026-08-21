@@ -267,7 +267,7 @@
 |noble|main|amd64|nebulado-client|1.18.3|
 |noble|main|amd64|nebulado-common|1.18.3|
 |noble|main|amd64|nebulado-gnome|1.18.2|
-|noble|main|amd64|nebulado-server|1.18.2|
+|noble|main|amd64|nebulado-server|1.18.3|
 |noble|main|amd64|raton|1.0.5|
 |noble|main|amd64|teadngine|1.1.0|
 |noble|main|i386|raton|1.0.5|
