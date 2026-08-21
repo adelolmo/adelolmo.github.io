@@ -264,7 +264,7 @@
 |jessie|main|arm64|snapraid-runner|2.0.4|
 |jessie|main|arm64|sonoshttpapi|1.6.9~ado1|
 |noble|main|amd64|hd-idle|1.21|
-|noble|main|amd64|nebulado-client|1.18.7|
+|noble|main|amd64|nebulado-client|1.18.8|
 |noble|main|amd64|nebulado-common|1.18.8|
 |noble|main|amd64|nebulado-gnome|1.18.7|
 |noble|main|amd64|nebulado-server|1.18.7|
