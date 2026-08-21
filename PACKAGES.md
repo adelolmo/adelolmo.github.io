@@ -59,7 +59,7 @@
 |bookworm|main|armhf|mp3spmerge|1.0.1|
 |bookworm|main|armhf|nebulado-client|1.18.13|
 |bookworm|main|armhf|nebulado-common|1.18.13|
-|bookworm|main|armhf|nebulado-gnome|1.18.11|
+|bookworm|main|armhf|nebulado-gnome|1.18.13|
 |bookworm|main|armhf|nebulado-server|1.18.13|
 |bookworm|main|armhf|noimdb|1.1.0|
 |bookworm|main|armhf|raton|1.0.1|
