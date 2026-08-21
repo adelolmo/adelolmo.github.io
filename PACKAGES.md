@@ -284,7 +284,7 @@
 |noble|main|arm64|nebulado-gnome|1.18.2|
 |noble|main|arm64|nebulado-server|1.18.2|
 |noble|main|arm64|raton|1.0.5|
-|resolute|main|amd64|nebulado-client|1.18.2|
+|resolute|main|amd64|nebulado-client|1.18.3|
 |resolute|main|amd64|nebulado-common|1.18.3|
 |resolute|main|amd64|nebulado-gnome|1.18.2|
 |resolute|main|amd64|nebulado-server|1.18.2|
