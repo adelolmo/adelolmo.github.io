@@ -273,7 +273,7 @@
 |noble|main|i386|raton|1.0.5|
 |noble|main|i386|teadngine|1.0.2|
 |noble|main|armhf|hd-idle|1.21|
-|noble|main|armhf|nebulado-client|1.20.1|
+|noble|main|armhf|nebulado-client|1.20.4|
 |noble|main|armhf|nebulado-common|1.20.4|
 |noble|main|armhf|nebulado-gnome|1.20.1|
 |noble|main|armhf|nebulado-server|1.20.1|
