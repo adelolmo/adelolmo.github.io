@@ -73,18 +73,18 @@ MD5sum: 3a01e84dd02127990f335aef09d8722b
 Description: Merge Spotify mp3 chucks into a single mp3 file
 
 Package: nebulado-client
-Version: 1.20.1
+Version: 1.20.2
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common, iptables, procps
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.20.1_armhf.deb
+Filename: pool/main/n/nebulado-client/nebulado-client_1.20.2_armhf.deb
 Size: 1492
-SHA256: 770c26bd282d0552618aac318a54bf8373577a6fd0cad6df2f526ca41152c11f
-SHA1: 975a0208511ad741a086a264019399bb18637088
-MD5sum: be52d6ff7f4d87d23fdc0f86ea410499
+SHA256: 2685195fa33579a8a6e0a0503a7a5f89834f37efe8bcd60966a7f2e00c0f6c7a
+SHA1: 9da42ac8d71ed8173d31c937e02723d3175682c7
+MD5sum: e652a9cd7ef683ba856a9c39d5b98592
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
