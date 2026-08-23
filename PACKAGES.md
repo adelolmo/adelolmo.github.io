@@ -291,7 +291,7 @@
 |resolute|main|armhf|nebulado-client|1.20.4|
 |resolute|main|armhf|nebulado-common|1.20.4|
 |resolute|main|armhf|nebulado-gnome|1.20.1|
-|resolute|main|armhf|nebulado-server|1.20.1|
+|resolute|main|armhf|nebulado-server|1.20.4|
 |resolute|main|arm64|nebulado-client|1.20.1|
 |resolute|main|arm64|nebulado-common|1.20.1|
 |resolute|main|arm64|nebulado-gnome|1.20.1|
