@@ -103,18 +103,18 @@ MD5sum: 4177247ad3b7f163302971e42c361497
 Description: Merge Spotify audio books mp3 chunks into a single mp3 file
 
 Package: nebulado-client
-Version: 1.20.2
+Version: 1.20.3
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common, iptables, procps
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.20.2_amd64.deb
-Size: 1492
-SHA256: 5ef4e8765db8c6cc21966c1c23e7f78348132c205fa16b340bf888c8d19c62dd
-SHA1: 0e9c636d960bc7bdd6d6769fa343de23438e3b1f
-MD5sum: 17d5b86cb2358785b7316d91da84b446
+Filename: pool/main/n/nebulado-client/nebulado-client_1.20.3_amd64.deb
+Size: 1764
+SHA256: a24f1af4b9e07f2ca6b95299c3f6763cd8bc6696f66055734ae44edd657f55b9
+SHA1: 905e1c3abfbcf5fb445f12235879503bdb8b854d
+MD5sum: 68d9fc2d67540d8cc2343ad4e75afea4
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
