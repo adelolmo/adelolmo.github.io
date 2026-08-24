@@ -1,3 +1,23 @@
+Package: nebula
+Version: 1.11.1
+Architecture: amd64
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 35758
+Homepage: https://github.com/slackhq/nebula
+Priority: optional
+Section: net
+Filename: pool/main/n/nebula/nebula_1.11.1_amd64.deb
+Size: 14421588
+SHA256: dbed3ef27c8077e509524573b520533fc9ce6058cb3308e18ae8a89236a1a912
+SHA1: 42b050725bc5c697aa2c61f06478bfc970dc265f
+MD5sum: 23658c3883b59469034886bd912e28ae
+Description: Nebula is a scalable overlay networking tool
+ Nebula is a lightweight, performant overlay networking tool built on UDP
+ and the Noise protocol framework, designed to connect computers together
+ securely and seamlessly across cloud providers and on-premises infrastructure.
+ .
+ This package contains the nebula and nebula-cert binaries.
+
 Package: nebulado-client
 Version: 1.20.4
 Architecture: amd64
