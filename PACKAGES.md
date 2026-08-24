@@ -292,6 +292,7 @@
 |resolute|main|amd64|nebulado-common|1.20.4|
 |resolute|main|amd64|nebulado-gnome|1.20.4|
 |resolute|main|amd64|nebulado-server|1.20.4|
+|resolute|main|armhf|nebula|1.11.1|
 |resolute|main|armhf|nebulado-client|1.20.4|
 |resolute|main|armhf|nebulado-common|1.20.4|
 |resolute|main|armhf|nebulado-gnome|1.20.4|
