@@ -64,18 +64,18 @@ Description: Nebula is a scalable overlay networking tool
  This package contains the nebula and nebula-cert binaries.
 
 Package: nebulado-client
-Version: 1.20.7
+Version: 1.20.8
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common, iptables, procps
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.20.7_amd64.deb
+Filename: pool/main/n/nebulado-client/nebulado-client_1.20.8_amd64.deb
 Size: 1764
-SHA256: 129b7df97ddc27d0b17b6cf553fd01d90f3aee228bb76e6d1936998ffc335cd0
-SHA1: 6f7e9dc7f87b8820de8f580bf6ae03705663d81f
-MD5sum: 40fd5f1807481ddeb6291815e7d05dce
+SHA256: f22109d84f56fda8ed4a81e0a4c16dc5c721ea9ca252a6e9df7617195de51d42
+SHA1: f0dcea842b020c79f73c560354f0e9a248558031
+MD5sum: 8c1b83d9c9d49a8b909b67b229c07f84
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
