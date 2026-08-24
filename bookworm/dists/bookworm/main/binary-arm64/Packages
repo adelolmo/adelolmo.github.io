@@ -200,18 +200,18 @@ Description: Nebula VPN orchestrator (GNOME tray icon)
  nebulado client daemon over a Unix socket.
 
 Package: nebulado-server
-Version: 1.20.7
+Version: 1.20.8
 Architecture: arm64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-server/nebulado-server_1.20.7_arm64.deb
+Filename: pool/main/n/nebulado-server/nebulado-server_1.20.8_arm64.deb
 Size: 1524
-SHA256: 8e8a375731ab74388945e5d62c65f979ab8cd5e38673d2f28840f286cd652472
-SHA1: 51ed4b123ae153d8a9d11dcd2675865fc3aa008f
-MD5sum: 3d3ede37765f738c072e36bcc89d6446
+SHA256: 8c7941429aadb94d9f1cbb129451cb49e9f2edb9c8cc07d1457f614707b51d6b
+SHA1: 5979ac0da99f10249a6f10cbf84d30f135a47bcd
+MD5sum: f51e943b23b4b4932d5e55b3fdb75f0e
 Description: Nebula VPN orchestrator (server)
 
 Package: noimdb
