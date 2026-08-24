@@ -363,7 +363,7 @@
 |trixie|main|amd64|nebulado-client|1.20.8|
 |trixie|main|amd64|nebulado-common|1.20.8|
 |trixie|main|amd64|nebulado-gnome|1.20.7|
-|trixie|main|amd64|nebulado-server|1.20.7|
+|trixie|main|amd64|nebulado-server|1.20.8|
 |trixie|main|amd64|noimdb|1.2.1|
 |trixie|main|amd64|notify-mail|1.2.2|
 |trixie|main|amd64|snapraid-runner|2.0.5|
