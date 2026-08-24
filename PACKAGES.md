@@ -360,7 +360,7 @@
 |trixie|main|amd64|heroscribe-enhanced-skull|1.12|
 |trixie|main|amd64|mp3spmerge|1.1.0|
 |trixie|main|amd64|nebula|1.11.1|
-|trixie|main|amd64|nebulado-client|1.20.8|
+|trixie|main|amd64|nebulado-client|1.21.0|
 |trixie|main|amd64|nebulado-common|1.21.0|
 |trixie|main|amd64|nebulado-gnome|1.20.8|
 |trixie|main|amd64|nebulado-server|1.20.8|
