@@ -392,7 +392,7 @@
 |trixie|main|arm64|heroscribe-enhanced-skull|1.12|
 |trixie|main|arm64|mp3spmerge|1.0.1|
 |trixie|main|arm64|nebula|1.11.1|
-|trixie|main|arm64|nebulado-client|1.21.0|
+|trixie|main|arm64|nebulado-client|1.22.0|
 |trixie|main|arm64|nebulado-common|1.22.0|
 |trixie|main|arm64|nebulado-gnome|1.21.0|
 |trixie|main|arm64|nebulado-server|1.21.0|
