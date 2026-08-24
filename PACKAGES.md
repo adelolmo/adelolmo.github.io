@@ -59,7 +59,7 @@
 |bookworm|main|armhf|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|armhf|mp3spmerge|1.0.1|
 |bookworm|main|armhf|nebula|1.11.1|
-|bookworm|main|armhf|nebulado-client|1.21.0|
+|bookworm|main|armhf|nebulado-client|1.22.0|
 |bookworm|main|armhf|nebulado-common|1.22.0|
 |bookworm|main|armhf|nebulado-gnome|1.21.0|
 |bookworm|main|armhf|nebulado-server|1.21.0|
