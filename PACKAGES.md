@@ -62,7 +62,7 @@
 |bookworm|main|armhf|nebulado-client|1.22.0|
 |bookworm|main|armhf|nebulado-common|1.22.0|
 |bookworm|main|armhf|nebulado-gnome|1.21.0|
-|bookworm|main|armhf|nebulado-server|1.21.0|
+|bookworm|main|armhf|nebulado-server|1.22.0|
 |bookworm|main|armhf|noimdb|1.1.0|
 |bookworm|main|armhf|raton|1.0.1|
 |bookworm|main|armhf|snapraid-runner|2.0.5|
