@@ -380,7 +380,7 @@
 |trixie|main|armhf|heroscribe-enhanced-skull|1.12|
 |trixie|main|armhf|mp3spmerge|1.0.1|
 |trixie|main|armhf|nebula|1.11.1|
-|trixie|main|armhf|nebulado-client|1.21.0|
+|trixie|main|armhf|nebulado-client|1.22.0|
 |trixie|main|armhf|nebulado-common|1.22.0|
 |trixie|main|armhf|nebulado-gnome|1.21.0|
 |trixie|main|armhf|nebulado-server|1.21.0|
