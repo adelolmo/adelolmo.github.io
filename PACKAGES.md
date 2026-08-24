@@ -42,7 +42,7 @@
 |bookworm|main|amd64|nebulado-client|1.22.0|
 |bookworm|main|amd64|nebulado-common|1.22.0|
 |bookworm|main|amd64|nebulado-gnome|1.21.0|
-|bookworm|main|amd64|nebulado-server|1.21.0|
+|bookworm|main|amd64|nebulado-server|1.22.0|
 |bookworm|main|amd64|noimdb|1.2.1|
 |bookworm|main|amd64|notify-mail|1.2.2|
 |bookworm|main|amd64|raton|1.0.1|
