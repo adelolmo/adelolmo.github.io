@@ -214,7 +214,7 @@
 |jammy|main|arm64|hd-idle|1.21|
 |jammy|main|arm64|heroscribe-enhanced-skull|1.12|
 |jammy|main|arm64|nebula|1.11.1|
-|jammy|main|arm64|nebulado-client|1.21.0|
+|jammy|main|arm64|nebulado-client|1.22.0|
 |jammy|main|arm64|nebulado-common|1.22.0|
 |jammy|main|arm64|nebulado-gnome|1.21.0|
 |jammy|main|arm64|nebulado-server|1.21.0|
