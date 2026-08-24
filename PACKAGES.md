@@ -368,7 +368,7 @@
 |trixie|main|armhf|mp3spmerge|1.0.1|
 |trixie|main|armhf|nebulado-client|1.20.6|
 |trixie|main|armhf|nebulado-common|1.20.6|
-|trixie|main|armhf|nebulado-gnome|1.20.4|
+|trixie|main|armhf|nebulado-gnome|1.20.6|
 |trixie|main|armhf|nebulado-server|1.20.6|
 |trixie|main|armhf|noimdb|1.1.0|
 |trixie|main|armhf|snapraid-runner|2.0.5|
