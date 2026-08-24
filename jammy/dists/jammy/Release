@@ -3,7 +3,7 @@ Label: adelolmo
 Suite: stable
 Codename: jammy
 Version: 22.04
-Date: Mon, 24 Aug 2026 18:21:21 UTC
+Date: Mon, 24 Aug 2026 18:21:25 UTC
 Architectures: amd64 i386 arm64 armhf
 Components: main
 Description: adelolmo ubuntu jammy repository
@@ -17,8 +17,8 @@ MD5Sum:
  e3e7986fc9f78151148ef203ebe1efe3 5420 main/binary-arm64/Packages
  9581d865e9056342edc93f1ff22eb4a7 2284 main/binary-arm64/Packages.gz
  74b50f1a6b84d37193deb988938908ec 153 main/binary-arm64/Release
- 0aa0b6d25815e4ff490e4ac5749d35dd 5420 main/binary-armhf/Packages
- cd01e1c3aff8df717fbbb82a2c3b25ba 2285 main/binary-armhf/Packages.gz
+ 7a0462409283958e2a3cbcb148e39c10 5420 main/binary-armhf/Packages
+ 555f68956e00f499a1a59ff892e3d491 2292 main/binary-armhf/Packages.gz
  75c004dfb99fe3d61cfb92125d752b04 153 main/binary-armhf/Release
 SHA1:
  9c3fe02307c54f72160c0ea35a964b776b2340f8 5903 main/binary-amd64/Packages
@@ -30,8 +30,8 @@ SHA1:
  56b9d184950a43cec2aec8cf6034c89033ca5d8e 5420 main/binary-arm64/Packages
  37acfaf9ec6133deadc9cbd28ff6cf7dbc084b46 2284 main/binary-arm64/Packages.gz
  ee2398c7b5fc91894fc31d7cfd1264ac777c5870 153 main/binary-arm64/Release
- 27585cc30f69d068f43d3b5d370c445076923d87 5420 main/binary-armhf/Packages
- a3a4b59b05531ce786ac92f9f809b0dd651509f4 2285 main/binary-armhf/Packages.gz
+ 065fdf94c9e5229e036e05f3cdb8919e2638668e 5420 main/binary-armhf/Packages
+ c1f9a33736f43b30fb313a8834361485ef199303 2292 main/binary-armhf/Packages.gz
  9d44a1d04ed9f8cd142dd0d309044b00bf3532df 153 main/binary-armhf/Release
 SHA256:
  28eceae28de8c2dfa960078f84f122d3b3048e0bbb2e172c92326f7cbf054774 5903 main/binary-amd64/Packages
@@ -43,6 +43,6 @@ SHA256:
  abbd59342119a66e6c624b8d171e64bcf6b9274e387489faa741b3efad218d56 5420 main/binary-arm64/Packages
  2e8357101c73bfdeb14f8ccf79c0d6f70c4436ac7a93852879fd5f7ee70d65df 2284 main/binary-arm64/Packages.gz
  f3385c508436fae9745aca0e8d1a1b23b1f2abbe7c79de9f6af2b134deba2057 153 main/binary-arm64/Release
- 8bd34f7ae4906b055ca66213dadc2d675684ebc24dcb891954a1878efb759f0c 5420 main/binary-armhf/Packages
- 22c4047e3e497ba4f1e1d09644b667106fda368f10f922d44a33e2642f1befcd 2285 main/binary-armhf/Packages.gz
+ 3b2d2c3f801a001a8659ae359ac19db71b990f95f205c21022994c1c5c4bac98 5420 main/binary-armhf/Packages
+ 0b5432a5f58b134accf4050d86d1ae27e1fbb975fcaaabf44ef62ad890bd6e4f 2292 main/binary-armhf/Packages.gz
  daa2a6bef0df6e6c41ada598d9e80bd3b998f5ba14e8d4c9b299d4ad83a20967 153 main/binary-armhf/Release
