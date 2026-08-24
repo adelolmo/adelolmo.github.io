@@ -219,7 +219,7 @@
 |jammy|main|armhf|nebulado-client|1.20.7|
 |jammy|main|armhf|nebulado-common|1.20.7|
 |jammy|main|armhf|nebulado-gnome|1.20.6|
-|jammy|main|armhf|nebulado-server|1.20.6|
+|jammy|main|armhf|nebulado-server|1.20.7|
 |jammy|main|armhf|raton|1.0.1|
 |jessie|main|amd64|adguardhome|0.107.62|
 |jessie|main|amd64|delugecli|1.6.1|
