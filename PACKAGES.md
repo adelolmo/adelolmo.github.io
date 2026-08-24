@@ -220,6 +220,7 @@
 |jammy|main|arm64|raton|1.0.1|
 |jammy|main|armhf|hd-idle|1.21|
 |jammy|main|armhf|heroscribe-enhanced-skull|1.12|
+|jammy|main|armhf|nebula|1.11.1|
 |jammy|main|armhf|nebulado-client|1.20.7|
 |jammy|main|armhf|nebulado-common|1.20.7|
 |jammy|main|armhf|nebulado-gnome|1.20.7|

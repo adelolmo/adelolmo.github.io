@@ -43,6 +43,26 @@ Description: Easily produce typographic quality HeroQuest© maps
  EPS files can be opened by almost any CG application (GNU Ghostscript is
  recommended); maps can also be exported in PNG and PDF formats.
 
+Package: nebula
+Version: 1.11.1
+Architecture: armhf
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: 33395
+Homepage: https://github.com/slackhq/nebula
+Priority: optional
+Section: net
+Filename: pool/main/n/nebula/nebula_1.11.1_armhf.deb
+Size: 12962468
+SHA256: 7edc5e470554a18b3fb95e3706cd0dfd5f4921e9c317491d28de09639767a1f8
+SHA1: 2efd4682b0ec87197484f6a6795060175cebb763
+MD5sum: cc2c9f8f4ea937fa87a498ae873f3fd8
+Description: Nebula is a scalable overlay networking tool
+ Nebula is a lightweight, performant overlay networking tool built on UDP
+ and the Noise protocol framework, designed to connect computers together
+ securely and seamlessly across cloud providers and on-premises infrastructure.
+ .
+ This package contains the nebula and nebula-cert binaries.
+
 Package: nebulado-client
 Version: 1.20.7
 Architecture: armhf
