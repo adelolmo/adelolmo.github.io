@@ -72,10 +72,10 @@ Depends: nebulado-common, iptables, procps
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-client/nebulado-client_1.22.0_amd64.deb
-Size: 1764
-SHA256: 68dd650b88522548c7f8542df7c52f308c6ee768587a26c0b652a355c3751963
-SHA1: c30fc25aaa88fb3fa9adcf0a69db825d0d9f82e3
-MD5sum: 03f8539c2c68c80c8523a68d32e332d6
+Size: 1760
+SHA256: 4080a275f4db0a5119853f77b5f59ad601b32a6b06ec2aacf39bdce2021bf8a0
+SHA1: 4fabc2ad256aa86e72debb45dd6adf1452f16d33
+MD5sum: fcbd7f5d59ac33caa44c64229226bfbc
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
@@ -87,10 +87,10 @@ Depends: nebula
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-common/nebulado-common_1.22.0_amd64.deb
-Size: 6818168
-SHA256: ce8da1bfeccd1928bd4b350c6a7e872d4189c024cedabc2422bc4b5af44daea4
-SHA1: 86fcf8c95a5bebec2c50073392677bb1ed95f92e
-MD5sum: 226938a1bd231854842e0293a069c3b7
+Size: 7794364
+SHA256: 05a20584b321715a3210d2b815fba288eabf01196dc5415c358e0d64e82f1e50
+SHA1: 5d01df69bb34fccf4d0ac81041091e9235af3b80
+MD5sum: a2b504e8f02bd1183803b1b6a2d6784e
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-gnome
@@ -102,10 +102,10 @@ Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appi
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.22.0_amd64.deb
-Size: 3215188
-SHA256: 0c0261bdf76464235477e3a2b8cccf9eab13dea797a70699ab4e513405e706e0
-SHA1: d374295fda8d3e5491fe719466d6ec0bdded2071
-MD5sum: ed6c4ebd27a08093635a94dc740ed61c
+Size: 3739176
+SHA256: c636810f6acbde67bef721326275ea7fb74b6151b2d0697222601ac983350d79
+SHA1: 937e6af8a69802d23a2ee6de834a6c20801b84fd
+MD5sum: ff007e61804429de7e2aa02abff41323
 Description: Nebula VPN orchestrator (GNOME tray icon)
  System tray icon for GNOME showing VPN status and allowing
  toggle on/off via dropdown menu. Communicates with the
@@ -121,9 +121,9 @@ Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-server/nebulado-server_1.22.0_amd64.deb
 Size: 1528
-SHA256: 57325b6443b44c347ffa6ccc5d65287f6a7fb7f5ed3cbe7db05d6cc9786b3676
-SHA1: 91429272003a9d3eca8570dd0827886eed353b17
-MD5sum: 91825794fb1c037958f2b20b0265bba0
+SHA256: 57dadf3542efe7b3dbe61a4711395ad287fc88de4f2c3b54f7af762199a98e5a
+SHA1: 0eb66f830541089299e6f00d9b6a5997cb21f650
+MD5sum: 90c598d43bccfc36e75db3b5c20446fd
 Description: Nebula VPN orchestrator (server)
 
 Package: raton
