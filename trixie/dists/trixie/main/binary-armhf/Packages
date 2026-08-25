@@ -101,10 +101,10 @@ Depends: nebulado-common, iptables, procps
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-client/nebulado-client_1.22.0_armhf.deb
-Size: 1764
-SHA256: e6ce79dbf8d23cc1d8ce3ddad6b04d5ecc76d46432f06b734e16d947e375b24a
-SHA1: b7d8a82ddcd2d1eb88ed85e8117c1bd6ea21c255
-MD5sum: 89351b88648028c41e82e9311a9a4542
+Size: 1760
+SHA256: 055f065c2bc344df3bcf5ae0b3cdc97cecd894aa041b514bc6ce1e2ac0c349e1
+SHA1: 8bcf4a4b867bc6d878216c1d3d1f5b6499d88139
+MD5sum: 37733396c03849469672e559e8c1774a
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
@@ -116,10 +116,10 @@ Depends: nebula
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-common/nebulado-common_1.22.0_armhf.deb
-Size: 6202444
-SHA256: ef9a196a3e645603610b8bb66d8895fc4715dd827b36901349aad0e7a1ede767
-SHA1: 8cf49419ec2102038d2010163cec068e77ecd93b
-MD5sum: cfd30f7ea380b3da313d9fa293814c3f
+Size: 6962704
+SHA256: 13d6300885841b60ea9a02ca43a45f66fe45430d15e0ad6b32344d0ce8d558e0
+SHA1: bd9e079d1d38dc8c2af1ff5a559e8493683a237e
+MD5sum: 0e5175868394d42d6756bc35d3bd1f23
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-gnome
@@ -131,10 +131,10 @@ Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appi
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.22.0_armhf.deb
-Size: 2854840
-SHA256: 9c2d21cc587d4bfe352f01785752121789098122337eeb3fc77edd6acfd4a3d1
-SHA1: 073cb25d1df706f91670fc380d20760c18af13e3
-MD5sum: cdcb113278f2e1669cf0c01aa09e67b6
+Size: 3307820
+SHA256: ef7014a4ee4b9bcb468e8bb9f2eccfcc844b16cd73b3d83c536bdf58a4ffd047
+SHA1: ad98ef0664fa0274183c6acbebcdcc06abf098df
+MD5sum: 8769586ebec929f3b64a4fee97a4e4ed
 Description: Nebula VPN orchestrator (GNOME tray icon)
  System tray icon for GNOME showing VPN status and allowing
  toggle on/off via dropdown menu. Communicates with the
@@ -149,10 +149,10 @@ Depends: nebulado-common
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-server/nebulado-server_1.22.0_armhf.deb
-Size: 1532
-SHA256: 14a8f2257c654bb8ad7519343fd0e7a47ef5f576bd8323a6c2cafccfeb8b3d62
-SHA1: 1203f504c39c4a91b3c29a073a24ee71930e9961
-MD5sum: 53c5b15e0771eb99c6d20c17237f4dd6
+Size: 1524
+SHA256: 1d358a270824dd3f67d5efbaf656aa9fad8ea0267027882267fe871c67b299a8
+SHA1: a215888c679df008a9420d20eaed5b66fbd62e51
+MD5sum: fd448f8179b8191256479e3f5916790d
 Description: Nebula VPN orchestrator (server)
 
 Package: noimdb

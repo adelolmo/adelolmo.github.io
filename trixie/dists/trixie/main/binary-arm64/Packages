@@ -110,10 +110,10 @@ Depends: nebulado-common, iptables, procps
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-client/nebulado-client_1.22.0_arm64.deb
-Size: 1768
-SHA256: 5c0c0f625205039767cbd1ae4a16d1c635fbbf392f3b129b129cd1300a560c3e
-SHA1: 1d0fdd55f4655a7029a19f339b6537c1d6ad685f
-MD5sum: 59bcd7015a177f1af0f4c9ad4438d08d
+Size: 1760
+SHA256: 1356ad9af6e6f61c5ac15c0b23a68f58ad3407d3c73d348957089b39728deae3
+SHA1: 3d193ed1c442846331925023f81080f8a1fdd54f
+MD5sum: 7aa420f94d63d39f5337ab152e9c20bc
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
@@ -125,10 +125,10 @@ Depends: nebula
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-common/nebulado-common_1.22.0_arm64.deb
-Size: 6057220
-SHA256: e661b6c3e0002780f4e79fbfee08455d1fda41f4edf0526a3fce460917aefded
-SHA1: 0ea6e401fc68c47f8486d3c8667c7d889abcacf5
-MD5sum: 8075522e2e5a9560b4625486b3309bc9
+Size: 6909828
+SHA256: 6123f54a2e9ade2c5f05f2a7e9bb1084500ab90bf08a420abd4b25b736d2a7f7
+SHA1: 613c8decd4d5bb2b9a9224fd6ffe20af9dca5394
+MD5sum: 9aa9217fd757cb4ca0233920a6e103b3
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-gnome
@@ -140,10 +140,10 @@ Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appi
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.22.0_arm64.deb
-Size: 2884468
-SHA256: 27a32eeb1e6d1b70475a771be5e0e18d303cdcc02396e237487e54ca04cb5854
-SHA1: 54bec2a7e619c1bade7c241cb2871f0086c0e881
-MD5sum: 6c6bcf67965b4799a587587318a35408
+Size: 3343244
+SHA256: 492503bc17d84af60963796c36e0f5c95f054a13bb3430d0528c4df240ad6f36
+SHA1: 20580d89c8647ea45c738bf37f12d346d0da7835
+MD5sum: bb108a211729bb7803dab0d47f44e9c6
 Description: Nebula VPN orchestrator (GNOME tray icon)
  System tray icon for GNOME showing VPN status and allowing
  toggle on/off via dropdown menu. Communicates with the
@@ -158,10 +158,10 @@ Depends: nebulado-common
 Priority: standard
 Section: extras
 Filename: pool/main/n/nebulado-server/nebulado-server_1.22.0_arm64.deb
-Size: 1532
-SHA256: 84d1d2509280f9e50b93564d5c9ccb7f667915249ae464b6fbce5a9150c67b74
-SHA1: ab606edbb4e256420aa9640d1c61e9a8f243ed7e
-MD5sum: 2b683debdd2e8202e601dc0b3f09a833
+Size: 1520
+SHA256: 8d3ceefac8299f7872b938476e76ea12b546ddeb8bdc9df7a5ad4d991e0a99b8
+SHA1: 9f20c60b756ecf2109a77e14f65ae133a5f2920a
+MD5sum: 256c0c30a817f6c97c3f96eec7779fba
 Description: Nebula VPN orchestrator (server)
 
 Package: noimdb
