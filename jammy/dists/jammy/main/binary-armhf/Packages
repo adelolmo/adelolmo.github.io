@@ -64,48 +64,48 @@ Description: Nebula is a scalable overlay networking tool
  This package contains the nebula and nebula-cert binaries.
 
 Package: nebulado-client
-Version: 1.25.0
+Version: 1.25.1
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common, iptables, procps
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.25.0_armhf.deb
+Filename: pool/main/n/nebulado-client/nebulado-client_1.25.1_armhf.deb
 Size: 1784
-SHA256: f8263830b3a67f25024f351029839c8a456e08561cbfe9719f6ec1a91cdbb66f
-SHA1: 8865b7535af2904e7e0c0d9ed1b17e190868ed2f
-MD5sum: 2c7bb6cd2d07949301bcefab7a87d042
+SHA256: 5acb2f57f9c42eff365f18e561d6c035981eea41f0c443ebdc41bdce8b6668ae
+SHA1: 503df7e7a8b8f0434ed6435d38a28aab50b27e49
+MD5sum: c5f4288797f331ee2b8d5186074a6495
 Description: Nebula VPN orchestrator (client daemon)
 
 Package: nebulado-common
-Version: 1.25.0
+Version: 1.25.1
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebula
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-common/nebulado-common_1.25.0_armhf.deb
-Size: 6971548
-SHA256: 6485956c3267587b875ccecbd0769c742974e5d5f09f1975ead9ed83900cb0e3
-SHA1: f1a8c70505fd7d2f36bc1b873a327c4e19d9356f
-MD5sum: dfcc9a103ca355e12d888dc924d232cf
+Filename: pool/main/n/nebulado-common/nebulado-common_1.25.1_armhf.deb
+Size: 6971556
+SHA256: eefc8377abc26326556a240718874590b256f7d58fffb7563a27b12aa630739c
+SHA1: 1cf5ec33bf5e6ff570182e42901996327ed551d2
+MD5sum: 49da613563a4880a485940da5ad156d2
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-gnome
-Version: 1.25.0
+Version: 1.25.1
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appindicator, hicolor-icon-theme, zenity, libnotify-bin, xclip, wl-clipboard
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.25.0_armhf.deb
-Size: 3505744
-SHA256: 0e0ca46c7ca7371814b33a4239d724cf7d08920c8233e00b45f6a387ac6116b8
-SHA1: ae671befcc599df6fd604386edc3bea7433c4a48
-MD5sum: d76fcbb9b80f2b16fe8c71310f2b24bf
+Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.25.1_armhf.deb
+Size: 3505740
+SHA256: f81f489ef6aa2acff8e9dac7caa17719a75f612167898eb49671a6e9052830f3
+SHA1: 4b6b3040f5cd2700aaf3fed54953c477ff1e3fb9
+MD5sum: 2ab929de9cf1f5c3fe0cdc06ac822359
 Description: Nebula VPN orchestrator (GNOME tray icon)
  System tray icon for GNOME showing VPN status and allowing
  toggle on/off via dropdown menu. Communicates with the
@@ -116,18 +116,18 @@ Description: Nebula VPN orchestrator (GNOME tray icon)
  uses xclip (X11) or wl-clipboard (Wayland).
 
 Package: nebulado-server
-Version: 1.25.0
+Version: 1.25.1
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-server/nebulado-server_1.25.0_armhf.deb
-Size: 1524
-SHA256: 0fa3cbd15f48ac294799910ca0e22a267945878d0d41f6802db4b3a015027343
-SHA1: de8cf6c9c4c786fd70577e5ffcf284b3f96546dc
-MD5sum: 8c280a9ea29c52896b8b21d33794e73a
+Filename: pool/main/n/nebulado-server/nebulado-server_1.25.1_armhf.deb
+Size: 1528
+SHA256: ba7eaa491f4d16f6c015011d1f7581d1816e10c801953ea8b539bfb8b09420c2
+SHA1: 5b2de8c35a89e8807dd8a2dc27ea2dec0a61717a
+MD5sum: d6c36de6de7ec008f88ad65b2d0e0357
 Description: Nebula VPN orchestrator (server)
 
 Package: raton
