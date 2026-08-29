@@ -166,51 +166,51 @@ Description: Nebula is a scalable overlay networking tool
  This package contains the nebula and nebula-cert binaries.
 
 Package: nebulado-client
-Version: 1.26.0
+Version: 1.26.1
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common, iptables, procps, geoip-bin, geoip-database
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.26.0_armhf.deb
-Size: 1872
-SHA256: ced9063f491aeee9f5d0992f418a943525b74d9e7a84026c615324d851673c3b
-SHA1: 8c5d5a992fe02cd84b72bf4ddff3684ebef2ce4e
-MD5sum: 5a198cb578924e608682a820cf758398
+Filename: pool/main/n/nebulado-client/nebulado-client_1.26.1_armhf.deb
+Size: 1876
+SHA256: be1092b951789d374d53f8205618a8eca09bcca0729d85d7bee7eeaa486868ca
+SHA1: f4e19a53a2d5db349b1a5129bfe452446fcb053e
+MD5sum: 86b25ea06798422e630cedc217c14036
 Description: Nebula VPN orchestrator (client daemon)
  Nodes that offer or act as exit nodes resolve their country with
  geoiplookup (geoip-bin) so the tray can show a country flag for
  each exit node.
 
 Package: nebulado-common
-Version: 1.26.0
+Version: 1.26.1
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebula
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-common/nebulado-common_1.26.0_armhf.deb
-Size: 6975692
-SHA256: 8f020440647877ee2e7d19171e8b7f76df9e9fbb109cdcf0527872b7476b6069
-SHA1: fb124c3da58fede40a18a09b462801348ad0d2e3
-MD5sum: f11dbe9eaef4135ebb6cad8fe1b17e22
+Filename: pool/main/n/nebulado-common/nebulado-common_1.26.1_armhf.deb
+Size: 6975492
+SHA256: b1ed191e52b9fd0f48d50d0767a8453f0188bfa59d6b612fdd2da3e7027ac597
+SHA1: 9da3485de6d4ccdc3821e6d5484d87863a7cd520
+MD5sum: a71086e26e1efa286706e490bd371b76
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-gnome
-Version: 1.26.0
+Version: 1.26.1
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
-Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appindicator, hicolor-icon-theme, zenity, libnotify-bin, xclip, wl-clipboard
+Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appindicator, hicolor-icon-theme, zenity, libnotify-bin, xclip, wl-clipboard, fonts-noto-color-emoji
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.26.0_armhf.deb
-Size: 3866684
-SHA256: 315ee26c1fd2ec942f6fdb5791ec64cf33b5d26782aef0ddf3e2d1ee4c47e0fe
-SHA1: 42dd74c3f67dbe563b9b5b94a6f86990f710c9cf
-MD5sum: 1a1993bad48c845df7c38bab3fcf80cc
+Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.26.1_armhf.deb
+Size: 3508652
+SHA256: 128fbdc5a2b6569ae612400cea367a60ed4acbc2369272778c87878617ba8261
+SHA1: 17f603a5b4497469f817a05851b293d708c8b844
+MD5sum: 9dd058541ff1e74a1785b9c33af6cd52
 Description: Nebula VPN orchestrator (GNOME tray icon)
  System tray icon for GNOME showing VPN status and allowing
  toggle on/off via dropdown menu. Communicates with the
@@ -218,21 +218,22 @@ Description: Nebula VPN orchestrator (GNOME tray icon)
  .
  Setup and import dialogs require zenity; status notifications
  require libnotify-bin (notify-send); enrollment clipboard copy
- uses xclip (X11) or wl-clipboard (Wayland).
+ uses xclip (X11) or wl-clipboard (Wayland); exit node country
+ flags require fonts-noto-color-emoji.
 
 Package: nebulado-server
-Version: 1.26.0
+Version: 1.26.1
 Architecture: armhf
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-server/nebulado-server_1.26.0_armhf.deb
-Size: 1520
-SHA256: 23133362e7d0ba288d65b89a03eb70eb1e413a9e9cfab4a93c5857d08d1410c1
-SHA1: cc71f3f48b4e7e171d89ccf2e156314b5008d602
-MD5sum: 6d8fc822b42e13880ff577c40a24e64d
+Filename: pool/main/n/nebulado-server/nebulado-server_1.26.1_armhf.deb
+Size: 1524
+SHA256: ff38022e232d6627ac87ffd98926217c793f6c4b9c59d75c4caba40022c3709a
+SHA1: 3268dce9c6c1375c860ac24d82acccf28319049e
+MD5sum: 61daf01999109a1d7beafc306311de68
 Description: Nebula VPN orchestrator (server)
 
 Package: noimdb
