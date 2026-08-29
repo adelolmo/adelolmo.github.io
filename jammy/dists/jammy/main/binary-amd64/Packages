@@ -64,51 +64,51 @@ Description: Nebula is a scalable overlay networking tool
  This package contains the nebula and nebula-cert binaries.
 
 Package: nebulado-client
-Version: 1.26.0
+Version: 1.26.1
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common, iptables, procps, geoip-bin, geoip-database
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.26.0_amd64.deb
+Filename: pool/main/n/nebulado-client/nebulado-client_1.26.1_amd64.deb
 Size: 1876
-SHA256: 0844c16d5e75199cc00f49a457c28ca16dd63d694628a9e39973e6a1c2eb1692
-SHA1: c7e3383ef43ffcf0018c74b13cdab85c076a775c
-MD5sum: e60d09d8388ac51027df000906ca8b26
+SHA256: 27e89bd0fa8a7c3a7a77dbb89333bb143038a888734cc1f574699b77a424944b
+SHA1: dbf121c0527a598d966278564f0278fb6a11c381
+MD5sum: 4fa8f4fa60b78e257c4ed1aea867dfa9
 Description: Nebula VPN orchestrator (client daemon)
  Nodes that offer or act as exit nodes resolve their country with
  geoiplookup (geoip-bin) so the tray can show a country flag for
  each exit node.
 
 Package: nebulado-common
-Version: 1.26.0
+Version: 1.26.1
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebula
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-common/nebulado-common_1.26.0_amd64.deb
-Size: 7807928
-SHA256: ed4e91d27e2ef000c01ce183e3f70e8e3a587692f6dcb90093eb1f62317bb6e0
-SHA1: faf5f5c680a5906d200118ebe5277a405d5b92f3
-MD5sum: ebb17bee097534608d50dfd5984fa5e9
+Filename: pool/main/n/nebulado-common/nebulado-common_1.26.1_amd64.deb
+Size: 7807220
+SHA256: 1e7edac0694cc0f4e8b8eb8be59b197a55a5b59578bc8de32bb78319df8f37aa
+SHA1: f4734a5530411dab2861c320886c2dbe5c0a8fb4
+MD5sum: 92a60f56bccde050879ffaad6a3b4760
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-gnome
-Version: 1.26.0
+Version: 1.26.1
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
-Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appindicator, hicolor-icon-theme, zenity, libnotify-bin, xclip, wl-clipboard
+Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appindicator, hicolor-icon-theme, zenity, libnotify-bin, xclip, wl-clipboard, fonts-noto-color-emoji
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.26.0_amd64.deb
-Size: 4319440
-SHA256: d148d5c78eaeeb4ff9a30336318f5cbf35803f1f77be060c13610ef339a5f612
-SHA1: d000c23827af5b0afda46309657660f2268cdb3d
-MD5sum: c8a3fa29de0ea3f94463ba7945f1b75a
+Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.26.1_amd64.deb
+Size: 3965028
+SHA256: 109b0187dfbaa5ab13ed9a26b162acb77b2f3de9b7fd8a562558e59959cf8f50
+SHA1: bd58681edf58f4ffbbe697ae48650b1f9fe7cb9b
+MD5sum: 2ffd299e6f4c97fce0ab13a9c422e7ae
 Description: Nebula VPN orchestrator (GNOME tray icon)
  System tray icon for GNOME showing VPN status and allowing
  toggle on/off via dropdown menu. Communicates with the
@@ -116,21 +116,22 @@ Description: Nebula VPN orchestrator (GNOME tray icon)
  .
  Setup and import dialogs require zenity; status notifications
  require libnotify-bin (notify-send); enrollment clipboard copy
- uses xclip (X11) or wl-clipboard (Wayland).
+ uses xclip (X11) or wl-clipboard (Wayland); exit node country
+ flags require fonts-noto-color-emoji.
 
 Package: nebulado-server
-Version: 1.26.0
+Version: 1.26.1
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-server/nebulado-server_1.26.0_amd64.deb
-Size: 1524
-SHA256: 9b8eabc7d9a5d0013af861235d7e7746150f3f63d1befe36a539f1991b675990
-SHA1: df47f55d928b6b4b4bf23d69589175b4a76dd641
-MD5sum: a7af74681a899399fee30cd73c0d2890
+Filename: pool/main/n/nebulado-server/nebulado-server_1.26.1_amd64.deb
+Size: 1520
+SHA256: 825106eb6edbb3bceee46f7c7848c4cc2d9b849bd6a600d7b09a59d2acccd2f3
+SHA1: d403bb7da8985d5ca3d3f1b188b2a4cd89722db9
+MD5sum: 1cfdf38cdbfb1aebfd5cf9f093caf6df
 Description: Nebula VPN orchestrator (server)
 
 Package: raton
