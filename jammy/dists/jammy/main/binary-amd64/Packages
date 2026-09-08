@@ -64,51 +64,51 @@ Description: Nebula is a scalable overlay networking tool
  This package contains the nebula and nebula-cert binaries.
 
 Package: nebulado-client
-Version: 1.26.4
+Version: 1.27.0
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common, iptables, procps, geoip-bin, geoip-database
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.26.4_amd64.deb
-Size: 1876
-SHA256: fcb3869e5f63cf84f2278c3748111c43fe4589005c5373ff2e0de33140ccfdc1
-SHA1: 948b533924fa8c45c1718c1a701b890deaa88304
-MD5sum: c9cefd2e6bcb375a4a91f0899f339b8b
+Filename: pool/main/n/nebulado-client/nebulado-client_1.27.0_amd64.deb
+Size: 1880
+SHA256: d3b99d1180b015553736796e1f04cfb8bbeafe6327bf3a87ce17d8d7926d63ba
+SHA1: 60b9bed1d95aa303a201aea253ac781cdcc97c83
+MD5sum: 8401bf7add91606dbf842de16ed83c75
 Description: Nebula VPN orchestrator (client daemon)
  Nodes that offer or act as exit nodes resolve their country with
  geoiplookup (geoip-bin) so the tray can show a country flag for
  each exit node.
 
 Package: nebulado-common
-Version: 1.26.4
+Version: 1.27.0
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebula
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-common/nebulado-common_1.26.4_amd64.deb
-Size: 7807964
-SHA256: 96e3817eafa53bc1519e5a8d0c406d10fcf8e0673c445e5e0d84cb7fdbba1ea8
-SHA1: 28752d59a1ca20ba8f9cca6d161a450205390951
-MD5sum: 0ae6e56a9beeb51d2500e3681c21bada
+Filename: pool/main/n/nebulado-common/nebulado-common_1.27.0_amd64.deb
+Size: 7808524
+SHA256: b606336a46cc4fc4b5d5c4cb2c56ffd44487747e51740664b6108c11843ae047
+SHA1: 0e21091f2da3440d935aafe2ec4bca32bc1493cd
+MD5sum: bde86213f1d746f2ef321a81cf3f347d
 Description: Nebula VPN orchestrator (common files)
 
 Package: nebulado-gnome
-Version: 1.26.4
+Version: 1.27.0
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-client, libayatana-appindicator3-1, gnome-shell-extension-appindicator, hicolor-icon-theme, zenity, libnotify-bin, xclip, wl-clipboard, fonts-noto-color-emoji
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.26.4_amd64.deb
-Size: 3964628
-SHA256: 816fd7531a5a077b0c70b1e793acdf4ab844df6d880d7ffe4c37cf30cb063f71
-SHA1: ac08e259580758bf5ab5f68ce955970b31342c7b
-MD5sum: 973c8bcd2f7106024be7156b65daaeb6
+Filename: pool/main/n/nebulado-gnome/nebulado-gnome_1.27.0_amd64.deb
+Size: 3965672
+SHA256: 422d71a0743dc61ab599e59f8f8f463ed60abec5f70d08609054036c7f502b68
+SHA1: b1769529ee413616ea5c42ead24b81b428d7d4d8
+MD5sum: 7c3ebc803963caca599f2a3907353647
 Description: Nebula VPN orchestrator (GNOME tray icon)
  System tray icon for GNOME showing VPN status and allowing
  toggle on/off via dropdown menu. Communicates with the
@@ -120,18 +120,18 @@ Description: Nebula VPN orchestrator (GNOME tray icon)
  flags require fonts-noto-color-emoji.
 
 Package: nebulado-server
-Version: 1.26.4
+Version: 1.27.0
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
 Depends: nebulado-common
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-server/nebulado-server_1.26.4_amd64.deb
-Size: 1528
-SHA256: bd5c7fed21dab06dc2077b3fdbc78980d8a07b7fec94527270097a81c2e5ebaf
-SHA1: 47611a336c88c5fe7aa3733c9a4c70366fc22a77
-MD5sum: 48b00156cde81bd8bccb2ea35d8f3e6d
+Filename: pool/main/n/nebulado-server/nebulado-server_1.27.0_amd64.deb
+Size: 1524
+SHA256: b828b76279cf773e6ba3fb51b62737410bd6e08ca8d518e71c47c90806d2bdcc
+SHA1: aee134450e2f2e120286c0f5604c91ad10c6b17f
+MD5sum: acce29ea30309a8e93db9f332e253539
 Description: Nebula VPN orchestrator (server)
 
 Package: raton
