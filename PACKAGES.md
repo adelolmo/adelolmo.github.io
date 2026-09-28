@@ -38,7 +38,7 @@
 |bookworm|main|amd64|heroscribe-enhanced-skull|1.12|
 |bookworm|main|amd64|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|amd64|mp3spmerge|1.1.0|
-|bookworm|main|amd64|nebula|1.11.1|
+|bookworm|main|amd64|nebula|1.11.2|
 |bookworm|main|amd64|nebulado-client|1.27.2|
 |bookworm|main|amd64|nebulado-common|1.27.2|
 |bookworm|main|amd64|nebulado-gnome|1.27.2|
@@ -58,7 +58,7 @@
 |bookworm|main|armhf|heroscribe-enhanced-skull|1.12|
 |bookworm|main|armhf|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|armhf|mp3spmerge|1.0.1|
-|bookworm|main|armhf|nebula|1.11.1|
+|bookworm|main|armhf|nebula|1.11.2|
 |bookworm|main|armhf|nebulado-client|1.27.2|
 |bookworm|main|armhf|nebulado-common|1.27.2|
 |bookworm|main|armhf|nebulado-gnome|1.27.2|
@@ -74,7 +74,7 @@
 |bookworm|main|arm64|heroscribe-enhanced-skull|1.12|
 |bookworm|main|arm64|mergerfs|2.40.2~debian-bookworm|
 |bookworm|main|arm64|mp3spmerge|1.0.1|
-|bookworm|main|arm64|nebula|1.11.1|
+|bookworm|main|arm64|nebula|1.11.2|
 |bookworm|main|arm64|nebulado-client|1.27.2|
 |bookworm|main|arm64|nebulado-common|1.27.2|
 |bookworm|main|arm64|nebulado-gnome|1.27.2|
