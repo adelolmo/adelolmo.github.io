@@ -28,6 +28,7 @@
 |bookworm|main|i386|raton|1.0.1|
 |bookworm|main|i386|snapraid-runner|2.0.5|
 |bookworm|main|i386|sonoshttpapi|1.6.9~ado1|
+|bookworm|main|amd64|7minutes|1.0.0|
 |bookworm|main|amd64|adguardhome|0.107.65|
 |bookworm|main|amd64|createap|0.4.6~ado4|
 |bookworm|main|amd64|delauncher|2.3.5|
