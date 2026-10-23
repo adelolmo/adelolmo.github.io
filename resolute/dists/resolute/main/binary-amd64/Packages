@@ -19,19 +19,22 @@ Description: Nebula is a scalable overlay networking tool
  This package contains the nebula and nebula-cert binaries.
 
 Package: nebulado-client
-Version: 1.20.4
+Version: 1.28.2
 Architecture: amd64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
 Installed-Size: 0
-Depends: nebulado-common, iptables, procps
+Depends: nebulado-common, iptables, procps, geoip-bin, geoip-database
 Priority: standard
 Section: extras
-Filename: pool/main/n/nebulado-client/nebulado-client_1.20.4_amd64.deb
-Size: 1764
-SHA256: 8078892b334981d588325cccc22532b400ec3a633b513d98b169c41c11df618e
-SHA1: 775290b793b02507a6c127826db85828685a8582
-MD5sum: 81be70543b93d386e4930619351997e1
+Filename: pool/main/n/nebulado-client/nebulado-client_1.28.2_amd64.deb
+Size: 1872
+SHA256: 29f11bb3920ce550c2b8c943ab6c74ba6c3085faab0987bba8c6b2b5a5329791
+SHA1: 244a3f99be284f2fd992062bd772337c8e64aedb
+MD5sum: 9c00c8f6c3a1692f1b0e309888789b84
 Description: Nebula VPN orchestrator (client daemon)
+ Nodes that offer or act as exit nodes resolve their country with
+ geoiplookup (geoip-bin) so the tray can show a country flag for
+ each exit node.
 
 Package: nebulado-common
 Version: 1.20.4
