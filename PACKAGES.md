@@ -271,7 +271,7 @@
 |jessie|main|arm64|snapraid-runner|2.0.4|
 |jessie|main|arm64|sonoshttpapi|1.6.9~ado1|
 |noble|main|amd64|hd-idle|1.21|
-|noble|main|amd64|nebula|1.11.1|
+|noble|main|amd64|nebula|1.12.0|
 |noble|main|amd64|nebulado-client|1.20.4|
 |noble|main|amd64|nebulado-common|1.20.4|
 |noble|main|amd64|nebulado-gnome|1.20.4|
@@ -281,14 +281,14 @@
 |noble|main|i386|raton|1.0.5|
 |noble|main|i386|teadngine|1.0.2|
 |noble|main|armhf|hd-idle|1.21|
-|noble|main|armhf|nebula|1.11.1|
+|noble|main|armhf|nebula|1.12.0|
 |noble|main|armhf|nebulado-client|1.20.4|
 |noble|main|armhf|nebulado-common|1.20.4|
 |noble|main|armhf|nebulado-gnome|1.20.4|
 |noble|main|armhf|nebulado-server|1.20.4|
 |noble|main|armhf|raton|1.0.5|
 |noble|main|arm64|hd-idle|1.21|
-|noble|main|arm64|nebula|1.11.1|
+|noble|main|arm64|nebula|1.12.0|
 |noble|main|arm64|nebulado-client|1.20.4|
 |noble|main|arm64|nebulado-common|1.20.4|
 |noble|main|arm64|nebulado-gnome|1.20.4|
