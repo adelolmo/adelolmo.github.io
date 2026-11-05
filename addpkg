@@ -12,6 +12,8 @@ fi
 DISTRIBUTION=$1
 PACKAGE=$2
 
+git pull
+
 reprepro --ask-passphrase --verbose --basedir "${DISTRIBUTION}" includedeb "${DISTRIBUTION}" "${PACKAGE}"
 
 echo
