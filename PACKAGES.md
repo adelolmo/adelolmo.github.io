@@ -360,7 +360,7 @@
 |trixie|main|amd64|hd-idle|1.21|
 |trixie|main|amd64|heroscribe-enhanced-skull|1.12|
 |trixie|main|amd64|mp3spmerge|1.1.0|
-|trixie|main|amd64|nebula|1.11.2|
+|trixie|main|amd64|nebula|1.12.0|
 |trixie|main|amd64|nebulado-client|1.28.2|
 |trixie|main|amd64|nebulado-common|1.28.2|
 |trixie|main|amd64|nebulado-gnome|1.28.2|
@@ -380,7 +380,7 @@
 |trixie|main|armhf|hd-idle|1.21|
 |trixie|main|armhf|heroscribe-enhanced-skull|1.12|
 |trixie|main|armhf|mp3spmerge|1.0.1|
-|trixie|main|armhf|nebula|1.11.2|
+|trixie|main|armhf|nebula|1.12.0|
 |trixie|main|armhf|nebulado-client|1.28.2|
 |trixie|main|armhf|nebulado-common|1.28.2|
 |trixie|main|armhf|nebulado-gnome|1.28.2|
@@ -392,7 +392,7 @@
 |trixie|main|arm64|hd-idle|1.21|
 |trixie|main|arm64|heroscribe-enhanced-skull|1.12|
 |trixie|main|arm64|mp3spmerge|1.0.1|
-|trixie|main|arm64|nebula|1.11.2|
+|trixie|main|arm64|nebula|1.12.0|
 |trixie|main|arm64|nebulado-client|1.28.2|
 |trixie|main|arm64|nebulado-common|1.28.2|
 |trixie|main|arm64|nebulado-gnome|1.28.2|

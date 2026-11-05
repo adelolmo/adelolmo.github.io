@@ -82,18 +82,18 @@ MD5sum: 3a01e84dd02127990f335aef09d8722b
 Description: Merge Spotify mp3 chucks into a single mp3 file
 
 Package: nebula
-Version: 1.11.2
+Version: 1.12.0
 Architecture: arm64
 Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
-Installed-Size: 33361
+Installed-Size: 29330
 Homepage: https://github.com/slackhq/nebula
 Priority: optional
 Section: net
-Filename: pool/main/n/nebula/nebula_1.11.2_arm64.deb
-Size: 12970064
-SHA256: 4bbdd4988a095daf9b70e633d16542d44b8f64f2a3c88d4c08919d30557e527d
-SHA1: 80c118cb03eef61be174e48b25adbd7e6f1b66a6
-MD5sum: 5923ff966b06ae159fd92f9a3e6d9925
+Filename: pool/main/n/nebula/nebula_1.12.0_arm64.deb
+Size: 12281900
+SHA256: d0c9d81f7fd9ee5583ddaf7fc0e1987a6408b298d006f4d62e1047f9992d2a75
+SHA1: ed48f2d3ca79640aabbe99570155fc01f3e61000
+MD5sum: 42ae81e03f97ec2513a8c0bd282d7cd0
 Description: Nebula is a scalable overlay networking tool
  Nebula is a lightweight, performant overlay networking tool built on UDP
  and the Noise protocol framework, designed to connect computers together
